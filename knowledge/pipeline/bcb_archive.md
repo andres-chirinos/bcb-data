@@ -45,7 +45,7 @@ conserva datos limpios y cada uno remite a su crudo mediante
 `bcb_lineage.py`.
 
 * Script: [scripts/05_archivo/bcb_archive.py](scripts/05_archivo/bcb_archive.py)
-* SHA-256: `sha256:960d63268f81d1a279a4ccb7932761b4ec8001352f0719917aa5ebb3e17b6981`
+* SHA-256: `sha256:ec128e97f9d4092189be112864d5cdea2acad9e1316f168095a32fb508bec6d0`
 * Dependencias: [scripts/05_archivo/requirements.txt](scripts/05_archivo/requirements.txt)
 * Salida: `knowledge/data/documentos/archivo.csv`
 
@@ -90,4 +90,7 @@ python3 knowledge/pipeline/scripts/05_archivo/bcb_archive.py
 * Wayback puede capturar una versión distinta si el BCB reemplazó el archivo;
   `--verify` lo detecta con `hash_distinto`.
 * Sin red o sin cuota el estado queda `fallo`/`error` y el linaje cae a la URL original.
+* Estado actual: 92 filas en `archivo.csv`, de las cuales 81 están `archivado` y 11
+  `fallo`; 80 de las capturas son usadas por las familias limpias. El script es
+  reanudable, por lo que una nueva corrida procesa sólo los pendientes.
 

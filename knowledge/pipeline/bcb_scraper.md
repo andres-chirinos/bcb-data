@@ -47,7 +47,7 @@ Script autocontenido (más `requests` y `beautifulsoup4`) que:
 
 * Script: [scripts/01_api/bcb_scraper.py](scripts/01_api/bcb_scraper.py)
 * Dependencias: [scripts/01_api/requirements.txt](scripts/01_api/requirements.txt)
-* SHA-256: `sha256:59f3881dd16b4c1ee29e1abe27c5abec3477f0660bf4683fe83c020ad5609a45`
+* SHA-256: `sha256:cf06e46d90ad8126b71efd2975ed60385454c6835ef08f167610289245d8938d`
 
 ## Operational Interaction & Example Queries
 

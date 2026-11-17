@@ -43,7 +43,7 @@ panel tidy. Los XLS, XLSB y ODS se convierten primero a XLSX con LibreOffice
   (`pandas`, `openpyxl`, `xlrd`, `odfpy`) y el clon local de `unpivotr`
   apuntado por `UNPIVOTR_SRC` (por defecto
   `/home/andreschirinos/Proyectos/unpivotr-clone/src`).
-* SHA-256: `sha256:47d15cfc4b6369abfe6964ea637fa92ba78247840134c90ee287cef76bf568a8`
+* SHA-256: `sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906`
 
 ## Operational Interaction & Example Queries
 
@@ -127,8 +127,10 @@ Cada familia genera además:
 | `resumen.json` | Conteos de la familia. |
 
 En la raíz de salida se escriben `catalogo_series.csv` y
-`resumen_familias_datos.json`. La corrida completa se guarda fuera del bundle,
-en `data/familias/`, porque su volumen es mucho mayor que el catálogo.
+`resumen_familias_datos.json`. La corrida completa se guarda en
+`data/familias/`, porque su volumen es mucho mayor que el catálogo. La
+ejecución actual produjo 32 familias, 1.564.523 filas y 26.639 series, con 0
+errores de extracción.
 
 ## Methodology, Scope & Biases
 

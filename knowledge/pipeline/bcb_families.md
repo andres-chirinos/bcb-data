@@ -41,7 +41,7 @@ tabular** y escribe un catálogo que sirve de entrada al normalizador
 [bcb_tidy_families.py](bcb_tidy_families.md).
 
 * Script: [scripts/03_familias/bcb_families.py](scripts/03_familias/bcb_families.py)
-* SHA-256: `sha256:7ab2f75b4b8ead641baca43d0b48a0bcced8fd6576c2bb736199e83b865ba288`
+* SHA-256: `sha256:b97a4c9690f89cad60eac90cf7af4890e0238a835f85501ca5b601fc270fd4fe`
 * Catálogo: [familias_catalogo.csv](../data/familias_catalogo.csv)
 * Resumen: [familias_resumen.json](../data/familias_resumen.json)
 

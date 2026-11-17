@@ -77,6 +77,6 @@ original, `hash` = `sha256:…`, `format` = extensión y `description` = URL ori
 
 * Idempotente: reemplaza los recursos `familia_*` y conserva el resto.
 * Las fuentes salen de lo realmente usado (`archivo` en `datos.csv`), no del catálogo.
-* Estado actual: 32 recursos, 1.144 fuentes crudas, grafo de 1.211 nodos y 2.290
-  aristas; aún sin capturas Wayback hasta ejecutar la etapa 05.
+* Estado actual: 32 recursos, 1.144 fuentes crudas, 80 fuentes con captura
+  Wayback, grafo de 1.211 nodos y 2.290 aristas.
 
