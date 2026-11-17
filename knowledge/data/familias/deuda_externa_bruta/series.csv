@@ -1,0 +1,21 @@
+serie_id,familia,serie,unidad,primera_fecha,ultima_fecha,n_observaciones,n_archivos,publicacion_ultima
+DEUDA_EXTERNA_BRUTA__BANCO_CENTRAL_2_Y_3,deuda_externa_bruta,Banco Central 2/ y 3/,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__CORTO_PLAZO,deuda_externa_bruta,Corto Plazo,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__CREDITOS_Y_ANTICIPOS_COMERCIALES,deuda_externa_bruta,Créditos y Anticipos Comerciales,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__DERECHOS_ESPECIALES_DE_GIRO_ASIGNACIONES,deuda_externa_bruta,Derechos Especiales de Giro (asignaciones),,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__DERECHOS_ESPECIALES_DE_GIRO_ASIGNACIONES_2,deuda_externa_bruta,Derechos Especiales de Giro (asignaciones) 2/,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__GOBIERNO_GENERAL_1,deuda_externa_bruta,Gobierno General 1/,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__HOGARES_E_ISFL_QUE_SIRVEN_A_LOS_HOGARES,deuda_externa_bruta,Hogares e ISFL que Sirven a los Hogares,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__INVERSION_DIRECTA_CREDITO_ENTRE_EMPRESAS,deuda_externa_bruta,Inversión Directa: Crédito entre Empresas,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__LARGO_PLAZO,deuda_externa_bruta,Largo Plazo,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__MONEDA_Y_DEPOSITOS,deuda_externa_bruta,Moneda y Depósitos,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__MONEDA_Y_DEPOSITOS_3,deuda_externa_bruta,Moneda y Depósitos 3/,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__OTRAS_SOCIEDADES_FINANCIERAS,deuda_externa_bruta,Otras Sociedades Financieras,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__OTRAS_SOCIEDADES_NO_FINANCIERAS,deuda_externa_bruta,Otras Sociedades no Financieras,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__OTROS_PASIVOS_DE_DEUDA,deuda_externa_bruta,Otros Pasivos de Deuda,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__OTROS_SECTORES,deuda_externa_bruta,Otros Sectores,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__PASIVOS_DE_DEUDA_DE_EID_FRENTE_A_INVERSIONISTAS_DIRECTOS,deuda_externa_bruta,Pasivos de Deuda de EID frente a Inversionistas Directos,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__PRESTAMOS,deuda_externa_bruta,Préstamos,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__SALDO_BRUTO_DE_LA_DEUDA_EXTERNA,deuda_externa_bruta,Saldo Bruto de la Deuda Externa,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__SOCIEDADES_CAPTADORAS_DE_DEPOSITOS_EXCEPTO_EL_BCB,deuda_externa_bruta,Sociedades Captadoras de Depósitos excepto el BCB,,2017-01-01,2026-11-01,8,2,2026-11-01
+DEUDA_EXTERNA_BRUTA__TITULOS_DE_DEUDA,deuda_externa_bruta,Títulos de Deuda,,2017-01-01,2026-11-01,8,2,2026-11-01

@@ -1,0 +1,67 @@
+serie_id,familia,serie,unidad,primera_fecha,ultima_fecha,n_observaciones,n_archivos,publicacion_ultima
+SECTOR_EXTERNO_INVERSION_DIRECTA__ACCIONES_Y_OTRAS_PARTICIPACIONES_DE_CAPITAL,sector_externo_inversion_directa,Acciones y Otras Participaciones de Capital,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__AGRICULTURA_GANADERIA_CAZA_Y_SILVICULTURA,sector_externo_inversion_directa,"Agricultura, Ganadería, Caza y Silvicultura",Expresado en millones de $us,2006-01-01,2026-06-30,75,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__ALEMANIA,sector_externo_inversion_directa,Alemania,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__ANTILLAS_HOLANDESAS_2,sector_externo_inversion_directa,Antillas Holandesas 2,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__ARGENTINA,sector_externo_inversion_directa,Argentina,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__AUSTRALIA,sector_externo_inversion_directa,Australia,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__AUSTRIA,sector_externo_inversion_directa,Austria,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__BAHAMAS,sector_externo_inversion_directa,Bahamas,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__BARBADOS,sector_externo_inversion_directa,Barbados,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__BELGICA,sector_externo_inversion_directa,Bélgica,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__BERMUDAS,sector_externo_inversion_directa,Bermudas,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__BRASIL,sector_externo_inversion_directa,Brasil,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__CANADA,sector_externo_inversion_directa,Canadá,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__CHILE,sector_externo_inversion_directa,Chile,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__CHINA,sector_externo_inversion_directa,China,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__COLOMBIA,sector_externo_inversion_directa,Colombia,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__COMERCIO_AL_POR_MAYOR_Y_MENOR,sector_externo_inversion_directa,Comercio al por Mayor y Menor,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__COMPRA_DE_ACCIONES_POR_YPFB,sector_externo_inversion_directa,Compra de acciones por YPFB,Expresado en millones de $us,2007-01-01,2009-01-01,3,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__CONSTRUCCION,sector_externo_inversion_directa,Construcción,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__COREA_DEL_NORTE,sector_externo_inversion_directa,Corea del Norte,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__COREA_DEL_SUR,sector_externo_inversion_directa,Corea del Sur,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__COSTA_RICA,sector_externo_inversion_directa,Costa Rica,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__DESINVERSION,sector_externo_inversion_directa,Desinversión,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__DINAMARCA,sector_externo_inversion_directa,Dinamarca,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__ECUADOR,sector_externo_inversion_directa,Ecuador,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__ESPANA,sector_externo_inversion_directa,España,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__ESTADOS_UNIDOS,sector_externo_inversion_directa,Estados Unidos,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__EXPLOTACION_Y_EXPLORACION_DE_MINAS_Y_CANTERAS,sector_externo_inversion_directa,Explotación y Exploración de Minas y Canteras,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__EXPLOTACION_Y_EXPLORACION_DE_PETROLEO_CRUDO_Y_GAS_NATURAL,sector_externo_inversion_directa,Explotación y Exploración de Petróleo Crudo y Gas Natural,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__FRANCIA,sector_externo_inversion_directa,Francia,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__IED_BRUTA,sector_externo_inversion_directa,IED Bruta,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__III_IED_BRUTA_POR_MODALIDAD,sector_externo_inversion_directa,III. IED Bruta por Modalidad,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__II_IED_BRUTA_POR_ACTIVIDAD_ECONOMICA_2,sector_externo_inversion_directa,II.  IED Bruta por Actividad Económica 2,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__INDUSTRIA_MANUFACTURERA,sector_externo_inversion_directa,Industria Manufacturera,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__INTERMEDIACION_FINANCIERA,sector_externo_inversion_directa,Intermediación Financiera,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__IRLANDA_EIRE,sector_externo_inversion_directa,Irlanda (EIRE),,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__ISLAS_CAIMAN,sector_externo_inversion_directa,Islas Caimán,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__ISLAS_VIRGENES_BRITANICAS,sector_externo_inversion_directa,Islas Vírgenes (Británicas),,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__ISLAS_VIRGENES_NORTEAMERICANAS,sector_externo_inversion_directa,Islas Vírgenes (Norteamericanas),,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__ITALIA,sector_externo_inversion_directa,Italia,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__I_IED_NETA_1,sector_externo_inversion_directa,I.   IED (neta) 1,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__JAPON,sector_externo_inversion_directa,Japón,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__LIECHTENSTEIN,sector_externo_inversion_directa,Liechtenstein,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__LUXEMBURGO,sector_externo_inversion_directa,Luxemburgo,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__MEXICO,sector_externo_inversion_directa,México,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__MULTILATERAL,sector_externo_inversion_directa,Multilateral,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__NUEVA_ZELANDIA,sector_externo_inversion_directa,Nueva Zelandia,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__OTROS_PAISES,sector_externo_inversion_directa,Otros países,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__OTROS_SERVICIOS,sector_externo_inversion_directa,Otros Servicios,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__PAISES_BAJOS_HOLANDA,sector_externo_inversion_directa,Países Bajos (Holanda),,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__PANAMA,sector_externo_inversion_directa,Panamá,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__PARAGUAY,sector_externo_inversion_directa,Paraguay,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__PERU,sector_externo_inversion_directa,Perú,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__PRESTAMOS_INTRAFIRMA_Y_OTROS_APORTES,sector_externo_inversion_directa,Préstamos Intrafirma y Otros Aportes,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__PRODUCCION_Y_DISTRIBUCION_DE_ENERGIA_ELECTRICA_GAS_Y_AGUA,sector_externo_inversion_directa,"Producción y Distribución de Energía Eléctrica, Gas y Agua",Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__RB_DE_VENEZUELA,sector_externo_inversion_directa,R.B. de Venezuela,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__REINO_UNIDO,sector_externo_inversion_directa,Reino Unido,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__SERVICIO_DE_HOTELES_Y_RESTAURANTES,sector_externo_inversion_directa,Servicio de Hoteles y Restaurantes,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__SUECIA,sector_externo_inversion_directa,Suecia,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__SUIZA,sector_externo_inversion_directa,Suiza,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__TOTAL_1,sector_externo_inversion_directa,TOTAL 1,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__TRANSPORTE_ALMACENAMIENTO_Y_COMUNICACIONES,sector_externo_inversion_directa,"Transporte, Almacenamiento y Comunicaciones",Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__TRINIDAD_Y_TOBAGO,sector_externo_inversion_directa,Trinidad y Tobago,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__URUGUAY,sector_externo_inversion_directa,Uruguay,,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__UTILIDADES_REINVERTIDAS,sector_externo_inversion_directa,Utilidades Reinvertidas,Expresado en millones de $us,2000-01-01,2026-06-30,81,1,2026-11-01
+SECTOR_EXTERNO_INVERSION_DIRECTA__YUGOSLAVIA,sector_externo_inversion_directa,Yugoslavia,,2000-01-01,2026-06-30,81,1,2026-11-01

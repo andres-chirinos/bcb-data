@@ -1,0 +1,7 @@
+*.har
+__pycache__
+.ruff_cache/
+familias/.cache/
+familias/datos/
+familias/partes/
+knowledge/data/familias/.cache/

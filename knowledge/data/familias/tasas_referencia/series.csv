@@ -1,0 +1,5 @@
+serie_id,familia,serie,unidad,primera_fecha,ultima_fecha,n_observaciones,n_archivos,publicacion_ultima
+TASAS_REFERENCIA__ME,tasas_referencia,ME,En porcentaje,2001-12-30,2026-09-01,960,21,2026-11-01
+TASAS_REFERENCIA__MN,tasas_referencia,MN,En porcentaje,2001-12-30,2026-09-01,960,21,2026-11-01
+TASAS_REFERENCIA__MN_UFV,tasas_referencia,MN-UFV,En porcentaje,2001-12-30,2026-09-01,960,21,2026-11-01
+TASAS_REFERENCIA__MVDOL,tasas_referencia,MVDOL,En porcentaje,2001-12-30,2026-09-01,960,21,2026-11-01

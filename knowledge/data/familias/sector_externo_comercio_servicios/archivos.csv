@@ -1,0 +1,13 @@
+archivo,hoja,estado,filas,metodo,error
+Comercio exterior de servicios.xlsx,Comercio servicios - Anual,ok,1066,wide,
+Comercio exterior de servicios.xlsx,Comercio servicios - Trimestral,ok,2898,wide,
+Exportacion de servicios segun modo de suministro.xlsx,Exp por modo - Anual,ok,60,category,
+Exportacion de servicios segun modo de suministro.xlsx,Exp por modo - Trimestral,ok,90,category,
+Exportacion de servicios segun pais.xlsx,Exp por país - Anual,ok,135,wide,
+Exportacion de servicios segun pais.xlsx,Exp por país - Trimestral,ok,135,category,
+Importacion de servicios segun modo de suministro.xlsx,Imp por modo - Anual,ok,72,category,
+Importacion de servicios segun modo de suministro.xlsx,Imp por modo - Trimestral,ok,90,category,
+Importacion de servicios segun país.xlsx,Imp por país - Anual,ok,108,category,
+Importacion de servicios segun país.xlsx,Imp por país - Trimestral,ok,135,category,
+Saldo comercial de servicios segun país.xlsx,Saldo por país - Anual,ok,115,wide,
+Saldo comercial de servicios segun país.xlsx,Saldo por país - Trimestral,ok,115,category,

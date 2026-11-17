@@ -1,0 +1,431 @@
+﻿sector,corte,variacion,fecha,fecha_iso,variable,valor,anterior,delta
+Agregados Monetarios,diario,acumulada,6/11/2026,2026-11-06,M1',143171.83357858998,134080.52227724,9091.311301349982
+Agregados Monetarios,diario,acumulada,6/11/2026,2026-11-06,M1/M1',94.48856582797163,96.67269959569116,-2.18413376771953
+Agregados Monetarios,diario,acumulada,6/11/2026,2026-11-06,M2',235531.10699210997,217044.29349755,18486.81349455996
+Agregados Monetarios,diario,acumulada,6/11/2026,2026-11-06,M2/M2',92.83025315364154,95.29218266174996,-2.461929508108426
+Agregados Monetarios,diario,acumulada,6/11/2026,2026-11-06,M3',362032.4243412,332748.8284703901,29283.595870809862
+Agregados Monetarios,diario,acumulada,6/11/2026,2026-11-06,M3/M3',91.61614382561375,94.57103498138763,-2.954891155773879
+Agregados Monetarios,mensual,acumulada,31/10/2026,2026-10-31,M1',142944.60580676,134080.52227724,8864.083529519994
+Agregados Monetarios,mensual,acumulada,31/10/2026,2026-10-31,M1/M1',94.31705753937877,96.67269959569116,-2.3556420563123908
+Agregados Monetarios,mensual,acumulada,31/10/2026,2026-10-31,M2',235020.92653916002,217044.29349755,17976.63304161001
+Agregados Monetarios,mensual,acumulada,31/10/2026,2026-10-31,M2/M2',92.6108650138836,95.29218266174996,-2.681317647866365
+Agregados Monetarios,mensual,acumulada,31/10/2026,2026-10-31,M3',361806.33313950006,332748.8284703901,29057.50466910994
+Agregados Monetarios,mensual,acumulada,31/10/2026,2026-10-31,M3/M3',91.38633352515862,94.57103498138763,-3.184701456229007
+Agregados Monetarios,mensual,interanual,31/10/2026,2026-10-31,M1',142944.60580676,128520.13618330998,14424.469623450015
+Agregados Monetarios,mensual,interanual,31/10/2026,2026-10-31,M1/M1',94.31705753937877,96.32931223013858,-2.0122546907598178
+Agregados Monetarios,mensual,interanual,31/10/2026,2026-10-31,M2',235020.92653916002,205736.45482416998,29284.47171499004
+Agregados Monetarios,mensual,interanual,31/10/2026,2026-10-31,M2/M2',92.6108650138836,94.89807014206562,-2.2872051281820234
+Agregados Monetarios,mensual,interanual,31/10/2026,2026-10-31,M3',361806.33313950006,321311.2066957201,40495.12644377997
+Agregados Monetarios,mensual,interanual,31/10/2026,2026-10-31,M3/M3',91.38633352515862,94.37488800268456,-2.9885544775259376
+Agregados Monetarios,mensual,mensual,31/10/2026,2026-10-31,M1',142944.60580676,140566.57689245994,2378.0289143000555
+Agregados Monetarios,mensual,mensual,31/10/2026,2026-10-31,M1/M1',94.31705753937877,94.43405223404167,-0.1169946946629068
+Agregados Monetarios,mensual,mensual,31/10/2026,2026-10-31,M2',235020.92653916002,232558.82365596993,2462.1028831900912
+Agregados Monetarios,mensual,mensual,31/10/2026,2026-10-31,M2/M2',92.6108650138836,92.63065176243205,-0.01978674854845508
+Agregados Monetarios,mensual,mensual,31/10/2026,2026-10-31,M3',361806.33313950006,359617.2290383,2189.104101200064
+Agregados Monetarios,mensual,mensual,31/10/2026,2026-10-31,M3/M3',91.38633352515862,91.25604090643526,0.1302926187233595
+Agregados Monetarios,semanal,acumulada,31/10/2026,2026-10-31,M1',142944.60580676,134080.52227724,8864.083529519994
+Agregados Monetarios,semanal,acumulada,31/10/2026,2026-10-31,M1/M1',94.31705753937877,96.67269959569116,-2.3556420563123908
+Agregados Monetarios,semanal,acumulada,31/10/2026,2026-10-31,M2',235020.92653916002,217044.29349755,17976.63304161001
+Agregados Monetarios,semanal,acumulada,31/10/2026,2026-10-31,M2/M2',92.6108650138836,95.29218266174996,-2.681317647866365
+Agregados Monetarios,semanal,acumulada,31/10/2026,2026-10-31,M3',361806.33313950006,332748.8284703901,29057.50466910994
+Agregados Monetarios,semanal,acumulada,31/10/2026,2026-10-31,M3/M3',91.38633352515862,94.57103498138763,-3.184701456229007
+Banca Central,diario,acumulada,6/11/2026,2026-11-06,Base Monetaria,153156.9192207655,150581.89931148544,2575.0199092800613
+Banca Central,diario,acumulada,6/11/2026,2026-11-06,Base monetaria en moneda nacional (MN + UFV),128323.2768930342,132264.57555608902,-3941.2986630548257
+Banca Central,diario,acumulada,6/11/2026,2026-11-06,Billetes y Monedas,91895.74145792,91032.63843044,863.1030274799996
+Banca Central,diario,acumulada,6/11/2026,2026-11-06,Crédito Interno Neto,58486.93619718417,77814.53743821832,-19327.60124103415
+Banca Central,diario,acumulada,6/11/2026,2026-11-06,Crédito Neto al SPNF,153595.8474412301,159076.14783068473,-5480.300389454642
+Banca Central,diario,acumulada,6/11/2026,2026-11-06,Crédito a otros sectores (financiero y privado),16247.2660571798,24070.227499685403,-7822.9614425056025
+Banca Central,diario,acumulada,6/11/2026,2026-11-06,Crédito del BCB al SPNF,199755.8890398121,197179.8962625904,2575.9927772216906
+Banca Central,diario,acumulada,6/11/2026,2026-11-06,Depósitos del SPNF en el BCB,-46160.04159858196,-38103.748431905704,-8056.29316667626
+Banca Central,diario,acumulada,6/11/2026,2026-11-06,Emisión Monetaria,106833.3674977,103287.3960059,3545.97149180001
+Banca Central,diario,acumulada,6/11/2026,2026-11-06,Reservas bancarias,61261.17776284553,59549.26088104541,1711.9168818001199
+Banca Central,mensual,acumulada,31/10/2026,2026-10-31,Base Monetaria,153054.7943278649,150581.89931148544,2472.8950163794507
+Banca Central,mensual,acumulada,31/10/2026,2026-10-31,Base monetaria en moneda nacional (MN + UFV),126472.2048975056,132264.57555608902,-5792.37065858343
+Banca Central,mensual,acumulada,31/10/2026,2026-10-31,Billetes y Monedas,90801.7350005,91032.63843044,-230.90342993999366
+Banca Central,mensual,acumulada,31/10/2026,2026-10-31,Crédito Interno Neto,58136.0247672421,77814.53743821832,-19678.51267097622
+Banca Central,mensual,acumulada,31/10/2026,2026-10-31,Crédito Neto al SPNF,151009.5435281288,159076.14783068473,-8066.604302555934
+Banca Central,mensual,acumulada,31/10/2026,2026-10-31,Crédito a otros sectores (financiero y privado),17836.5053790614,24070.227499685403,-6233.722120624003
+Banca Central,mensual,acumulada,31/10/2026,2026-10-31,Crédito del BCB al SPNF,199107.07299375,197179.8962625904,1927.1767311595904
+Banca Central,mensual,acumulada,31/10/2026,2026-10-31,Depósitos del SPNF en el BCB,-48097.52946562127,-38103.748431905704,-9993.781033715568
+Banca Central,mensual,acumulada,31/10/2026,2026-10-31,Emisión Monetaria,106071.4378461,103287.3960059,2784.041840200007
+Banca Central,mensual,acumulada,31/10/2026,2026-10-31,Reservas bancarias,62253.05932736491,59549.26088104541,2703.7984463194953
+Banca Central,mensual,interanual,31/10/2026,2026-10-31,Base Monetaria,153054.7943278649,141547.49462962762,11507.299698237272
+Banca Central,mensual,interanual,31/10/2026,2026-10-31,Base monetaria en moneda nacional (MN + UFV),126472.2048975056,123172.40512660002,3299.799770905578
+Banca Central,mensual,interanual,31/10/2026,2026-10-31,Billetes y Monedas,90801.7350005,87660.66231176,3141.0726887400087
+Banca Central,mensual,interanual,31/10/2026,2026-10-31,Crédito Interno Neto,58136.0247672421,78281.85218541969,-20145.827418177585
+Banca Central,mensual,interanual,31/10/2026,2026-10-31,Crédito Neto al SPNF,151009.5435281288,148456.87549286924,2552.6680352595577
+Banca Central,mensual,interanual,31/10/2026,2026-10-31,Crédito a otros sectores (financiero y privado),17836.5053790614,23897.908645167598,-6061.403266106197
+Banca Central,mensual,interanual,31/10/2026,2026-10-31,Crédito del BCB al SPNF,199107.07299375,176933.17134311702,22173.901650632964
+Banca Central,mensual,interanual,31/10/2026,2026-10-31,Depósitos del SPNF en el BCB,-48097.52946562127,-28476.295850247832,-19621.23361537344
+Banca Central,mensual,interanual,31/10/2026,2026-10-31,Emisión Monetaria,106071.4378461,100418.46158710001,5652.976258999988
+Banca Central,mensual,interanual,31/10/2026,2026-10-31,Reservas bancarias,62253.05932736491,53886.832317867615,8366.227009497292
+Banca Central,mensual,mensual,31/10/2026,2026-10-31,Base Monetaria,153054.7943278649,153164.6732634768,-109.87893561192323
+Banca Central,mensual,mensual,31/10/2026,2026-10-31,Base monetaria en moneda nacional (MN + UFV),126472.2048975056,126422.7369518213,49.4679456843005
+Banca Central,mensual,mensual,31/10/2026,2026-10-31,Billetes y Monedas,90801.7350005,90891.56908824001,-89.83408774000418
+Banca Central,mensual,mensual,31/10/2026,2026-10-31,Crédito Interno Neto,58136.0247672421,59576.40129260575,-1440.3765253636448
+Banca Central,mensual,mensual,31/10/2026,2026-10-31,Crédito Neto al SPNF,151009.5435281288,155380.1722908288,-4370.628762700013
+Banca Central,mensual,mensual,31/10/2026,2026-10-31,Crédito a otros sectores (financiero y privado),17836.5053790614,18246.75073086,-410.2453517985996
+Banca Central,mensual,mensual,31/10/2026,2026-10-31,Crédito del BCB al SPNF,199107.07299375,199757.9388071127,-650.8658133627032
+Banca Central,mensual,mensual,31/10/2026,2026-10-31,Depósitos del SPNF en el BCB,-48097.52946562127,-44377.7665162839,-3719.762949337375
+Banca Central,mensual,mensual,31/10/2026,2026-10-31,Emisión Monetaria,106071.4378461,106848.466495,-777.0286488999991
+Banca Central,mensual,mensual,31/10/2026,2026-10-31,Reservas bancarias,62253.05932736491,62273.10417523685,-20.044847871940874
+Banca Central,semanal,acumulada,31/10/2026,2026-10-31,Base Monetaria,153054.7943278649,150581.89931148544,2472.8950163794507
+Banca Central,semanal,acumulada,31/10/2026,2026-10-31,Base monetaria en moneda nacional (MN + UFV),126472.2048975056,132264.57555608902,-5792.37065858343
+Banca Central,semanal,acumulada,31/10/2026,2026-10-31,Billetes y Monedas,90801.7350005,91032.63843044,-230.90342993999366
+Banca Central,semanal,acumulada,31/10/2026,2026-10-31,Crédito Interno Neto,58136.0247672421,77814.53743821832,-19678.51267097622
+Banca Central,semanal,acumulada,31/10/2026,2026-10-31,Crédito Neto al SPNF,151009.5435281288,159076.14783068473,-8066.604302555934
+Banca Central,semanal,acumulada,31/10/2026,2026-10-31,Crédito a otros sectores (financiero y privado),17836.5053790614,24070.227499685403,-6233.722120624003
+Banca Central,semanal,acumulada,31/10/2026,2026-10-31,Crédito del BCB al SPNF,199107.07299375,197179.8962625904,1927.1767311595904
+Banca Central,semanal,acumulada,31/10/2026,2026-10-31,Depósitos del SPNF en el BCB,-48097.52946562127,-38103.748431905704,-9993.781033715568
+Banca Central,semanal,acumulada,31/10/2026,2026-10-31,Emisión Monetaria,106071.4378461,103287.3960059,2784.041840200007
+Banca Central,semanal,acumulada,31/10/2026,2026-10-31,Reservas bancarias,62253.05932736491,59549.26088104541,2703.7984463194953
+Encaje Legal,diario,acumulada,6/11/2026,2026-11-06,"Efectivo ME, MVDOL",653.743471762826,560.0200110835598,93.72346067926617
+Encaje Legal,diario,acumulada,6/11/2026,2026-11-06,"Efectivo MN, UFV",2013.4928127515561,3997.831872404082,-1984.3390596525257
+Encaje Legal,diario,acumulada,6/11/2026,2026-11-06,Encaje Constituido,3563.099588035458,5195.51839460426,-1632.4188065688018
+Encaje Legal,diario,acumulada,6/11/2026,2026-11-06,"Excedente ME, MVDOL",440.40399231282584,336.6144283035598,103.78956400926603
+Encaje Legal,diario,acumulada,6/11/2026,2026-11-06,"Excedente MN, UFV",757.0008871492272,2520.3794930362023,-1763.378605886975
+Encaje Legal,diario,acumulada,6/11/2026,2026-11-06,Excedente de Encaje,1197.404879462053,2856.993921339762,-1659.589041877709
+Encaje Legal,diario,acumulada,6/11/2026,2026-11-06,"Títulos ME, MVDOL",86.34053904,127.64094129008747,-41.30040225008747
+Encaje Legal,diario,acumulada,6/11/2026,2026-11-06,"Títulos MN, UFV",809.5227644810765,510.02556982653056,299.4971946545459
+Encaje Legal,mensual,acumulada,31/10/2026,2026-10-31,"Efectivo ME, MVDOL",517.1308194722913,560.0200110835598,-42.88919161126853
+Encaje Legal,mensual,acumulada,31/10/2026,2026-10-31,"Efectivo MN, UFV",1890.1191577290326,3997.831872404082,-2107.712714675049
+Encaje Legal,mensual,acumulada,31/10/2026,2026-10-31,Encaje Constituido,3273.103905496427,5195.51839460426,-1922.4144891078327
+Encaje Legal,mensual,acumulada,31/10/2026,2026-10-31,"Excedente ME, MVDOL",303.4871810222911,336.6144283035598,-33.127247281268694
+Encaje Legal,mensual,acumulada,31/10/2026,2026-10-31,"Excedente MN, UFV",668.6822226188897,2520.3794930362023,-1851.6972704173127
+Encaje Legal,mensual,acumulada,31/10/2026,2026-10-31,Excedente de Encaje,972.1694036411807,2856.993921339762,-1884.8245176985813
+Encaje Legal,mensual,acumulada,31/10/2026,2026-10-31,"Títulos ME, MVDOL",86.7302563976675,127.64094129008747,-40.910684892419965
+Encaje Legal,mensual,acumulada,31/10/2026,2026-10-31,"Títulos MN, UFV",779.1236718974358,510.02556982653056,269.0981020709052
+Encaje Legal,mensual,interanual,31/10/2026,2026-10-31,"Efectivo ME, MVDOL",517.1308194722913,582.3785577548163,-65.247738282525
+Encaje Legal,mensual,interanual,31/10/2026,2026-10-31,"Efectivo MN, UFV",1890.1191577290326,3094.0381293970845,-1203.9189716680519
+Encaje Legal,mensual,interanual,31/10/2026,2026-10-31,Encaje Constituido,3273.103905496427,4290.250581982017,-1017.14667648559
+Encaje Legal,mensual,interanual,31/10/2026,2026-10-31,"Excedente ME, MVDOL",303.4871810222911,361.4989505148162,-58.011769492525104
+Encaje Legal,mensual,interanual,31/10/2026,2026-10-31,"Excedente MN, UFV",668.6822226188897,1696.5033025239743,-1027.8210799050846
+Encaje Legal,mensual,interanual,31/10/2026,2026-10-31,Excedente de Encaje,972.1694036411807,2058.0022530387905,-1085.8328493976098
+Encaje Legal,mensual,interanual,31/10/2026,2026-10-31,"Títulos ME, MVDOL",86.7302563976675,128.90022361,-42.16996721233251
+Encaje Legal,mensual,interanual,31/10/2026,2026-10-31,"Títulos MN, UFV",779.1236718974358,484.93367122011654,294.19000067731923
+Encaje Legal,mensual,mensual,31/10/2026,2026-10-31,"Efectivo ME, MVDOL",517.1308194722913,511.75239060451753,5.378428867773721
+Encaje Legal,mensual,mensual,31/10/2026,2026-10-31,"Efectivo MN, UFV",1890.1191577290326,1811.9712696114811,78.14788811755147
+Encaje Legal,mensual,mensual,31/10/2026,2026-10-31,Encaje Constituido,3273.103905496427,3192.533983491323,80.56992200510422
+Encaje Legal,mensual,mensual,31/10/2026,2026-10-31,"Excedente ME, MVDOL",303.4871810222911,293.71319024451753,9.773990777773577
+Encaje Legal,mensual,mensual,31/10/2026,2026-10-31,"Excedente MN, UFV",668.6822226188897,591.1893189046754,77.49290371421432
+Encaje Legal,mensual,mensual,31/10/2026,2026-10-31,Excedente de Encaje,972.1694036411807,884.9025091491928,87.26689449198784
+Encaje Legal,mensual,mensual,31/10/2026,2026-10-31,"Títulos ME, MVDOL",86.7302563976675,87.75195997,-1.0217035723324983
+Encaje Legal,mensual,mensual,31/10/2026,2026-10-31,"Títulos MN, UFV",779.1236718974358,781.0583633053245,-1.9346914078887494
+Encaje Legal,semanal,acumulada,31/10/2026,2026-10-31,"Efectivo ME, MVDOL",517.1308194722913,560.0200110835598,-42.88919161126853
+Encaje Legal,semanal,acumulada,31/10/2026,2026-10-31,"Efectivo MN, UFV",1890.1191577290326,3997.831872404082,-2107.712714675049
+Encaje Legal,semanal,acumulada,31/10/2026,2026-10-31,Encaje Constituido,3273.103905496427,5195.51839460426,-1922.4144891078327
+Encaje Legal,semanal,acumulada,31/10/2026,2026-10-31,"Excedente ME, MVDOL",303.4871810222911,336.6144283035598,-33.127247281268694
+Encaje Legal,semanal,acumulada,31/10/2026,2026-10-31,"Excedente MN, UFV",668.6822226188897,2520.3794930362023,-1851.6972704173127
+Encaje Legal,semanal,acumulada,31/10/2026,2026-10-31,Excedente de Encaje,972.1694036411807,2856.993921339762,-1884.8245176985813
+Encaje Legal,semanal,acumulada,31/10/2026,2026-10-31,"Títulos ME, MVDOL",86.7302563976675,127.64094129008747,-40.910684892419965
+Encaje Legal,semanal,acumulada,31/10/2026,2026-10-31,"Títulos MN, UFV",779.1236718974358,510.02556982653056,269.0981020709052
+Operaciones con Títulos Públicos y financiamiento del BCB,diario,acumulada,6/11/2026,2026-11-06,Banco Central de Bolivia,2492.562002574432,3401.6329683892127,-909.0709658147807
+Operaciones con Títulos Públicos y financiamiento del BCB,diario,acumulada,6/11/2026,2026-11-06,Créditos de Liquidez c/garantía del encaje legal en títulos,3.1118587047939443,0.2,2.911858704793944
+Operaciones con Títulos Públicos y financiamiento del BCB,diario,acumulada,6/11/2026,2026-11-06,Financiamiento de corto plazo al sistema financiero,7.312975189234651,18.52201166180758,-11.209036472572928
+Operaciones con Títulos Públicos y financiamiento del BCB,diario,acumulada,6/11/2026,2026-11-06,Reportos,4.201116484440706,18.32201166180758,-14.120895177366872
+Operaciones con Títulos Públicos y financiamiento del BCB,diario,acumulada,6/11/2026,2026-11-06,Saldos netos de títulos,9437.936681296045,13944.689454642856,-4506.7527733468105
+Operaciones con Títulos Públicos y financiamiento del BCB,diario,acumulada,6/11/2026,2026-11-06,Tesoro General de la Nación,6945.374678721613,10543.056486253643,-3597.68180753203
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,acumulada,31/10/2026,2026-10-31,Banco Central de Bolivia,2509.1572220157154,3401.6329683892127,-892.4757463734973
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,acumulada,31/10/2026,2026-10-31,Créditos de Liquidez c/garantía del encaje legal en títulos,2.9073614557485525,0.2,2.7073614557485524
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,acumulada,31/10/2026,2026-10-31,Financiamiento de corto plazo al sistema financiero,7.073389164598842,18.52201166180758,-11.448622497208737
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,acumulada,31/10/2026,2026-10-31,Reportos,4.166027708850289,18.32201166180758,-14.155983952957289
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,acumulada,31/10/2026,2026-10-31,Saldos netos de títulos,9335.816471808934,13944.689454642856,-4608.872982833922
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,acumulada,31/10/2026,2026-10-31,Tesoro General de la Nación,6826.659249793218,10543.056486253643,-3716.397236460425
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,interanual,31/10/2026,2026-10-31,Banco Central de Bolivia,2509.1572220157154,2779.097742683673,-269.94052066795757
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,interanual,31/10/2026,2026-10-31,Créditos de Liquidez c/garantía del encaje legal en títulos,2.9073614557485525,0.6916297376093294,2.215731718139223
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,interanual,31/10/2026,2026-10-31,Financiamiento de corto plazo al sistema financiero,7.073389164598842,43.97942857142857,-36.90603940682973
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,interanual,31/10/2026,2026-10-31,Reportos,4.166027708850289,43.28779883381924,-39.12177112496895
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,interanual,31/10/2026,2026-10-31,Saldos netos de títulos,9335.816471808934,13123.569812654518,-3787.753340845584
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,interanual,31/10/2026,2026-10-31,Tesoro General de la Nación,6826.659249793218,10344.472069970845,-3517.812820177627
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,mensual,31/10/2026,2026-10-31,Banco Central de Bolivia,2509.1572220157154,2710.97832486227,-201.82110284655437
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,mensual,31/10/2026,2026-10-31,Créditos de Liquidez c/garantía del encaje legal en títulos,2.9073614557485525,0.3327787021630616,2.574582753585491
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,mensual,31/10/2026,2026-10-31,Financiamiento de corto plazo al sistema financiero,7.073389164598842,17.23098343510815,-10.157594270509309
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,mensual,31/10/2026,2026-10-31,Reportos,4.166027708850289,16.89820473294509,-12.7321770240948
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,mensual,31/10/2026,2026-10-31,Saldos netos de títulos,9335.816471808934,9447.9498556443,-112.13338383536575
+Operaciones con Títulos Públicos y financiamiento del BCB,mensual,mensual,31/10/2026,2026-10-31,Tesoro General de la Nación,6826.659249793218,6736.971530782031,89.68771901118726
+Operaciones con Títulos Públicos y financiamiento del BCB,semanal,acumulada,31/10/2026,2026-10-31,Banco Central de Bolivia,2509.1572220157154,3401.6329683892127,-892.4757463734973
+Operaciones con Títulos Públicos y financiamiento del BCB,semanal,acumulada,31/10/2026,2026-10-31,Créditos de Liquidez c/garantía del encaje legal en títulos,2.9073614557485525,0.2,2.7073614557485524
+Operaciones con Títulos Públicos y financiamiento del BCB,semanal,acumulada,31/10/2026,2026-10-31,Financiamiento de corto plazo al sistema financiero,7.073389164598842,18.52201166180758,-11.448622497208737
+Operaciones con Títulos Públicos y financiamiento del BCB,semanal,acumulada,31/10/2026,2026-10-31,Reportos,4.166027708850289,18.32201166180758,-14.155983952957289
+Operaciones con Títulos Públicos y financiamiento del BCB,semanal,acumulada,31/10/2026,2026-10-31,Saldos netos de títulos,9335.816471808934,13944.689454642856,-4608.872982833922
+Operaciones con Títulos Públicos y financiamiento del BCB,semanal,acumulada,31/10/2026,2026-10-31,Tesoro General de la Nación,6826.659249793218,10543.056486253643,-3716.397236460425
+Precios y tasas de intéres,diario,acumulada,6/11/2026,2026-11-06,Tasa premio de reporto del BCB en ME,0,0,0
+Precios y tasas de intéres,diario,acumulada,6/11/2026,2026-11-06,Tasa premio de reporto del BCB en MN,13.5,9.75,3.75
+Precios y tasas de intéres,diario,acumulada,31/10/2026,2026-10-31,Variación a doce meses inflación núcleo,2.62840970331899,17.021816286535298,-14.393406583216308
+Precios y tasas de intéres,diario,acumulada,31/10/2026,2026-10-31,Variación a doce meses inflación subyacente,5.940129939724437,19.325259739509292,-13.385129799784856
+Precios y tasas de intéres,diario,acumulada,31/10/2026,2026-10-31,Variación a doce meses inflación total,7.081474868946458,20.399589983931854,-13.318115114985396
+Precios y tasas de intéres,diario,acumulada,31/10/2026,2026-10-31,Variación acumulada en el año inflación núcleo,3.9360372043531155,17.021816286535298,-13.085779082182182
+Precios y tasas de intéres,diario,acumulada,31/10/2026,2026-10-31,Variación acumulada en el año inflación subyacente,5.496048848715085,19.325259739509292,-13.829210890794208
+Precios y tasas de intéres,diario,acumulada,31/10/2026,2026-10-31,Variación acumulada en el año inflación total,6.033630153130476,20.399589983931854,-14.365959830801378
+Precios y tasas de intéres,diario,acumulada,31/10/2026,2026-10-31,Variación mensual inflación núcleo,1.337643221096818,-0.5551106735426248,1.8927538946394429
+Precios y tasas de intéres,diario,acumulada,31/10/2026,2026-10-31,Variación mensual inflación subyacente,1.8568951769227253,0.11261300402611862,1.7442821728966067
+Precios y tasas de intéres,diario,acumulada,31/10/2026,2026-10-31,Variación mensual inflación total,2.0699423315311716,0.5897652090510741,1.4801771224800975
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Tasa premio de reporto del BCB en ME,0,0,0
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Tasa premio de reporto del BCB en MN,13.5,9.75,3.75
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Variación a doce meses inflación núcleo,2.62840970331899,17.021816286535298,-14.393406583216308
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Variación a doce meses inflación subyacente,5.940129939724437,19.325259739509292,-13.385129799784856
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Variación a doce meses inflación total,7.081474868946458,20.399589983931854,-13.318115114985396
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Variación acumulada en el año inflación núcleo,3.9360372043531155,17.021816286535298,-13.085779082182182
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Variación acumulada en el año inflación subyacente,5.496048848715085,19.325259739509292,-13.829210890794208
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Variación acumulada en el año inflación total,6.033630153130476,20.399589983931854,-14.365959830801378
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Variación mensual inflación núcleo,1.337643221096818,-0.5551106735426248,1.8927538946394429
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Variación mensual inflación subyacente,1.8568951769227253,0.11261300402611862,1.7442821728966067
+Precios y tasas de intéres,mensual,acumulada,31/10/2026,2026-10-31,Variación mensual inflación total,2.0699423315311716,0.5897652090510741,1.4801771224800975
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Tasa premio de reporto del BCB en ME,0,0,0
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Tasa premio de reporto del BCB en MN,13.5,8,5.5
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Variación a doce meses inflación núcleo,2.62840970331899,20.55773945857855,-17.92932975525956
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Variación a doce meses inflación subyacente,5.940129939724437,21.636097190771864,-15.695967251047428
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Variación a doce meses inflación total,7.081474868946458,22.2324516706659,-15.150976801719441
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Variación acumulada en el año inflación núcleo,3.9360372043531155,18.512835641113547,-14.57679843676043
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Variación acumulada en el año inflación subyacente,5.496048848715085,18.82507070292565,-13.329021854210566
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Variación acumulada en el año inflación total,6.033630153130476,19.221420984060835,-13.187790830930359
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Variación mensual inflación núcleo,1.337643221096818,-0.09120118274159594,1.428844403838414
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Variación mensual inflación subyacente,1.8568951769227253,0.47074656686522925,1.386148610057496
+Precios y tasas de intéres,mensual,interanual,31/10/2026,2026-10-31,Variación mensual inflación total,2.0699423315311716,0.752299474055973,1.3176428574751986
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Tasa premio de reporto del BCB en ME,0,0,0
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Tasa premio de reporto del BCB en MN,13.5,13.25,0.25
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Variación a doce meses inflación núcleo,2.62840970331899,1.181365700534287,1.4470440027847031
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Variación a doce meses inflación subyacente,5.940129939724437,4.498413464760342,1.4417164749640943
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Variación a doce meses inflación total,7.081474868946458,5.699137059146375,1.3823378098000827
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Variación acumulada en el año inflación núcleo,3.9360372043531155,2.5640955331743376,1.371941671178778
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Variación acumulada en el año inflación subyacente,5.496048848715085,3.5728103291104985,1.9232385196045865
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Variación acumulada en el año inflación total,6.033630153130476,3.883305634409906,2.15032451872057
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Variación mensual inflación núcleo,1.337643221096818,1.1610936677497463,0.17654955334707179
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Variación mensual inflación subyacente,1.8568951769227253,1.0867420414148883,0.770153135507837
+Precios y tasas de intéres,mensual,mensual,31/10/2026,2026-10-31,Variación mensual inflación total,2.0699423315311716,0.8452039602809824,1.2247383712501891
+Precios y tasas de intéres,semanal,acumulada,31/10/2026,2026-10-31,Tasa premio de reporto del BCB en ME,0,0,0
+Precios y tasas de intéres,semanal,acumulada,31/10/2026,2026-10-31,Tasa premio de reporto del BCB en MN,13.5,9.75,3.75
+Precios y tasas de intéres,semanal,acumulada,30/9/2026,2026-09-30,Variación a doce meses inflación núcleo,1.181365700534287,17.021816286535298,-15.840450586001012
+Precios y tasas de intéres,semanal,acumulada,30/9/2026,2026-09-30,Variación a doce meses inflación subyacente,4.498413464760342,19.325259739509292,-14.826846274748949
+Precios y tasas de intéres,semanal,acumulada,30/9/2026,2026-09-30,Variación a doce meses inflación total,5.699137059146375,20.399589983931854,-14.700452924785479
+Precios y tasas de intéres,semanal,acumulada,30/9/2026,2026-09-30,Variación acumulada en el año inflación núcleo,2.5640955331743376,17.021816286535298,-14.45772075336096
+Precios y tasas de intéres,semanal,acumulada,30/9/2026,2026-09-30,Variación acumulada en el año inflación subyacente,3.5728103291104985,19.325259739509292,-15.752449410398793
+Precios y tasas de intéres,semanal,acumulada,30/9/2026,2026-09-30,Variación acumulada en el año inflación total,3.883305634409906,20.399589983931854,-16.516284349521946
+Precios y tasas de intéres,semanal,acumulada,30/9/2026,2026-09-30,Variación mensual inflación núcleo,1.1610936677497463,-0.5551106735426248,1.716204341292371
+Precios y tasas de intéres,semanal,acumulada,30/9/2026,2026-09-30,Variación mensual inflación subyacente,1.0867420414148883,0.11261300402611862,0.9741290373887697
+Precios y tasas de intéres,semanal,acumulada,30/9/2026,2026-09-30,Variación mensual inflación total,0.8452039602809824,0.5897652090510741,0.25543875122990833
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Activos externos netos de entidades financieras de intermediación,484.02049711942806,464.28320751166183,19.73728960776623
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Adjudicación de dólares en Ventas Directas (Sector Privado),0,0,0
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Adjudicación de dólares en Ventas Directas (Sistema Financiero),0,0,0
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Adjudicación de dólares en el Bolsín (Sector Privado),0,0,0
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Adjudicación de dólares en el Bolsín (Sistema Financiero),0,0,0
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Compras de dólares al Sistema Financiero,0,12,-12
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,DEG,25.166943770000003,39.71962566,-14.552681889999995
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Divisas,781.1433076599999,504.76077115,276.3825365099999
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Obligaciones de reservas,0.00035798000000000004,3.8e-07,0.0003576
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Oro,3224.5330831300003,3132.98677968,91.54630345000032
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Oro en toneladas,24.418441871496,22.336617030706904,2.0818248407890962
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Pasivos relacionados con operaciones con oro,0,741.6713285379009,-741.6713285379009
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Posición con el FMI,35.299269,35.77751305,-0.4782440500000007
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,RIN (Incluyendo obligaciones relativas al oro),4066.1422455800007,2971.573360622099,1094.568884957902
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Recursos de Alta Líquidez,1100.5062655958545,551.9754727124636,548.530792883391
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Reservas Internacionales Brutas,4066.1426035599998,3713.2446895400003,352.89791401999946
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Reservas Internacionales Netas,4066.1422455800007,3713.24468916,352.8975564200009
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Reservas de Oro neto de Pasivos,3224.5330831300003,2391.315451142099,833.2176319879013
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Reservas de Oro neto de Pasivos en toneladas,24.418441871496,15.766620685365037,8.651821186130963
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Transferencias al Exterior,65.13209451611709,918.0620133004766,-852.9299187843594
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Transferencias del Exterior,33.70825900571519,970.8864306933841,-937.178171687669
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Transferencias del Sistema Financiero al exterior a través del BCB ,0,0,0
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Transferencias del exterior al  Sistema Financiero a través del BCB,0,0,0
+Sector Externo,diario,acumulada,6/11/2026,2026-11-06,Índice de tipo de cambio real (base diciembre 2022=100),136.36431672483508,82.99598273007084,53.36833399476424
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Activos externos netos de entidades financieras de intermediación,471.74552268899913,464.28320751166183,7.462315177337302
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Adjudicación de dólares en Ventas Directas (Sector Privado),0,0,0
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Adjudicación de dólares en Ventas Directas (Sistema Financiero),0,0,0
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Adjudicación de dólares en el Bolsín (Sector Privado),0,0,0
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Adjudicación de dólares en el Bolsín (Sistema Financiero),0,0,0
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Compras de dólares al Sistema Financiero,9.867418,12,-2.1325819999999993
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,DEG,29.589291829999997,39.71962566,-10.130333830000001
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Divisas,855.1184946,504.76077115,350.35772345
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Obligaciones de reservas,5.4e-07,3.8e-07,1.6e-07
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Oro,3044.70797253,3132.98677968,-88.27880714999992
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Oro en toneladas,24.421444600825794,22.336617030706904,2.0848275701188896
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Pasivos relacionados con operaciones con oro,0,741.6713285379009,-741.6713285379009
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Posición con el FMI,35.46538949,35.77751305,-0.3121235600000034
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,RIN (Incluyendo obligaciones relativas al oro),3964.8811479099995,2971.573360622099,993.3077872879007
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Recursos de Alta Líquidez,1157.0085671031113,551.9754727124636,605.0330943906478
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Reservas Internacionales Brutas,3964.8811484499997,3713.2446895400003,251.63645890999942
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Reservas Internacionales Netas,3964.8811479099995,3713.24468916,251.63645874999975
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Reservas de Oro neto de Pasivos,3044.70797253,2391.315451142099,653.3925213879011
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Reservas de Oro neto de Pasivos en toneladas,24.421444600825794,15.766620685365037,8.654823915460756
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Transferencias al Exterior,1148.4298805030319,918.0620133004766,230.36786720255532
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Transferencias del Exterior,1175.756963615872,970.8864306933841,204.870532922488
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Transferencias del Sistema Financiero al exterior a través del BCB ,0,0,0
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Transferencias del exterior al  Sistema Financiero a través del BCB,0,0,0
+Sector Externo,mensual,acumulada,31/10/2026,2026-10-31,Índice de tipo de cambio real (base diciembre 2022=100),139.7709092931913,82.99598273007084,56.77492656312046
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Activos externos netos de entidades financieras de intermediación,471.74552268899913,449.5507395233237,22.194783165675403
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Adjudicación de dólares en Ventas Directas (Sector Privado),0,0,0
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Adjudicación de dólares en Ventas Directas (Sistema Financiero),0,416,-416
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Adjudicación de dólares en el Bolsín (Sector Privado),0,0,0
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Adjudicación de dólares en el Bolsín (Sistema Financiero),0,0,0
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Compras de dólares al Sistema Financiero,9.867418,0,9.867418
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,DEG,29.589291829999997,42.9167326,-13.327440770000006
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Divisas,855.1184946,72.63761158,782.48088302
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Obligaciones de reservas,5.4e-07,4.0000000000000003e-07,1.3999999999999998e-07
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Oro,3044.70797253,3075.7985848,-31.090612269999838
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Oro en toneladas,24.421444600825794,23.759345271883237,0.6620993289425563
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Pasivos relacionados con operaciones con oro,0,743.3304320495627,-743.3304320495627
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Posición con el FMI,35.46538949,35.558062570000004,-0.0926730800000044
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,RIN (Incluyendo obligaciones relativas al oro),3964.8811479099995,2483.5805594004373,1481.3005885095622
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Recursos de Alta Líquidez,1157.0085671031113,300.3960634863689,856.6125036167424
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Reservas Internacionales Brutas,3964.8811484499997,3226.91099155,737.9701568999999
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Reservas Internacionales Netas,3964.8811479099995,3226.91099145,737.9701564599995
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Reservas de Oro neto de Pasivos,3044.70797253,2332.468152750437,712.2398197795628
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Reservas de Oro neto de Pasivos en toneladas,24.421444600825794,17.18934892654137,7.232095674284423
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Transferencias al Exterior,1148.4298805030319,732.1150590619549,416.314821441077
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Transferencias del Exterior,1175.756963615872,782.8175597715017,392.9394038443704
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Transferencias del Sistema Financiero al exterior a través del BCB ,0,3.3,-3.3
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Transferencias del exterior al  Sistema Financiero a través del BCB,0,0,0
+Sector Externo,mensual,interanual,31/10/2026,2026-10-31,Índice de tipo de cambio real (base diciembre 2022=100),139.7709092931913,87.85610283440664,51.91480645878465
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Activos externos netos de entidades financieras de intermediación,471.74552268899913,442.11810784941775,29.627414839581377
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Adjudicación de dólares en Ventas Directas (Sector Privado),0,0,0
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Adjudicación de dólares en Ventas Directas (Sistema Financiero),0,8.1,-8.1
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Adjudicación de dólares en el Bolsín (Sector Privado),0,0,0
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Adjudicación de dólares en el Bolsín (Sistema Financiero),0,0,0
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Compras de dólares al Sistema Financiero,9.867418,59.022896,-49.155478
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,DEG,29.589291829999997,29.57205194,0.017239889999995484
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Divisas,855.1184946,478.0682247,377.0502699
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Obligaciones de reservas,5.4e-07,2.2e-07,3.2e-07
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Oro,3044.70797253,3389.66778795,-344.9598154199998
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Oro en toneladas,24.421444600825794,25.285633150082035,-0.8641885492562409
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Pasivos relacionados con operaciones con oro,0,151.44858513,-151.44858513
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Posición con el FMI,35.46538949,35.476062230000004,-0.010672740000003955
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,RIN (Incluyendo obligaciones relativas al oro),3964.8811479099995,3781.33554147,183.54560643999957
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Recursos de Alta Líquidez,1157.0085671031113,918.5240671837239,238.48449991938742
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Reservas Internacionales Brutas,3964.8811484499997,3932.78412682,32.097021629999745
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Reservas Internacionales Netas,3964.8811479099995,3932.7841266,32.09702130999949
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Reservas de Oro neto de Pasivos,3044.70797253,3238.21920282,-193.51123029000019
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Reservas de Oro neto de Pasivos en toneladas,24.421444600825794,24.115629339906533,0.30581526091926037
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Transferencias al Exterior,1148.4298805030319,1031.218858761359,117.211021741673
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Transferencias del Exterior,1175.756963615872,1087.554252558032,88.20271105784013
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Transferencias del Sistema Financiero al exterior a través del BCB ,0,5.9,-5.9
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Transferencias del exterior al  Sistema Financiero a través del BCB,0,3,-3
+Sector Externo,mensual,mensual,31/10/2026,2026-10-31,Índice de tipo de cambio real (base diciembre 2022=100),139.7709092931913,141.9252595597577,-2.1543502665664107
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Activos externos netos de entidades financieras de intermediación,471.74552268899913,464.28320751166183,7.462315177337302
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Adjudicación de dólares en Ventas Directas (Sector Privado),0,0,0
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Adjudicación de dólares en Ventas Directas (Sistema Financiero),0,0,0
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Adjudicación de dólares en el Bolsín (Sector Privado),0,0,0
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Adjudicación de dólares en el Bolsín (Sistema Financiero),0,0,0
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Compras de dólares al Sistema Financiero,9.867418,12,-2.1325819999999993
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,DEG,29.589291829999997,39.71962566,-10.130333830000001
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Divisas,855.1184946,504.76077115,350.35772345
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Obligaciones de reservas,5.4e-07,3.8e-07,1.6e-07
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Oro,3044.70797253,3132.98677968,-88.27880714999992
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Oro en toneladas,24.421444600825794,22.336617030706904,2.0848275701188896
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Pasivos relacionados con operaciones con oro,0,741.6713285379009,-741.6713285379009
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Posición con el FMI,35.46538949,35.77751305,-0.3121235600000034
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,RIN (Incluyendo obligaciones relativas al oro),3964.8811479099995,2971.573360622099,993.3077872879007
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Recursos de Alta Líquidez,1157.0085671031113,551.9754727124636,605.0330943906478
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Reservas Internacionales Brutas,3964.8811484499997,3713.2446895400003,251.63645890999942
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Reservas Internacionales Netas,3964.8811479099995,3713.24468916,251.63645874999975
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Reservas de Oro neto de Pasivos,3044.70797253,2391.315451142099,653.3925213879011
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Reservas de Oro neto de Pasivos en toneladas,24.421444600825794,15.766620685365037,8.654823915460756
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Transferencias al Exterior,1148.4298805030319,918.0620133004766,230.36786720255532
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Transferencias del Exterior,1175.756963615872,970.8864306933841,204.870532922488
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Transferencias del Sistema Financiero al exterior a través del BCB ,0,0,0
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Transferencias del exterior al  Sistema Financiero a través del BCB,0,0,0
+Sector Externo,semanal,acumulada,31/10/2026,2026-10-31,Índice de tipo de cambio real (base diciembre 2022=100),139.7709092931913,82.99598273007084,56.77492656312046
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,A la vista,4312.539286851976,6275.201726938774,-1962.6624400867986
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Ahorro en el Sistema Financiero,22980.40702184453,35750.29025106071,-12769.883229216179
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Bolivianización Caja de Ahorro,90.25959990513189,93.06108312525613,-2.80148322012424
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Bolivianización Créditos,99.5213117546172,99.62913206135609,-0.10782030673888698
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Bolivianización Otros,94.88922277994405,96.44050055797454,-1.5512777780304958
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Bolivianización Plazo,89.0856713569799,93.03326508545376,-3.947593728473862
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Bolivianización Vista,84.61111010176005,89.63651320072582,-5.025403098965768
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Bolivianización de Depósitos,89.70808722039165,93.13200363435709,-3.4239164139654434
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Bolivianización del Ahorro,87.67587823826155,90.59030935575,-2.914431117488448
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Caja de ahorro,7767.811052440706,12093.84420121137,-4326.033148770664
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Cartera,19483.57295662994,32827.31362985132,-13343.740673221379
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Depósitos,22719.653732824223,35235.59621573616,-12515.942482911934
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Otros,494.8622501841884,915.8165428644317,-420.95429268024327
+Sector Financiero,diario,acumulada,6/11/2026,2026-11-06,Plazo,10144.441143347352,15950.733744721574,-5806.292601374222
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,A la vista,4312.8792391778325,6275.201726938774,-1962.3224877609418
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Ahorro en el Sistema Financiero,22676.056759471463,35750.29025106071,-13074.233491589246
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Bolivianización Caja de Ahorro,89.9620730546983,93.06108312525613,-3.0990100705578385
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Bolivianización Créditos,99.51326542173295,99.62913206135609,-0.11586663962313537
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Bolivianización Otros,94.974942268821,96.44050055797454,-1.4655582891535488
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Bolivianización Plazo,88.82867754418677,93.03326508545376,-4.204587541266989
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Bolivianización Vista,84.42071825898311,89.63651320072582,-5.2157949417427005
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Bolivianización de Depósitos,89.46033649106562,93.13200363435709,-3.6716671432914723
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Bolivianización del Ahorro,87.38976798912452,90.59030935575,-3.2005413666254725
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Caja de ahorro,7615.907422034739,12093.84420121137,-4477.936779176631
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Cartera,19236.806175646816,32827.31362985132,-13590.507454204504
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Depósitos,22415.586214590574,35235.59621573616,-12820.010001145583
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Otros,490.96680371381296,915.8165428644317,-424.8497391506187
+Sector Financiero,mensual,acumulada,31/10/2026,2026-10-31,Plazo,9995.832749664185,15950.733744721574,-5954.900995057389
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,A la vista,4312.8792391778325,5956.191526465014,-1643.3122872871818
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Ahorro en el Sistema Financiero,22676.056759471463,34592.49853676041,-11916.441777288946
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Bolivianización Caja de Ahorro,89.9620730546983,92.51588679911245,-2.553813744414157
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Bolivianización Créditos,99.51326542173295,99.60999440269252,-0.09672898095956839
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Bolivianización Otros,94.974942268821,96.56198862504112,-1.587046356220128
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Bolivianización Plazo,88.82867754418677,93.26008590757473,-4.431408363387959
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Bolivianización Vista,84.42071825898311,88.45415157444111,-4.033433315457998
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Bolivianización de Depósitos,89.46033649106562,92.85133024360658,-3.3909937525409646
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Bolivianización del Ahorro,87.38976798912452,92.97147706400686,-5.58170907488234
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Caja de ahorro,7615.907422034739,11256.023125489795,-3640.115703455056
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Cartera,19236.806175646816,32558.477958960644,-13321.671783313828
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Depósitos,22415.586214590574,34059.846120110786,-11644.259905520212
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Otros,490.96680371381296,936.1744586413995,-445.20765492758653
+Sector Financiero,mensual,interanual,31/10/2026,2026-10-31,Plazo,9995.832749664185,15911.45700951458,-5915.624259850394
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,A la vista,4312.8792391778325,4132.696156757071,180.18308242076182
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Ahorro en el Sistema Financiero,22676.056759471463,22628.670330329325,47.386429142137786
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Bolivianización Caja de Ahorro,89.9620730546983,89.87500832530529,0.08706472939300625
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Bolivianización Créditos,99.51326542173295,99.50511394470819,0.008151477024767928
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Bolivianización Otros,94.974942268821,94.46760066993146,0.5073415988895391
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Bolivianización Plazo,88.82867754418677,88.45286690646151,0.3758106377252659
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Bolivianización Vista,84.42071825898311,84.24990233103627,0.17081592794684752
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Bolivianización de Depósitos,89.46033649106562,89.25083015666868,0.20950633439693434
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Bolivianización del Ahorro,87.38976798912452,87.1879316202535,0.20183636887102807
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Caja de ahorro,7615.907422034739,7653.265121756238,-37.35769972149865
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Cartera,19236.806175646816,19278.338360974212,-41.53218532739629
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Depósitos,22415.586214590574,22356.544089023293,59.04212556728089
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Otros,490.96680371381296,504.70814006156417,-13.7413363477512
+Sector Financiero,mensual,mensual,31/10/2026,2026-10-31,Plazo,9995.832749664185,10065.874670448422,-70.04192078423694
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,A la vista,4312.8792391778325,6275.201726938774,-1962.3224877609418
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Ahorro en el Sistema Financiero,22676.056759471463,35750.29025106071,-13074.233491589246
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Bolivianización Caja de Ahorro,89.9620730546983,93.06108312525613,-3.0990100705578385
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Bolivianización Créditos,99.51326542173295,99.62913206135609,-0.11586663962313537
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Bolivianización Otros,94.974942268821,96.44050055797454,-1.4655582891535488
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Bolivianización Plazo,88.82867754418677,93.03326508545376,-4.204587541266989
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Bolivianización Vista,84.42071825898311,89.63651320072582,-5.2157949417427005
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Bolivianización de Depósitos,89.46033649106562,93.13200363435709,-3.6716671432914723
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Bolivianización del Ahorro,87.38976798912452,90.59030935575,-3.2005413666254725
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Caja de ahorro,7615.907422034739,12093.84420121137,-4477.936779176631
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Cartera,19236.806175646816,32827.31362985132,-13590.507454204504
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Depósitos,22415.586214590574,35235.59621573616,-12820.010001145583
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Otros,490.96680371381296,915.8165428644317,-424.8497391506187
+Sector Financiero,semanal,acumulada,31/10/2026,2026-10-31,Plazo,9995.832749664185,15950.733744721574,-5954.900995057389
+Tipo de Cambio Oficial,diario,acumulada,6/11/2026,2026-11-06,Tipo de Cambio Oficial,11.89,9.76,2.130000000000001
+Tipo de Cambio Oficial,mensual,acumulada,31/10/2026,2026-10-31,Tipo de Cambio Oficial,12.09,9.76,2.33
+Tipo de Cambio Oficial,mensual,interanual,31/10/2026,2026-10-31,Tipo de Cambio Oficial,12.09,,
+Tipo de Cambio Oficial,mensual,mensual,31/10/2026,2026-10-31,Tipo de Cambio Oficial,12.09,12.02,0.07000000000000028
+Tipo de Cambio Oficial,semanal,acumulada,31/10/2026,2026-10-31,Tipo de Cambio Oficial,12.09,9.76,2.33
+Tipos de cambio y valor referencial del dólar estadounidense,diario,acumulada,31/5/2026,2026-05-31,Tipo de Cambio Oficial compra BCB,6.86,6.86,0.0
+Tipos de cambio y valor referencial del dólar estadounidense,diario,acumulada,31/5/2026,2026-05-31,Tipo de cambio de venta en el Bolsín,6.96,6.96,0.0
+Tipos de cambio y valor referencial del dólar estadounidense,diario,acumulada,31/5/2026,2026-05-31,Valor referencial de compra del dólar estadounidense,9.92,7.89,2.0300000000000002
+Tipos de cambio y valor referencial del dólar estadounidense,diario,acumulada,31/5/2026,2026-05-31,Valor referencial de venta del dólar estadounidense,10.13,8.55,1.58
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,acumulada,31/5/2026,2026-05-31,Tipo de Cambio Oficial compra BCB,6.86,6.86,0.0
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,acumulada,31/5/2026,2026-05-31,Tipo de cambio de venta en el Bolsín,6.96,6.96,0.0
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,acumulada,31/5/2026,2026-05-31,Valor referencial de compra del dólar estadounidense,9.92,7.89,2.0300000000000002
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,acumulada,31/5/2026,2026-05-31,Valor referencial de venta del dólar estadounidense,10.13,8.55,1.58
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,interanual,31/5/2026,2026-05-31,Tipo de Cambio Oficial compra BCB,6.86,6.86,0.0
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,interanual,31/5/2026,2026-05-31,Tipo de cambio de venta en el Bolsín,6.96,6.96,0.0
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,interanual,31/5/2026,2026-05-31,Valor referencial de compra del dólar estadounidense,9.92,,
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,interanual,31/5/2026,2026-05-31,Valor referencial de venta del dólar estadounidense,10.13,,
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,mensual,31/5/2026,2026-05-31,Tipo de Cambio Oficial compra BCB,6.86,6.86,0.0
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,mensual,31/5/2026,2026-05-31,Tipo de cambio de venta en el Bolsín,6.96,6.96,0.0
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,mensual,31/5/2026,2026-05-31,Valor referencial de compra del dólar estadounidense,9.92,9.7,0.22000000000000064
+Tipos de cambio y valor referencial del dólar estadounidense,mensual,mensual,31/5/2026,2026-05-31,Valor referencial de venta del dólar estadounidense,10.13,9.9,0.23000000000000043
+Tipos de cambio y valor referencial del dólar estadounidense,semanal,acumulada,30/4/2026,2026-04-30,Tipo de Cambio Oficial compra BCB,6.86,6.86,0.0
+Tipos de cambio y valor referencial del dólar estadounidense,semanal,acumulada,30/4/2026,2026-04-30,Tipo de cambio de venta en el Bolsín,6.96,6.96,0.0
+Tipos de cambio y valor referencial del dólar estadounidense,semanal,acumulada,30/4/2026,2026-04-30,Valor referencial de compra del dólar estadounidense,9.7,7.89,1.8099999999999996
+Tipos de cambio y valor referencial del dólar estadounidense,semanal,acumulada,30/4/2026,2026-04-30,Valor referencial de venta del dólar estadounidense,9.9,8.55,1.3499999999999996
+Unidad de Fomento de Vivienda,diario,acumulada,6/11/2026,2026-11-06,UFV (día hábil),3.36943,3.04561,0.32382
+Unidad de Fomento de Vivienda,diario,acumulada,31/10/2026,2026-10-31,UFV (último día del mes),3.36631,3.04561,0.3207
+Unidad de Fomento de Vivienda,mensual,acumulada,31/10/2026,2026-10-31,UFV (día hábil),3.36581,3.04561,0.32020000000000026
+Unidad de Fomento de Vivienda,mensual,acumulada,31/10/2026,2026-10-31,UFV (último día del mes),3.36631,3.04561,0.3207
+Unidad de Fomento de Vivienda,mensual,interanual,31/10/2026,2026-10-31,UFV (día hábil),3.36581,2.94641,0.4194
+Unidad de Fomento de Vivienda,mensual,interanual,31/10/2026,2026-10-31,UFV (último día del mes),3.36631,2.94641,0.4198999999999997
+Unidad de Fomento de Vivienda,mensual,mensual,31/10/2026,2026-10-31,UFV (día hábil),3.36581,3.35141,0.01440000000000019
+Unidad de Fomento de Vivienda,mensual,mensual,31/10/2026,2026-10-31,UFV (último día del mes),3.36631,3.35141,0.014899999999999913
+Unidad de Fomento de Vivienda,semanal,acumulada,31/10/2026,2026-10-31,UFV (día hábil),3.36581,3.04561,0.32020000000000026
+Unidad de Fomento de Vivienda,semanal,acumulada,30/9/2026,2026-09-30,UFV (último día del mes),3.35141,3.04561,0.30580000000000007

@@ -1,0 +1,309 @@
+{
+  "name": "bcb_estadisticas_semanales",
+  "title": "Estadísticas Semanales del Banco Central de Bolivia",
+  "description": "Series e indicadores de coyuntura del BCB normalizados a CSV, catálogo de familias documentales y documentación del API y de los pipelines.",
+  "version": "1.0.0",
+  "keywords": [
+    "bcb",
+    "bolivia",
+    "estadisticas",
+    "macroeconomia",
+    "series-temporales",
+    "banca-central"
+  ],
+  "license": "NOASSERTION",
+  "spatial": {
+    "country": "BO"
+  },
+  "temporal": {
+    "start": "1987-12-31T00:00:00Z",
+    "end": "2026-11-06T00:00:00Z",
+    "frequency": "monthly"
+  },
+  "sources": [
+    {
+      "title": "Panel de Estadísticas Semanales del BCB",
+      "path": "https://www.bcb.gob.bo/bcb_estadisticas/index.php"
+    },
+    {
+      "title": "API JSON de Estadísticas Semanales (v=4.0.5)",
+      "path": "https://www.bcb.gob.bo/bcb_estadisticas/api.php?v=4.0.5"
+    }
+  ],
+  "resources": [
+    {
+      "name": "series_long",
+      "path": "data/series_long.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 4866684,
+      "hash": "sha256:82d3dcedc1ece1930a88a025fd5e7184326f85e824f57abba9a9d36595ff45ad",
+      "rows": 53938,
+      "columns": 6,
+      "schema": {
+        "fields": [
+          {
+            "name": "sector",
+            "type": "string"
+          },
+          {
+            "name": "variable",
+            "type": "string"
+          },
+          {
+            "name": "moneda",
+            "type": "string"
+          },
+          {
+            "name": "fecha",
+            "type": "string",
+            "format": "%d/%m/%Y"
+          },
+          {
+            "name": "fecha_iso",
+            "type": "date"
+          },
+          {
+            "name": "valor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "series_wide",
+      "path": "data/series_wide.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 882194,
+      "hash": "sha256:f4a2e29520afee5fff375033f9380b9dd25b0a08fa79dc6d9a72dc4bcb27fa08",
+      "rows": 469,
+      "columns": 146
+    },
+    {
+      "name": "kpis_long",
+      "path": "data/kpis_long.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 60414,
+      "hash": "sha256:b305802290664d63a4e7c0f4b7e9b1f829536ff21495bc23fcfffb88514d13ce",
+      "rows": 430,
+      "columns": 9,
+      "schema": {
+        "fields": [
+          {
+            "name": "sector",
+            "type": "string"
+          },
+          {
+            "name": "corte",
+            "type": "string"
+          },
+          {
+            "name": "variacion",
+            "type": "string"
+          },
+          {
+            "name": "fecha",
+            "type": "string",
+            "format": "%d/%m/%Y"
+          },
+          {
+            "name": "fecha_iso",
+            "type": "date"
+          },
+          {
+            "name": "variable",
+            "type": "string"
+          },
+          {
+            "name": "valor",
+            "type": "number"
+          },
+          {
+            "name": "anterior",
+            "type": "number"
+          },
+          {
+            "name": "delta",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "sector_banca_central",
+      "path": "data/sectores/banca_central.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 178384,
+      "hash": "sha256:548a614493f2eb03c35e4cbacefea07c109a49731dc9b2a6dd956439a055a1fc",
+      "rows": 469,
+      "columns": 29
+    },
+    {
+      "name": "sector_agregados_monetarios",
+      "path": "data/sectores/agregados_monetarios.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 127806,
+      "hash": "sha256:d944b731337daba2ed3ee49f366e49016427cf0a80f8c704365ee72f70c66afd",
+      "rows": 469,
+      "columns": 17
+    },
+    {
+      "name": "sector_operaciones_con_titulos_publicos_y_financiamiento_del_bcb",
+      "path": "data/sectores/operaciones_con_titulos_publicos_y_financiamiento_del_bcb.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 56903,
+      "hash": "sha256:b90ecf8bd1822c3aa274715a00cc96dfe7f1f6e87dd43cdf1a5f73841cb70827",
+      "rows": 351,
+      "columns": 16
+    },
+    {
+      "name": "sector_precios_y_tasas_de_interes",
+      "path": "data/sectores/precios_y_tasas_de_interes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 85800,
+      "hash": "sha256:2f4c7e3047caa6fe2479ca4210ee06790e22c396c20613709fe716f0d913b4ac",
+      "rows": 469,
+      "columns": 13
+    },
+    {
+      "name": "sector_sector_financiero",
+      "path": "data/sectores/sector_financiero.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 290077,
+      "hash": "sha256:919ba3dbdeffe01061f6e02a0903b79910a00ec270abb0218c61324bd8679f33",
+      "rows": 469,
+      "columns": 37
+    },
+    {
+      "name": "sector_encaje_legal",
+      "path": "data/sectores/encaje_legal.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 73573,
+      "hash": "sha256:8e607592790c974f1b0f800fb6cda2e9f4b49aa0303b3fd67a53faa2d2902b1c",
+      "rows": 341,
+      "columns": 13
+    },
+    {
+      "name": "sector_sector_externo",
+      "path": "data/sectores/sector_externo.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 107721,
+      "hash": "sha256:fe9f15fd1bc67be4e21b527813b7b8eddab07dd5876fc83d20b540fb314430e5",
+      "rows": 469,
+      "columns": 26
+    },
+    {
+      "name": "sector_tipo_de_cambio_oficial",
+      "path": "data/sectores/tipo_de_cambio_oficial.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 558,
+      "hash": "sha256:bd0096bb2907ec08a6bb268887c4de804f8f057b2923de69afc175270802d280",
+      "rows": 18,
+      "columns": 3
+    },
+    {
+      "name": "sector_tipos_de_cambio_y_valor_referencial_del_dolar_estadounidense",
+      "path": "data/sectores/tipos_de_cambio_y_valor_referencial_del_dolar_estadounidense.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 16697,
+      "hash": "sha256:0993f11d5e58fffa17ceae70ef5b885a6defd6bcfdf6d09a5ddf8765b533f8df",
+      "rows": 451,
+      "columns": 6
+    },
+    {
+      "name": "sector_unidad_de_fomento_de_vivienda",
+      "path": "data/sectores/unidad_de_fomento_de_vivienda.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 11910,
+      "hash": "sha256:c91d8d1dbc64fa4185d6d798260c1d8c22ac9e84e56d369333ef77a15e19c49d",
+      "rows": 312,
+      "columns": 4
+    },
+    {
+      "name": "familias_catalogo",
+      "path": "data/familias_catalogo.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 290384,
+      "hash": "sha256:77bffb705fb532d2a00e4b3af9072ff631026035f9aa56f70bae0adfc214a9f1",
+      "rows": 1345,
+      "columns": 13,
+      "schema": {
+        "fields": [
+          {
+            "name": "familia",
+            "type": "string"
+          },
+          {
+            "name": "procesar",
+            "type": "string"
+          },
+          {
+            "name": "es_formulario",
+            "type": "string"
+          },
+          {
+            "name": "motivo",
+            "type": "string"
+          },
+          {
+            "name": "archivo",
+            "type": "string"
+          },
+          {
+            "name": "relpath",
+            "type": "string"
+          },
+          {
+            "name": "extension",
+            "type": "string"
+          },
+          {
+            "name": "size_bytes",
+            "type": "integer"
+          },
+          {
+            "name": "publicacion",
+            "type": "date"
+          },
+          {
+            "name": "requiere_conversion",
+            "type": "string"
+          },
+          {
+            "name": "duplicado",
+            "type": "string"
+          },
+          {
+            "name": "sha256",
+            "type": "string"
+          },
+          {
+            "name": "status_descarga",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "familias_resumen",
+      "path": "data/familias_resumen.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "bytes": 1353,
+      "hash": "sha256:d5995f25665ce58f61e0f5cd7d8df84ce1fdd9653848705568374f42b1af8ca5"
+    }
+  ]
+}

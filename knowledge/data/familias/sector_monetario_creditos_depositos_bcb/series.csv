@@ -1,0 +1,51 @@
+serie_id,familia,serie,unidad,primera_fecha,ultima_fecha,n_observaciones,n_archivos,publicacion_ultima
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BANCOS_ESPECIALIZADOS_TOTAL_ENTIDADES_FINANCIERAS_1,sector_monetario_creditos_depositos_bcb,Bancos  Especializados | TOTAL | Entidades Financieras (1),En miles de bolivianos,1985-01-01,2026-09-01,479,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BANCOS_ESPECIALIZADOS_Y_OTRAS_ENTIDADES_FINANCIERAS_1,sector_monetario_creditos_depositos_bcb,Bancos  Especializados | y Otras | Entidades Financieras (1),En miles de bolivianos,1985-01-01,2026-09-01,479,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BCB_DIRECTO_BONOS_BCB_FIANZA,sector_monetario_creditos_depositos_bcb,BCB DIRECTO | BONOS BCB (FIANZA),En millones de bolivianos,2000-01-01,2026-11-01,34,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BCB_DIRECTO_CDDS,sector_monetario_creditos_depositos_bcb,BCB DIRECTO | CDDS,En millones de bolivianos,2000-01-01,2026-11-01,34,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BCB_DIRECTO_CDS_ME_Y_MVDOL,sector_monetario_creditos_depositos_bcb,BCB DIRECTO | CDS ME y MVDOL,En millones de bolivianos,2000-01-01,2026-11-01,34,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BCB_DIRECTO_ME,sector_monetario_creditos_depositos_bcb,BCB DIRECTO | ME,En millones de bolivianos,2026-01-01,2026-12-01,12,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BCB_DIRECTO_MN,sector_monetario_creditos_depositos_bcb,BCB DIRECTO | MN,En millones de bolivianos,2007-01-01,2026-12-01,28,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BCB_DIRECTO_TOTAL,sector_monetario_creditos_depositos_bcb,BCB DIRECTO | TOTAL,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BCB_DIRECTO_UFV,sector_monetario_creditos_depositos_bcb,BCB DIRECTO | UFV,En millones de bolivianos,2007-01-01,2026-12-01,17,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BONOS_ME,sector_monetario_creditos_depositos_bcb,BONOS | ME,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BONOS_MN,sector_monetario_creditos_depositos_bcb,BONOS | MN,En millones de bolivianos,2000-01-01,2026-09-01,27,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BONOS_TOTAL,sector_monetario_creditos_depositos_bcb,BONOS | TOTAL,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__BONOS_UFV,sector_monetario_creditos_depositos_bcb,BONOS | UFV,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__B_A_N_C_O_S_COMERCIALES_NACIONALES_Y_EXTRANJEROS,sector_monetario_creditos_depositos_bcb,B   A   N   C   O   S | Comerciales | Nacionales y Extranjeros,En miles de bolivianos,1985-01-01,2026-09-01,479,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__B_A_N_C_O_S_DEL_ESTADO,sector_monetario_creditos_depositos_bcb,B   A   N   C   O   S | Del | Estado,En miles de bolivianos,1985-01-01,2026-09-01,479,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__B_A_N_C_O_S_EN_LIQUIDACION,sector_monetario_creditos_depositos_bcb,B   A   N   C   O   S | En | Liquidación,En miles de bolivianos,1985-01-01,2026-09-01,479,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__B_A_N_C_O_S_TOTAL_BCL,sector_monetario_creditos_depositos_bcb,B   A   N   C   O   S | Total | BCL,En miles de bolivianos,1985-01-01,2026-09-01,479,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__CD_MN,sector_monetario_creditos_depositos_bcb,CD | MN,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__CD_RESERVAS_COMPLEMENTARIAS,sector_monetario_creditos_depositos_bcb,CD | RESERVAS COMPLEMENTARIAS,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__CD_TOTAL_DEUDA_INTERNA_DEL_BCB,sector_monetario_creditos_depositos_bcb,CD | TOTAL DEUDA INTERNA DEL BCB,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__EMPRESAS_PUBLICAS_CREDITO_BRUTO_A,sector_monetario_creditos_depositos_bcb,EMPRESAS    PÚBLICAS | Crédito | Bruto | a,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__EMPRESAS_PUBLICAS_CREDITO_DEPOSITOS_B,sector_monetario_creditos_depositos_bcb,EMPRESAS    PÚBLICAS | Crédito | Depósitos | b,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__EMPRESAS_PUBLICAS_CREDITO_NETO_C_A_B,sector_monetario_creditos_depositos_bcb,EMPRESAS    PÚBLICAS | Crédito | Neto | c = a - b,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__GOBIERNOS_LOCALES_Y_REGIONALES_CREDITO_BRUTO_A,sector_monetario_creditos_depositos_bcb,GOBIERNOS LOCALES Y REGIONALES | Crédito | Bruto | a,,1987-12-01,2026-02-01,448,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__GOBIERNOS_LOCALES_Y_REGIONALES_CREDITO_DEPOSITOS_B,sector_monetario_creditos_depositos_bcb,GOBIERNOS LOCALES Y REGIONALES | Crédito | Depósitos | b,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__GOBIERNOS_LOCALES_Y_REGIONALES_CREDITO_NETO_C_A_B,sector_monetario_creditos_depositos_bcb,GOBIERNOS LOCALES Y REGIONALES | Crédito | Neto | c = a - b,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__GOBIERNO_CENTRAL_CREDITO_BRUTO_A,sector_monetario_creditos_depositos_bcb,GOBIERNO   CENTRAL | Crédito | Bruto | a,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__GOBIERNO_CENTRAL_CREDITO_DEPOSITOS_B,sector_monetario_creditos_depositos_bcb,GOBIERNO   CENTRAL | Crédito | Depósitos | b,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__GOBIERNO_CENTRAL_CREDITO_NETO_C_A_B,sector_monetario_creditos_depositos_bcb,GOBIERNO   CENTRAL | Crédito | Neto | c = a - b,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__LETRAS_ME,sector_monetario_creditos_depositos_bcb,LETRAS | ME,En millones de bolivianos,2000-01-01,2026-11-01,34,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__LETRAS_MN,sector_monetario_creditos_depositos_bcb,LETRAS | MN,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__LETRAS_TOTAL,sector_monetario_creditos_depositos_bcb,LETRAS | TOTAL,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__LETRAS_UFV,sector_monetario_creditos_depositos_bcb,LETRAS | UFV,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__MONEDA_EXTRANJERA_MONTO_REPORTADO_EN_US,sector_monetario_creditos_depositos_bcb,Moneda Extranjera | Monto | Reportado | (En $us),En Bs,2026-01-01,2026-12-01,12,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__MONEDA_EXTRANJERA_PLAZO_PROMEDIO_2_DIAS,sector_monetario_creditos_depositos_bcb,Moneda Extranjera | Plazo | Promedio (2) | (Días),En Bs,2026-01-01,2026-12-01,12,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__MONEDA_EXTRANJERA_TASA_PREMIO_1,sector_monetario_creditos_depositos_bcb,Moneda Extranjera | Tasa | Premio (1) | (%),En Bs,2026-01-01,2026-12-01,12,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__MONEDA_NACIONAL_MONTO_REPORTADO_EN_BS,sector_monetario_creditos_depositos_bcb,Moneda Nacional | Monto | Reportado | (En Bs),En Bs,2026-01-01,2026-12-01,12,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__MONEDA_NACIONAL_MONTO_REPORTADO_EN_BS_SEPT,sector_monetario_creditos_depositos_bcb,Moneda Nacional | Monto | Reportado | (En Bs) | SEPT,En Bs,2026-08-01,2026-08-01,1,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__MONEDA_NACIONAL_PLAZO_PROMEDIO_2_DIAS,sector_monetario_creditos_depositos_bcb,Moneda Nacional | Plazo | Promedio (2) | (Días),En Bs,2026-01-01,2026-12-01,12,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__MONEDA_NACIONAL_PLAZO_PROMEDIO_2_DIAS_SEPT,sector_monetario_creditos_depositos_bcb,Moneda Nacional | Plazo | Promedio (2) | (Días) | SEPT,En Bs,2026-08-01,2026-08-01,1,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__MONEDA_NACIONAL_TASA_PREMIO_1,sector_monetario_creditos_depositos_bcb,Moneda Nacional | Tasa | Premio (1) | (%),En Bs,2026-01-01,2026-12-01,12,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__MONEDA_NACIONAL_TASA_PREMIO_1_SEPT,sector_monetario_creditos_depositos_bcb,Moneda Nacional | Tasa | Premio (1) | (%) | SEPT,En Bs,2026-08-01,2026-08-01,1,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__REQUERIMIENTO_ACTIVOS_LIQUIDOS_MN,sector_monetario_creditos_depositos_bcb,REQUERIMIENTO ACTIVOS LIQUIDOS | MN,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__REQUERIMIENTO_ACTIVOS_LIQUIDOS_TOTAL_RAL,sector_monetario_creditos_depositos_bcb,REQUERIMIENTO ACTIVOS LIQUIDOS | TOTAL RAL,En millones de bolivianos,2000-01-01,2026-12-01,35,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__REQUERIMIENTO_ACTIVOS_LIQUIDOS_UFV,sector_monetario_creditos_depositos_bcb,REQUERIMIENTO ACTIVOS LIQUIDOS | UFV,En millones de bolivianos,2000-01-01,2026-11-01,34,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__SEGURIDAD_SOCIAL_CREDITO_BRUTO_A,sector_monetario_creditos_depositos_bcb,SEGURIDAD   SOCIAL | Crédito | Bruto | a,,1987-12-01,2026-02-01,448,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__SEGURIDAD_SOCIAL_CREDITO_DEPOSITOS_B,sector_monetario_creditos_depositos_bcb,SEGURIDAD   SOCIAL | Crédito | Depósitos | b,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__SEGURIDAD_SOCIAL_CREDITO_NETO_C_A_B,sector_monetario_creditos_depositos_bcb,SEGURIDAD   SOCIAL | Crédito | Neto | c = a - b,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__T_O_T_A_L_CREDITO_DEPOSITOS_B,sector_monetario_creditos_depositos_bcb,T   O   T   A   L | Crédito | Depósitos | b,,1987-12-01,2026-09-01,455,1,2026-11-01
+SECTOR_MONETARIO_CREDITOS_DEPOSITOS_BCB__T_O_T_A_L_CREDITO_NETO_C_A_B,sector_monetario_creditos_depositos_bcb,T   O   T   A   L | Crédito | Neto | c = a - b,,1987-12-01,2026-09-01,455,1,2026-11-01

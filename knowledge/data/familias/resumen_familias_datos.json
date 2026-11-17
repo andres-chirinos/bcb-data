@@ -1,0 +1,263 @@
+{
+  "familias": [
+    {
+      "familia": "balanza_pagos",
+      "archivos_entrada": 15,
+      "hojas_ok": 0,
+      "filas": 14436,
+      "series": 586,
+      "errores": 0
+    },
+    {
+      "familia": "boletin_estadistico",
+      "archivos_entrada": 226,
+      "hojas_ok": 0,
+      "filas": 106936,
+      "series": 7493,
+      "errores": 0
+    },
+    {
+      "familia": "deuda_externa_bruta",
+      "archivos_entrada": 3,
+      "hojas_ok": 0,
+      "filas": 160,
+      "series": 20,
+      "errores": 0
+    },
+    {
+      "familia": "estadisticas_semanales",
+      "archivos_entrada": 99,
+      "hojas_ok": 0,
+      "filas": 178176,
+      "series": 1294,
+      "errores": 0
+    },
+    {
+      "familia": "memoria_anual",
+      "archivos_entrada": 3,
+      "hojas_ok": 0,
+      "filas": 8667,
+      "series": 1386,
+      "errores": 0
+    },
+    {
+      "familia": "posicion_inversion_internacional",
+      "archivos_entrada": 16,
+      "hojas_ok": 0,
+      "filas": 4682,
+      "series": 957,
+      "errores": 0
+    },
+    {
+      "familia": "programa_monetario",
+      "archivos_entrada": 3,
+      "hojas_ok": 0,
+      "filas": 231,
+      "series": 111,
+      "errores": 0
+    },
+    {
+      "familia": "resumen_cifras",
+      "archivos_entrada": 2,
+      "hojas_ok": 0,
+      "filas": 576,
+      "series": 167,
+      "errores": 0
+    },
+    {
+      "familia": "sector_externo_comercio_bienes",
+      "archivos_entrada": 25,
+      "hojas_ok": 0,
+      "filas": 38173,
+      "series": 743,
+      "errores": 0
+    },
+    {
+      "familia": "sector_externo_comercio_servicios",
+      "archivos_entrada": 6,
+      "hojas_ok": 0,
+      "filas": 4526,
+      "series": 520,
+      "errores": 0
+    },
+    {
+      "familia": "sector_externo_deuda_externa",
+      "archivos_entrada": 31,
+      "hojas_ok": 0,
+      "filas": 10814,
+      "series": 649,
+      "errores": 0
+    },
+    {
+      "familia": "sector_externo_inversion_directa",
+      "archivos_entrada": 2,
+      "hojas_ok": 0,
+      "filas": 5262,
+      "series": 66,
+      "errores": 0
+    },
+    {
+      "familia": "sector_externo_otras_variables",
+      "archivos_entrada": 14,
+      "hojas_ok": 0,
+      "filas": 30251,
+      "series": 406,
+      "errores": 0
+    },
+    {
+      "familia": "sector_externo_remesas",
+      "archivos_entrada": 2,
+      "hojas_ok": 0,
+      "filas": 4938,
+      "series": 68,
+      "errores": 0
+    },
+    {
+      "familia": "sector_externo_reservas",
+      "archivos_entrada": 4,
+      "hojas_ok": 0,
+      "filas": 3382,
+      "series": 76,
+      "errores": 0
+    },
+    {
+      "familia": "sector_monetario_balances_consolidados",
+      "archivos_entrada": 17,
+      "hojas_ok": 0,
+      "filas": 98224,
+      "series": 906,
+      "errores": 0
+    },
+    {
+      "familia": "sector_monetario_creditos_depositos_bcb",
+      "archivos_entrada": 4,
+      "hojas_ok": 0,
+      "filas": 9979,
+      "series": 50,
+      "errores": 0
+    },
+    {
+      "familia": "sector_monetario_creditos_depositos_osd",
+      "archivos_entrada": 21,
+      "hojas_ok": 0,
+      "filas": 17448,
+      "series": 3431,
+      "errores": 0
+    },
+    {
+      "familia": "sector_monetario_cuentas_monetarias",
+      "archivos_entrada": 5,
+      "hojas_ok": 0,
+      "filas": 1639,
+      "series": 311,
+      "errores": 0
+    },
+    {
+      "familia": "sector_monetario_indicadores",
+      "archivos_entrada": 8,
+      "hojas_ok": 0,
+      "filas": 34136,
+      "series": 135,
+      "errores": 0
+    },
+    {
+      "familia": "sector_monetario_tasas_monetarias",
+      "archivos_entrada": 1,
+      "hojas_ok": 0,
+      "filas": 2928,
+      "series": 168,
+      "errores": 0
+    },
+    {
+      "familia": "sector_precios_inflacion_nucleo",
+      "archivos_entrada": 1,
+      "hojas_ok": 0,
+      "filas": 1182,
+      "series": 3,
+      "errores": 0
+    },
+    {
+      "familia": "sector_precios_inflacion_subyacente",
+      "archivos_entrada": 1,
+      "hojas_ok": 0,
+      "filas": 1182,
+      "series": 3,
+      "errores": 0
+    },
+    {
+      "familia": "sistema_pagos",
+      "archivos_entrada": 109,
+      "hojas_ok": 109,
+      "filas": 22782,
+      "series": 229,
+      "errores": 0
+    },
+    {
+      "familia": "tasas_destino_credito_mensual",
+      "archivos_entrada": 27,
+      "hojas_ok": 0,
+      "filas": 53766,
+      "series": 466,
+      "errores": 0
+    },
+    {
+      "familia": "tasas_destino_credito_semanal",
+      "archivos_entrada": 26,
+      "hojas_ok": 0,
+      "filas": 212901,
+      "series": 637,
+      "errores": 0
+    },
+    {
+      "familia": "tasas_diarias",
+      "archivos_entrada": 423,
+      "hojas_ok": 845,
+      "filas": 504855,
+      "series": 1701,
+      "errores": 0
+    },
+    {
+      "familia": "tasas_historicas_anuales",
+      "archivos_entrada": 1,
+      "hojas_ok": 0,
+      "filas": 1000,
+      "series": 70,
+      "errores": 0
+    },
+    {
+      "familia": "tasas_historicas_mensuales",
+      "archivos_entrada": 26,
+      "hojas_ok": 0,
+      "filas": 14284,
+      "series": 118,
+      "errores": 0
+    },
+    {
+      "familia": "tasas_historicas_semanales",
+      "archivos_entrada": 27,
+      "hojas_ok": 0,
+      "filas": 63800,
+      "series": 218,
+      "errores": 0
+    },
+    {
+      "familia": "tasas_publicacion",
+      "archivos_entrada": 93,
+      "hojas_ok": 184,
+      "filas": 109367,
+      "series": 3647,
+      "errores": 0
+    },
+    {
+      "familia": "tasas_referencia",
+      "archivos_entrada": 25,
+      "hojas_ok": 0,
+      "filas": 3840,
+      "series": 4,
+      "errores": 0
+    }
+  ],
+  "total_filas": 1564523,
+  "total_series": 26639,
+  "total_errores": 0
+}

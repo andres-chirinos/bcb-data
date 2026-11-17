@@ -1,0 +1,4 @@
+serie_id,familia,serie,unidad,primera_fecha,ultima_fecha,n_observaciones,n_archivos,publicacion_ultima
+SECTOR_PRECIOS_INFLACION_NUCLEO__VARIACION_ACUMULADA,sector_precios_inflacion_nucleo,VARIACIÓN % | ACUMULADA,%,1994-01-01,2026-10-01,394,1,2026-11-01
+SECTOR_PRECIOS_INFLACION_NUCLEO__VARIACION_A_12_MESES,sector_precios_inflacion_nucleo,VARIACIÓN % | A 12 MESES,%,1994-01-01,2026-10-01,394,1,2026-11-01
+SECTOR_PRECIOS_INFLACION_NUCLEO__VARIACION_MENSUAL,sector_precios_inflacion_nucleo,VARIACIÓN % | MENSUAL,%,1994-01-01,2026-10-01,394,1,2026-11-01

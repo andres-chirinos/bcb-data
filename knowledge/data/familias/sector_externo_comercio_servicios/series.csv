@@ -1,0 +1,521 @@
+serie_id,familia,serie,unidad,primera_fecha,ultima_fecha,n_observaciones,n_archivos,publicacion_ultima
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_ALEMANIA,sector_externo_comercio_servicios,2023p | Alemania,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_ARGENTINA,sector_externo_comercio_servicios,2023p | Argentina,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_AUSTRALIA,sector_externo_comercio_servicios,2023p | Australia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_BELGICA,sector_externo_comercio_servicios,2023p | Bélgica,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_BERMUDAS,sector_externo_comercio_servicios,2023p | Bermudas,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_BRASIL,sector_externo_comercio_servicios,2023p | Brasil,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_CANADA,sector_externo_comercio_servicios,2023p | Canadá,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_CARGOS_POR_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,2023p | Cargos por uso de propiedad intelectual,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_CHILE,sector_externo_comercio_servicios,2023p | Chile,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_CHINA,sector_externo_comercio_servicios,2023p | China,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_COLOMBIA,sector_externo_comercio_servicios,2023p | Colombia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_CONSTRUCCION,sector_externo_comercio_servicios,2023p | Construcción,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_COREA_DEL_SUR,sector_externo_comercio_servicios,2023p | Corea del Sur,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_DINAMARCA,sector_externo_comercio_servicios,2023p | Dinamarca,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_ECUADOR,sector_externo_comercio_servicios,2023p | Ecuador,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_EEUU,sector_externo_comercio_servicios,2023p | EEUU,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_ESPANA,sector_externo_comercio_servicios,2023p | España,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_FRANCIA,sector_externo_comercio_servicios,2023p | Francia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,2023p | Gastos de realización,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_IRLANDA,sector_externo_comercio_servicios,2023p | Irlanda,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_ITALIA,sector_externo_comercio_servicios,2023p | Italia,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_JAPON,sector_externo_comercio_servicios,2023p | Japón,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_MEXICO,sector_externo_comercio_servicios,2023p | México,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_MODO_1,sector_externo_comercio_servicios,2023p | Modo 1,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_MODO_2,sector_externo_comercio_servicios,2023p | Modo 2,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_MODO_4,sector_externo_comercio_servicios,2023p | Modo 4,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_OTROS_SERVICIOS,sector_externo_comercio_servicios,2023p | Otros servicios,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,2023p | Otros servicios empresariales,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_PAISES_BAJOS,sector_externo_comercio_servicios,2023p | Países Bajos,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_PANAMA,sector_externo_comercio_servicios,2023p | Panamá,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_PARAGUAY,sector_externo_comercio_servicios,2023p | Paraguay,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_PERU,sector_externo_comercio_servicios,2023p | Perú,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_REINO_UNIDO,sector_externo_comercio_servicios,2023p | Reino Unido,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,2023p | Reparación y mantenimiento de equipos,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_REPUBLICA_DOMINICANA,sector_externo_comercio_servicios,2023p | República Dominicana,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_RESTO,sector_externo_comercio_servicios,2023p | Resto,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,2023p | Servicios de Gobierno niop,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,2023p | Servicios de seguros y pensiones,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,2023p | Servicios financieros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"2023p | Servicios personales, culturales y recreativos",En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,sector_externo_comercio_servicios,2023p | Serv. de manufactura en insumos físicos pertenecientes a otros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,2023p | Serv. de manufactura en insumos físicos propiedad de otros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_SUECIA,sector_externo_comercio_servicios,2023p | Suecia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_SUIZA,sector_externo_comercio_servicios,2023p | Suiza,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"2023p | Telecomunicaciones, informática e información",En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL,sector_externo_comercio_servicios,2023p | TOTAL,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_ALEMANIA,sector_externo_comercio_servicios,2023p | Total | Alemania,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_ARGENTINA,sector_externo_comercio_servicios,2023p | Total | Argentina,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_AUSTRALIA,sector_externo_comercio_servicios,2023p | Total | Australia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_BELGICA,sector_externo_comercio_servicios,2023p | Total | Bélgica,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_BERMUDAS,sector_externo_comercio_servicios,2023p | Total | Bermudas,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_BRASIL,sector_externo_comercio_servicios,2023p | Total | Brasil,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_CARGOS_POR_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,2023p | Total | Cargos por uso de propiedad intelectual,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_CHILE,sector_externo_comercio_servicios,2023p | Total | Chile,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_CHINA,sector_externo_comercio_servicios,2023p | Total | China,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_COLOMBIA,sector_externo_comercio_servicios,2023p | Total | Colombia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_CONSTRUCCION,sector_externo_comercio_servicios,2023p | Total | Construcción,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_COREA_DEL_SUR,sector_externo_comercio_servicios,2023p | Total | Corea del Sur,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_DINAMARCA,sector_externo_comercio_servicios,2023p | Total | Dinamarca,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_ECUADOR,sector_externo_comercio_servicios,2023p | Total | Ecuador,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_EEUU,sector_externo_comercio_servicios,2023p | Total | EEUU,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_ESPANA,sector_externo_comercio_servicios,2023p | Total | España,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_FRANCIA,sector_externo_comercio_servicios,2023p | Total | Francia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,2023p | Total | Gastos de realización,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_IRLANDA,sector_externo_comercio_servicios,2023p | Total | Irlanda,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_JAPON,sector_externo_comercio_servicios,2023p | Total | Japón,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_MEXICO,sector_externo_comercio_servicios,2023p | Total | México,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_MODO_1,sector_externo_comercio_servicios,2023p | Total | Modo 1,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_MODO_2,sector_externo_comercio_servicios,2023p | Total | Modo 2,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_MODO_4,sector_externo_comercio_servicios,2023p | Total | Modo 4,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_OTROS_SERVICIOS,sector_externo_comercio_servicios,2023p | Total | Otros servicios,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,2023p | Total | Otros servicios empresariales,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_PANAMA,sector_externo_comercio_servicios,2023p | Total | Panamá,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_PARAGUAY,sector_externo_comercio_servicios,2023p | Total | Paraguay,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_PERU,sector_externo_comercio_servicios,2023p | Total | Perú,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_REINO_UNIDO,sector_externo_comercio_servicios,2023p | Total | Reino Unido,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,2023p | Total | Reparación y mantenimiento de equipos,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_REPUBLICA_DOMINICANA,sector_externo_comercio_servicios,2023p | Total | República Dominicana,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_RESTO,sector_externo_comercio_servicios,2023p | Total | Resto,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,2023p | Total | Servicios de Gobierno niop,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,2023p | Total | Servicios de seguros y pensiones,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,2023p | Total | Servicios financieros,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"2023p | Total | Servicios personales, culturales y recreativos",En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,sector_externo_comercio_servicios,2023p | Total | Serv. de manufactura en insumos físicos pertenecientes a otros,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,2023p | Total | Serv. de manufactura en insumos físicos propiedad de otros,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_SUECIA,sector_externo_comercio_servicios,2023p | Total | Suecia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_SUIZA,sector_externo_comercio_servicios,2023p | Total | Suiza,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"2023p | Total | Telecomunicaciones, informática e información",En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_TOTAL,sector_externo_comercio_servicios,2023p | Total | TOTAL,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_TRANSPORTE,sector_externo_comercio_servicios,2023p | Total | Transporte,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TOTAL_VIAJES,sector_externo_comercio_servicios,2023p | Total | Viajes,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_TRANSPORTE,sector_externo_comercio_servicios,2023p | Transporte,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_URUGUAY,sector_externo_comercio_servicios,2023p | Uruguay,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_VENEZUELA,sector_externo_comercio_servicios,2023p | Venezuela,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2023P_VIAJES,sector_externo_comercio_servicios,2023p | Viajes,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_ALEMANIA,sector_externo_comercio_servicios,2024p | Alemania,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_ARGENTINA,sector_externo_comercio_servicios,2024p | Argentina,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_AUSTRALIA,sector_externo_comercio_servicios,2024p | Australia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_BELGICA,sector_externo_comercio_servicios,2024p | Bélgica,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_BERMUDAS,sector_externo_comercio_servicios,2024p | Bermudas,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_BRASIL,sector_externo_comercio_servicios,2024p | Brasil,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_CANADA,sector_externo_comercio_servicios,2024p | Canadá,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_CARGOS_POR_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,2024p | Cargos por uso de propiedad intelectual,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_CHILE,sector_externo_comercio_servicios,2024p | Chile,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_CHINA,sector_externo_comercio_servicios,2024p | China,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_COLOMBIA,sector_externo_comercio_servicios,2024p | Colombia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_CONSTRUCCION,sector_externo_comercio_servicios,2024p | Construcción,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_COREA_DEL_SUR,sector_externo_comercio_servicios,2024p | Corea del Sur,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_DINAMARCA,sector_externo_comercio_servicios,2024p | Dinamarca,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_ECUADOR,sector_externo_comercio_servicios,2024p | Ecuador,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_EEUU,sector_externo_comercio_servicios,2024p | EEUU,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_ESPANA,sector_externo_comercio_servicios,2024p | España,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_FRANCIA,sector_externo_comercio_servicios,2024p | Francia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,2024p | Gastos de realización,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_IRLANDA,sector_externo_comercio_servicios,2024p | Irlanda,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_ITALIA,sector_externo_comercio_servicios,2024p | Italia,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_JAPON,sector_externo_comercio_servicios,2024p | Japón,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_MEXICO,sector_externo_comercio_servicios,2024p | México,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_MODO_1,sector_externo_comercio_servicios,2024p | Modo 1,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_MODO_2,sector_externo_comercio_servicios,2024p | Modo 2,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_MODO_4,sector_externo_comercio_servicios,2024p | Modo 4,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_OTROS_SERVICIOS,sector_externo_comercio_servicios,2024p | Otros servicios,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,2024p | Otros servicios empresariales,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_PAISES_BAJOS,sector_externo_comercio_servicios,2024p | Países Bajos,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_PANAMA,sector_externo_comercio_servicios,2024p | Panamá,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_PARAGUAY,sector_externo_comercio_servicios,2024p | Paraguay,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_PERU,sector_externo_comercio_servicios,2024p | Perú,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_REINO_UNIDO,sector_externo_comercio_servicios,2024p | Reino Unido,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,2024p | Reparación y mantenimiento de equipos,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_REPUBLICA_DOMINICANA,sector_externo_comercio_servicios,2024p | República Dominicana,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_RESTO,sector_externo_comercio_servicios,2024p | Resto,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,2024p | Servicios de Gobierno niop,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,2024p | Servicios de seguros y pensiones,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,2024p | Servicios financieros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"2024p | Servicios personales, culturales y recreativos",En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,sector_externo_comercio_servicios,2024p | Serv. de manufactura en insumos físicos pertenecientes a otros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,2024p | Serv. de manufactura en insumos físicos propiedad de otros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_SUECIA,sector_externo_comercio_servicios,2024p | Suecia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_SUIZA,sector_externo_comercio_servicios,2024p | Suiza,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"2024p | Telecomunicaciones, informática e información",En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL,sector_externo_comercio_servicios,2024p | TOTAL,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_ALEMANIA,sector_externo_comercio_servicios,2024p | Total | Alemania,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_ARGENTINA,sector_externo_comercio_servicios,2024p | Total | Argentina,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_AUSTRALIA,sector_externo_comercio_servicios,2024p | Total | Australia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_BELGICA,sector_externo_comercio_servicios,2024p | Total | Bélgica,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_BERMUDAS,sector_externo_comercio_servicios,2024p | Total | Bermudas,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_BRASIL,sector_externo_comercio_servicios,2024p | Total | Brasil,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_CARGOS_POR_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,2024p | Total | Cargos por uso de propiedad intelectual,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_CHILE,sector_externo_comercio_servicios,2024p | Total | Chile,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_CHINA,sector_externo_comercio_servicios,2024p | Total | China,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_COLOMBIA,sector_externo_comercio_servicios,2024p | Total | Colombia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_CONSTRUCCION,sector_externo_comercio_servicios,2024p | Total | Construcción,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_COREA_DEL_SUR,sector_externo_comercio_servicios,2024p | Total | Corea del Sur,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_DINAMARCA,sector_externo_comercio_servicios,2024p | Total | Dinamarca,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_ECUADOR,sector_externo_comercio_servicios,2024p | Total | Ecuador,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_EEUU,sector_externo_comercio_servicios,2024p | Total | EEUU,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_ESPANA,sector_externo_comercio_servicios,2024p | Total | España,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_FRANCIA,sector_externo_comercio_servicios,2024p | Total | Francia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,2024p | Total | Gastos de realización,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_IRLANDA,sector_externo_comercio_servicios,2024p | Total | Irlanda,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_JAPON,sector_externo_comercio_servicios,2024p | Total | Japón,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_MEXICO,sector_externo_comercio_servicios,2024p | Total | México,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_MODO_1,sector_externo_comercio_servicios,2024p | Total | Modo 1,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_MODO_2,sector_externo_comercio_servicios,2024p | Total | Modo 2,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_MODO_4,sector_externo_comercio_servicios,2024p | Total | Modo 4,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_OTROS_SERVICIOS,sector_externo_comercio_servicios,2024p | Total | Otros servicios,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,2024p | Total | Otros servicios empresariales,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_PANAMA,sector_externo_comercio_servicios,2024p | Total | Panamá,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_PARAGUAY,sector_externo_comercio_servicios,2024p | Total | Paraguay,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_PERU,sector_externo_comercio_servicios,2024p | Total | Perú,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_REINO_UNIDO,sector_externo_comercio_servicios,2024p | Total | Reino Unido,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,2024p | Total | Reparación y mantenimiento de equipos,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_REPUBLICA_DOMINICANA,sector_externo_comercio_servicios,2024p | Total | República Dominicana,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_RESTO,sector_externo_comercio_servicios,2024p | Total | Resto,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,2024p | Total | Servicios de Gobierno niop,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,2024p | Total | Servicios de seguros y pensiones,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,2024p | Total | Servicios financieros,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"2024p | Total | Servicios personales, culturales y recreativos",En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,sector_externo_comercio_servicios,2024p | Total | Serv. de manufactura en insumos físicos pertenecientes a otros,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,2024p | Total | Serv. de manufactura en insumos físicos propiedad de otros,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_SUECIA,sector_externo_comercio_servicios,2024p | Total | Suecia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_SUIZA,sector_externo_comercio_servicios,2024p | Total | Suiza,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"2024p | Total | Telecomunicaciones, informática e información",En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_TOTAL,sector_externo_comercio_servicios,2024p | Total | TOTAL,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_TRANSPORTE,sector_externo_comercio_servicios,2024p | Total | Transporte,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TOTAL_VIAJES,sector_externo_comercio_servicios,2024p | Total | Viajes,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_TRANSPORTE,sector_externo_comercio_servicios,2024p | Transporte,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_URUGUAY,sector_externo_comercio_servicios,2024p | Uruguay,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_VENEZUELA,sector_externo_comercio_servicios,2024p | Venezuela,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2024P_VIAJES,sector_externo_comercio_servicios,2024p | Viajes,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_ALEMANIA,sector_externo_comercio_servicios,2025p | Alemania,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_ARGENTINA,sector_externo_comercio_servicios,2025p | Argentina,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_AUSTRALIA,sector_externo_comercio_servicios,2025p | Australia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_BELGICA,sector_externo_comercio_servicios,2025p | Bélgica,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_BERMUDAS,sector_externo_comercio_servicios,2025p | Bermudas,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_BRASIL,sector_externo_comercio_servicios,2025p | Brasil,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_CANADA,sector_externo_comercio_servicios,2025p | Canadá,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_CARGOS_POR_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,2025p | Cargos por uso de propiedad intelectual,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_CHILE,sector_externo_comercio_servicios,2025p | Chile,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_CHINA,sector_externo_comercio_servicios,2025p | China,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_COLOMBIA,sector_externo_comercio_servicios,2025p | Colombia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_CONSTRUCCION,sector_externo_comercio_servicios,2025p | Construcción,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_COREA_DEL_SUR,sector_externo_comercio_servicios,2025p | Corea del Sur,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_DINAMARCA,sector_externo_comercio_servicios,2025p | Dinamarca,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_ECUADOR,sector_externo_comercio_servicios,2025p | Ecuador,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_EEUU,sector_externo_comercio_servicios,2025p | EEUU,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_ESPANA,sector_externo_comercio_servicios,2025p | España,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_FRANCIA,sector_externo_comercio_servicios,2025p | Francia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,2025p | Gastos de realización,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_IRLANDA,sector_externo_comercio_servicios,2025p | Irlanda,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_ITALIA,sector_externo_comercio_servicios,2025p | Italia,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_JAPON,sector_externo_comercio_servicios,2025p | Japón,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_MEXICO,sector_externo_comercio_servicios,2025p | México,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_MODO_1,sector_externo_comercio_servicios,2025p | Modo 1,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_MODO_2,sector_externo_comercio_servicios,2025p | Modo 2,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_MODO_4,sector_externo_comercio_servicios,2025p | Modo 4,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_OTROS_SERVICIOS,sector_externo_comercio_servicios,2025p | Otros servicios,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,2025p | Otros servicios empresariales,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_PAISES_BAJOS,sector_externo_comercio_servicios,2025p | Países Bajos,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_PANAMA,sector_externo_comercio_servicios,2025p | Panamá,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_PARAGUAY,sector_externo_comercio_servicios,2025p | Paraguay,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_PERU,sector_externo_comercio_servicios,2025p | Perú,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_REINO_UNIDO,sector_externo_comercio_servicios,2025p | Reino Unido,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,2025p | Reparación y mantenimiento de equipos,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_REPUBLICA_DOMINICANA,sector_externo_comercio_servicios,2025p | República Dominicana,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_RESTO,sector_externo_comercio_servicios,2025p | Resto,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,2025p | Servicios de Gobierno niop,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,2025p | Servicios de seguros y pensiones,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,2025p | Servicios financieros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"2025p | Servicios personales, culturales y recreativos",En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,sector_externo_comercio_servicios,2025p | Serv. de manufactura en insumos físicos pertenecientes a otros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,2025p | Serv. de manufactura en insumos físicos propiedad de otros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_SUECIA,sector_externo_comercio_servicios,2025p | Suecia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_SUIZA,sector_externo_comercio_servicios,2025p | Suiza,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"2025p | Telecomunicaciones, informática e información",En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL,sector_externo_comercio_servicios,2025p | TOTAL,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_ALEMANIA,sector_externo_comercio_servicios,2025p | Total | Alemania,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_ARGENTINA,sector_externo_comercio_servicios,2025p | Total | Argentina,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_AUSTRALIA,sector_externo_comercio_servicios,2025p | Total | Australia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_BELGICA,sector_externo_comercio_servicios,2025p | Total | Bélgica,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_BERMUDAS,sector_externo_comercio_servicios,2025p | Total | Bermudas,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_BRASIL,sector_externo_comercio_servicios,2025p | Total | Brasil,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_CARGOS_POR_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,2025p | Total | Cargos por uso de propiedad intelectual,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_CHILE,sector_externo_comercio_servicios,2025p | Total | Chile,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_CHINA,sector_externo_comercio_servicios,2025p | Total | China,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_COLOMBIA,sector_externo_comercio_servicios,2025p | Total | Colombia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_CONSTRUCCION,sector_externo_comercio_servicios,2025p | Total | Construcción,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_COREA_DEL_SUR,sector_externo_comercio_servicios,2025p | Total | Corea del Sur,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_DINAMARCA,sector_externo_comercio_servicios,2025p | Total | Dinamarca,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_ECUADOR,sector_externo_comercio_servicios,2025p | Total | Ecuador,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_EEUU,sector_externo_comercio_servicios,2025p | Total | EEUU,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_ESPANA,sector_externo_comercio_servicios,2025p | Total | España,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_FRANCIA,sector_externo_comercio_servicios,2025p | Total | Francia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,2025p | Total | Gastos de realización,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_IRLANDA,sector_externo_comercio_servicios,2025p | Total | Irlanda,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_JAPON,sector_externo_comercio_servicios,2025p | Total | Japón,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_MEXICO,sector_externo_comercio_servicios,2025p | Total | México,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_MODO_1,sector_externo_comercio_servicios,2025p | Total | Modo 1,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_MODO_2,sector_externo_comercio_servicios,2025p | Total | Modo 2,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_MODO_4,sector_externo_comercio_servicios,2025p | Total | Modo 4,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_OTROS_SERVICIOS,sector_externo_comercio_servicios,2025p | Total | Otros servicios,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,2025p | Total | Otros servicios empresariales,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_PANAMA,sector_externo_comercio_servicios,2025p | Total | Panamá,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_PARAGUAY,sector_externo_comercio_servicios,2025p | Total | Paraguay,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_PERU,sector_externo_comercio_servicios,2025p | Total | Perú,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_REINO_UNIDO,sector_externo_comercio_servicios,2025p | Total | Reino Unido,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,2025p | Total | Reparación y mantenimiento de equipos,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_REPUBLICA_DOMINICANA,sector_externo_comercio_servicios,2025p | Total | República Dominicana,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_RESTO,sector_externo_comercio_servicios,2025p | Total | Resto,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,2025p | Total | Servicios de Gobierno niop,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,2025p | Total | Servicios de seguros y pensiones,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,2025p | Total | Servicios financieros,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"2025p | Total | Servicios personales, culturales y recreativos",En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,sector_externo_comercio_servicios,2025p | Total | Serv. de manufactura en insumos físicos pertenecientes a otros,En millones de $us,2022-01-01,2026-06-30,2,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,2025p | Total | Serv. de manufactura en insumos físicos propiedad de otros,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_SUECIA,sector_externo_comercio_servicios,2025p | Total | Suecia,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_SUIZA,sector_externo_comercio_servicios,2025p | Total | Suiza,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"2025p | Total | Telecomunicaciones, informática e información",En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_TOTAL,sector_externo_comercio_servicios,2025p | Total | TOTAL,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_TRANSPORTE,sector_externo_comercio_servicios,2025p | Total | Transporte,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TOTAL_VIAJES,sector_externo_comercio_servicios,2025p | Total | Viajes,En millones de $us,2022-01-01,2026-06-30,2,2,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_TRANSPORTE,sector_externo_comercio_servicios,2025p | Transporte,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_URUGUAY,sector_externo_comercio_servicios,2025p | Uruguay,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_VENEZUELA,sector_externo_comercio_servicios,2025p | Venezuela,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2025P_VIAJES,sector_externo_comercio_servicios,2025p | Viajes,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_ALEMANIA,sector_externo_comercio_servicios,2026p | Alemania,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_ARGENTINA,sector_externo_comercio_servicios,2026p | Argentina,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_AUSTRALIA,sector_externo_comercio_servicios,2026p | Australia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_BELGICA,sector_externo_comercio_servicios,2026p | Bélgica,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_BERMUDAS,sector_externo_comercio_servicios,2026p | Bermudas,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_BRASIL,sector_externo_comercio_servicios,2026p | Brasil,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_CANADA,sector_externo_comercio_servicios,2026p | Canadá,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_CARGOS_POR_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,2026p | Cargos por uso de propiedad intelectual,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_CHILE,sector_externo_comercio_servicios,2026p | Chile,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_CHINA,sector_externo_comercio_servicios,2026p | China,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_COLOMBIA,sector_externo_comercio_servicios,2026p | Colombia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_CONSTRUCCION,sector_externo_comercio_servicios,2026p | Construcción,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_COREA_DEL_SUR,sector_externo_comercio_servicios,2026p | Corea del Sur,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_DINAMARCA,sector_externo_comercio_servicios,2026p | Dinamarca,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_ECUADOR,sector_externo_comercio_servicios,2026p | Ecuador,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_EEUU,sector_externo_comercio_servicios,2026p | EEUU,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_ESPANA,sector_externo_comercio_servicios,2026p | España,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_FRANCIA,sector_externo_comercio_servicios,2026p | Francia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,2026p | Gastos de realización,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_IRLANDA,sector_externo_comercio_servicios,2026p | Irlanda,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_ITALIA,sector_externo_comercio_servicios,2026p | Italia,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_JAPON,sector_externo_comercio_servicios,2026p | Japón,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_MEXICO,sector_externo_comercio_servicios,2026p | México,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_MODO_1,sector_externo_comercio_servicios,2026p | Modo 1,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_MODO_2,sector_externo_comercio_servicios,2026p | Modo 2,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_MODO_4,sector_externo_comercio_servicios,2026p | Modo 4,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_OTROS_SERVICIOS,sector_externo_comercio_servicios,2026p | Otros servicios,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,2026p | Otros servicios empresariales,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_PAISES_BAJOS,sector_externo_comercio_servicios,2026p | Países Bajos,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_PANAMA,sector_externo_comercio_servicios,2026p | Panamá,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_PARAGUAY,sector_externo_comercio_servicios,2026p | Paraguay,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_PERU,sector_externo_comercio_servicios,2026p | Perú,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_REINO_UNIDO,sector_externo_comercio_servicios,2026p | Reino Unido,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,2026p | Reparación y mantenimiento de equipos,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_REPUBLICA_DOMINICANA,sector_externo_comercio_servicios,2026p | República Dominicana,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_RESTO,sector_externo_comercio_servicios,2026p | Resto,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,2026p | Servicios de Gobierno niop,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,2026p | Servicios de seguros y pensiones,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,2026p | Servicios financieros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"2026p | Servicios personales, culturales y recreativos",En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,sector_externo_comercio_servicios,2026p | Serv. de manufactura en insumos físicos pertenecientes a otros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,2026p | Serv. de manufactura en insumos físicos propiedad de otros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_SUECIA,sector_externo_comercio_servicios,2026p | Suecia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_SUIZA,sector_externo_comercio_servicios,2026p | Suiza,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"2026p | Telecomunicaciones, informática e información",En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_TOTAL,sector_externo_comercio_servicios,2026p | TOTAL,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_TRANSPORTE,sector_externo_comercio_servicios,2026p | Transporte,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_URUGUAY,sector_externo_comercio_servicios,2026p | Uruguay,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_VENEZUELA,sector_externo_comercio_servicios,2026p | Venezuela,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__2026P_VIAJES,sector_externo_comercio_servicios,2026p | Viajes,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__ALEMANIA,sector_externo_comercio_servicios,Alemania,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__ARGENTINA,sector_externo_comercio_servicios,Argentina,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__AUSTRALIA,sector_externo_comercio_servicios,Australia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__BELGICA,sector_externo_comercio_servicios,Bélgica,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__BERMUDAS,sector_externo_comercio_servicios,Bermudas,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__BRASIL,sector_externo_comercio_servicios,Brasil,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CANADA,sector_externo_comercio_servicios,Canadá,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CARGOS_POR_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,Cargos por uso de propiedad intelectual,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CHILE,sector_externo_comercio_servicios,Chile,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CHINA,sector_externo_comercio_servicios,China,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__COLOMBIA,sector_externo_comercio_servicios,Colombia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CONSTRUCCION,sector_externo_comercio_servicios,Construcción,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__COREA_DEL_SUR,sector_externo_comercio_servicios,Corea del Sur,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_CARGOS_POR_EL_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,Crédito | Cargos por el uso de propiedad intelectual,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_DE_NEGOCIOS,sector_externo_comercio_servicios,Crédito | De Negocios,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_FLETAMENTOS,sector_externo_comercio_servicios,Crédito | Fletamentos,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_FLETES,sector_externo_comercio_servicios,Crédito | Fletes,En millones de $us,2014-01-01,2026-11-01,38,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_OTROS,sector_externo_comercio_servicios,Crédito | Otros,En millones de $us,2014-01-01,2026-11-01,38,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_OTROS_MERCANCIAS,sector_externo_comercio_servicios,Crédito | Otros mercancías,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_OTROS_PASAJEROS,sector_externo_comercio_servicios,Crédito | Otros pasajeros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_OTROS_SERVICIOS,sector_externo_comercio_servicios,Crédito | Otros servicios,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,Crédito | Otros servicios empresariales,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_OTROS_TRANSPORTES,sector_externo_comercio_servicios,Crédito | Otros Transportes,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_PASAJEROS,sector_externo_comercio_servicios,Crédito | Pasajeros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_PERSONALES,sector_externo_comercio_servicios,Crédito | Personales,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,Crédito | Reparación y mantenimiento de equipos,En millones de $us,2014-01-01,2026-11-01,38,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_SERVICIOS_DE_CONSTRUCCION,sector_externo_comercio_servicios,Crédito | Servicios de Construcción,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_SERVICIOS_DE_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,Crédito | Servicios de gastos de realización,En millones de $us,2014-01-01,2026-11-01,22,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,Crédito | Servicios de Gobierno N.I.O.P.,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_SERVICIOS_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,Crédito | Servicios de manufactura en insumos físicos propiedad de otros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,Crédito | Servicios de Seguros y Pensiones,En millones de $us,2014-01-01,2026-11-01,39,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,Crédito | Servicios financieros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"Crédito | Servicios Personales, Culturales y Recreativos",En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_SERVICIOS_POSTALES_Y_DE_CORREOS,sector_externo_comercio_servicios,Crédito | Servicios postales y de correos,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"Crédito | Telecomunicaciones, informática e información",En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_TOTAL,sector_externo_comercio_servicios,Crédito | TOTAL,En millones de $us,2014-03-31,2026-11-01,37,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_TOTAL_SERVICIOS_MBP6,sector_externo_comercio_servicios,Crédito | TOTAL SERVICIOS MBP6,En millones de $us,2014-01-01,2026-06-30,13,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_TRANSPORTE,sector_externo_comercio_servicios,Crédito | Transporte,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_TRANSPORTE_AEREO,sector_externo_comercio_servicios,Crédito | Transporte Aéreo,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_TRANSPORTE_MARITIMO,sector_externo_comercio_servicios,Crédito | Transporte Marítimo,En millones de $us,2014-01-01,2026-11-01,38,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__CREDITO_VIAJES,sector_externo_comercio_servicios,Crédito | Viajes,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_CARGOS_POR_EL_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,Débito | Cargos por el uso de propiedad intelectual,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_DE_NEGOCIOS,sector_externo_comercio_servicios,Débito | De Negocios,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_FLETAMENTOS,sector_externo_comercio_servicios,Débito | Fletamentos,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_FLETES,sector_externo_comercio_servicios,Débito | Fletes,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_OTROS,sector_externo_comercio_servicios,Débito | Otros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_OTROS_MERCANCIAS,sector_externo_comercio_servicios,Débito | Otros mercancías,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_OTROS_PASAJEROS,sector_externo_comercio_servicios,Débito | Otros pasajeros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_OTROS_SERVICIOS,sector_externo_comercio_servicios,Débito | Otros servicios,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,Débito | Otros servicios empresariales,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_OTROS_TRANSPORTES,sector_externo_comercio_servicios,Débito | Otros Transportes,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_PASAJEROS,sector_externo_comercio_servicios,Débito | Pasajeros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_PERSONALES,sector_externo_comercio_servicios,Débito | Personales,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,Débito | Reparación y mantenimiento de equipos,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_SERVICIOS_DE_CONSTRUCCION,sector_externo_comercio_servicios,Débito | Servicios de Construcción,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_SERVICIOS_DE_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,Débito | Servicios de gastos de realización,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,Débito | Servicios de Gobierno N.I.O.P.,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_SERVICIOS_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,Débito | Servicios de manufactura en insumos físicos propiedad de otros,En millones de $us,2014-01-01,2026-11-01,38,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,Débito | Servicios de Seguros y Pensiones,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,Débito | Servicios financieros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"Débito | Servicios Personales, Culturales y Recreativos",En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_SERVICIOS_POSTALES_Y_DE_CORREOS,sector_externo_comercio_servicios,Débito | Servicios postales y de correos,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"Débito | Telecomunicaciones, informática e información",En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_TOTAL,sector_externo_comercio_servicios,Débito | TOTAL,En millones de $us,2014-03-31,2026-11-01,37,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_TOTAL_SERVICIOS_MBP6,sector_externo_comercio_servicios,Débito | TOTAL SERVICIOS MBP6,En millones de $us,2014-01-01,2026-06-30,13,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_TRANSPORTE,sector_externo_comercio_servicios,Débito | Transporte,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_TRANSPORTE_AEREO,sector_externo_comercio_servicios,Débito | Transporte Aéreo,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_TRANSPORTE_MARITIMO,sector_externo_comercio_servicios,Débito | Transporte Marítimo,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DEBITO_VIAJES,sector_externo_comercio_servicios,Débito | Viajes,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__DINAMARCA,sector_externo_comercio_servicios,Dinamarca,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__ECUADOR,sector_externo_comercio_servicios,Ecuador,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__EEUU,sector_externo_comercio_servicios,EEUU,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__ESPANA,sector_externo_comercio_servicios,España,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__FRANCIA,sector_externo_comercio_servicios,Francia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,Gastos de realización,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__IRLANDA,sector_externo_comercio_servicios,Irlanda,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__ITALIA,sector_externo_comercio_servicios,Italia,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__JAPON,sector_externo_comercio_servicios,Japón,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__MEXICO,sector_externo_comercio_servicios,México,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__MODO_1,sector_externo_comercio_servicios,Modo 1,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__MODO_2,sector_externo_comercio_servicios,Modo 2,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__MODO_4,sector_externo_comercio_servicios,Modo 4,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__OTROS_SERVICIOS,sector_externo_comercio_servicios,Otros servicios,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,Otros servicios empresariales,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__PAISES_BAJOS,sector_externo_comercio_servicios,Países Bajos,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__PANAMA,sector_externo_comercio_servicios,Panamá,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__PARAGUAY,sector_externo_comercio_servicios,Paraguay,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__PERU,sector_externo_comercio_servicios,Perú,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__REINO_UNIDO,sector_externo_comercio_servicios,Reino Unido,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,Reparación y mantenimiento de equipos,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__REPUBLICA_DOMINICANA,sector_externo_comercio_servicios,República Dominicana,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__RESTO,sector_externo_comercio_servicios,Resto,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_CARGOS_POR_EL_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,Saldo | Cargos por el uso de propiedad intelectual,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_DE_NEGOCIOS,sector_externo_comercio_servicios,Saldo | De Negocios,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_FLETAMENTOS,sector_externo_comercio_servicios,Saldo | Fletamentos,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_FLETES,sector_externo_comercio_servicios,Saldo | Fletes,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_OTROS,sector_externo_comercio_servicios,Saldo | Otros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_OTROS_MERCANCIAS,sector_externo_comercio_servicios,Saldo | Otros mercancías,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_OTROS_PASAJEROS,sector_externo_comercio_servicios,Saldo | Otros pasajeros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_OTROS_SERVICIOS,sector_externo_comercio_servicios,Saldo | Otros servicios,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,Saldo | Otros servicios empresariales,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_OTROS_TRANSPORTES,sector_externo_comercio_servicios,Saldo | Otros Transportes,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_PASAJEROS,sector_externo_comercio_servicios,Saldo | Pasajeros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_PERSONALES,sector_externo_comercio_servicios,Saldo | Personales,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,Saldo | Reparación y mantenimiento de equipos,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_SALDO_EN_LA_BALANZA_DE_SERVICIOS,sector_externo_comercio_servicios,Saldo | SALDO EN LA BALANZA DE SERVICIOS,En millones de $us,2014-01-01,2026-06-30,13,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_SERVICIOS_DE_CONSTRUCCION,sector_externo_comercio_servicios,Saldo | Servicios de Construcción,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_SERVICIOS_DE_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,Saldo | Servicios de gastos de realización,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,Saldo | Servicios de Gobierno N.I.O.P.,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_SERVICIOS_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,Saldo | Servicios de manufactura en insumos físicos propiedad de otros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,Saldo | Servicios de Seguros y Pensiones,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,Saldo | Servicios financieros,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"Saldo | Servicios Personales, Culturales y Recreativos",En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_SERVICIOS_POSTALES_Y_DE_CORREOS,sector_externo_comercio_servicios,Saldo | Servicios postales y de correos,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"Saldo | Telecomunicaciones, informática e información",En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_TOTAL,sector_externo_comercio_servicios,Saldo | TOTAL,En millones de $us,2014-03-31,2026-11-01,37,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_TOTAL_SERVICIOS_MBP6,sector_externo_comercio_servicios,Saldo | TOTAL SERVICIOS MBP6,En millones de $us,2014-01-01,2026-06-30,13,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_TRANSPORTE,sector_externo_comercio_servicios,Saldo | Transporte,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_TRANSPORTE_AEREO,sector_externo_comercio_servicios,Saldo | Transporte Aéreo,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_TRANSPORTE_MARITIMO,sector_externo_comercio_servicios,Saldo | Transporte Marítimo,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SALDO_VIAJES,sector_externo_comercio_servicios,Saldo | Viajes,En millones de $us,2014-01-01,2026-11-01,50,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,Servicios de Gobierno niop,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,Servicios de seguros y pensiones,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,Servicios financieros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"Servicios personales, culturales y recreativos",En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,sector_externo_comercio_servicios,Serv. de manufactura en insumos físicos pertenecientes a otros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,Serv. de manufactura en insumos físicos propiedad de otros,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SUECIA,sector_externo_comercio_servicios,Suecia,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__SUIZA,sector_externo_comercio_servicios,Suiza,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"Telecomunicaciones, informática e información",En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL,sector_externo_comercio_servicios,TOTAL,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_ALEMANIA,sector_externo_comercio_servicios,Total | Alemania,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_ARGENTINA,sector_externo_comercio_servicios,Total | Argentina,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_AUSTRALIA,sector_externo_comercio_servicios,Total | Australia,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_BELGICA,sector_externo_comercio_servicios,Total | Bélgica,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_BERMUDAS,sector_externo_comercio_servicios,Total | Bermudas,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_BRASIL,sector_externo_comercio_servicios,Total | Brasil,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_CANADA,sector_externo_comercio_servicios,Total | Canadá,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_CARGOS_POR_USO_DE_PROPIEDAD_INTELECTUAL,sector_externo_comercio_servicios,Total | Cargos por uso de propiedad intelectual,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_CHILE,sector_externo_comercio_servicios,Total | Chile,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_CHINA,sector_externo_comercio_servicios,Total | China,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_COLOMBIA,sector_externo_comercio_servicios,Total | Colombia,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_CONSTRUCCION,sector_externo_comercio_servicios,Total | Construcción,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_COREA_DEL_SUR,sector_externo_comercio_servicios,Total | Corea del Sur,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_DINAMARCA,sector_externo_comercio_servicios,Total | Dinamarca,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_ECUADOR,sector_externo_comercio_servicios,Total | Ecuador,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_EEUU,sector_externo_comercio_servicios,Total | EEUU,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_ESPANA,sector_externo_comercio_servicios,Total | España,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_FRANCIA,sector_externo_comercio_servicios,Total | Francia,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_GASTOS_DE_REALIZACION,sector_externo_comercio_servicios,Total | Gastos de realización,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_IRLANDA,sector_externo_comercio_servicios,Total | Irlanda,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_ITALIA,sector_externo_comercio_servicios,Total | Italia,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_JAPON,sector_externo_comercio_servicios,Total | Japón,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_MEXICO,sector_externo_comercio_servicios,Total | México,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_MODO_1,sector_externo_comercio_servicios,Total | Modo 1,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_MODO_2,sector_externo_comercio_servicios,Total | Modo 2,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_MODO_4,sector_externo_comercio_servicios,Total | Modo 4,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_OTROS_SERVICIOS,sector_externo_comercio_servicios,Total | Otros servicios,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_OTROS_SERVICIOS_EMPRESARIALES,sector_externo_comercio_servicios,Total | Otros servicios empresariales,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_PAISES_BAJOS,sector_externo_comercio_servicios,Total | Países Bajos,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_PANAMA,sector_externo_comercio_servicios,Total | Panamá,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_PARAGUAY,sector_externo_comercio_servicios,Total | Paraguay,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_PERU,sector_externo_comercio_servicios,Total | Perú,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_REINO_UNIDO,sector_externo_comercio_servicios,Total | Reino Unido,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,sector_externo_comercio_servicios,Total | Reparación y mantenimiento de equipos,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_REPUBLICA_DOMINICANA,sector_externo_comercio_servicios,Total | República Dominicana,,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_RESTO,sector_externo_comercio_servicios,Total | Resto,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_SERVICIOS_DE_GOBIERNO_NIOP,sector_externo_comercio_servicios,Total | Servicios de Gobierno niop,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_SERVICIOS_DE_SEGUROS_Y_PENSIONES,sector_externo_comercio_servicios,Total | Servicios de seguros y pensiones,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_SERVICIOS_FINANCIEROS,sector_externo_comercio_servicios,Total | Servicios financieros,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,sector_externo_comercio_servicios,"Total | Servicios personales, culturales y recreativos",En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,sector_externo_comercio_servicios,Total | Serv. de manufactura en insumos físicos pertenecientes a otros,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_SERV_DE_MANUFACTURA_EN_INSUMOS_FISICOS_PROPIEDAD_DE_OTROS,sector_externo_comercio_servicios,Total | Serv. de manufactura en insumos físicos propiedad de otros,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_SUECIA,sector_externo_comercio_servicios,Total | Suecia,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_SUIZA,sector_externo_comercio_servicios,Total | Suiza,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,sector_externo_comercio_servicios,"Total | Telecomunicaciones, informática e información",En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_TOTAL,sector_externo_comercio_servicios,Total | TOTAL,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_TRANSPORTE,sector_externo_comercio_servicios,Total | Transporte,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_URUGUAY,sector_externo_comercio_servicios,Total | Uruguay,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_VENEZUELA,sector_externo_comercio_servicios,Total | Venezuela,En millones de $us,2022-01-01,2026-06-30,5,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TOTAL_VIAJES,sector_externo_comercio_servicios,Total | Viajes,En millones de $us,2026-06-30,2026-06-30,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__TRANSPORTE,sector_externo_comercio_servicios,Transporte,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__URUGUAY,sector_externo_comercio_servicios,Uruguay,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__VENEZUELA,sector_externo_comercio_servicios,Venezuela,En millones de dólares,2022-01-01,2022-01-01,1,1,2026-11-01
+SECTOR_EXTERNO_COMERCIO_SERVICIOS__VIAJES,sector_externo_comercio_servicios,Viajes,En millones de $us,2022-01-01,2022-01-01,1,1,2026-11-01

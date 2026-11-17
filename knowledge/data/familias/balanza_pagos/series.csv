@@ -1,0 +1,588 @@
+serie_id,familia,serie,unidad,primera_fecha,ultima_fecha,n_observaciones,n_archivos,publicacion_ultima
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA,balanza_pagos,Activos de Reserva,En millones de dólares,2014-03-31,2026-12-01,59,3,2026-11-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_2023P,balanza_pagos,Activos de reserva | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_2024P,balanza_pagos,Activos de reserva | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_2025P,balanza_pagos,Activos de reserva | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_2026P,balanza_pagos,Activos de reserva | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_DERECHOS_ESPECIALES_DE_GIRO_DERECHOS_ESPECIALES_DE_GIRO_INCURRENCIA_NETA_DE_PASIVOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Activos de reserva | Derechos especiales de giro | Derechos especiales de giro (Incurrencia neta de pasivos) | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_INCURRENCIA_NETA_DE_PASIVOS_DERECHOS_ESPECIALES_DE_GIRO_INCURRENCIA_NETA_DE_PASIVOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Activos de reserva | Incurrencia neta de pasivos | Derechos especiales de giro (Incurrencia neta de pasivos) | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_ORO_MONETARIO_DERECHOS_ESPECIALES_DE_GIRO_INCURRENCIA_NETA_DE_PASIVOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Activos de reserva | Oro monetario | Derechos especiales de giro (Incurrencia neta de pasivos) | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_OTROS_ACTIVOS_DE_RESERVA_DERECHOS_ESPECIALES_DE_GIRO_INCURRENCIA_NETA_DE_PASIVOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Activos de reserva | Otros activos de reserva | Derechos especiales de giro (Incurrencia neta de pasivos) | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_OTROS_ACTIVOS_DE_RESERVA_DERIVADOS_FINANCIEROS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Activos de reserva | Otros activos de reserva | Derivados financieros | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_OTROS_ACTIVOS_DE_RESERVA_MONEDA_Y_DEPOSITOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Activos de reserva | Otros activos de reserva | Moneda y depósitos | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_OTROS_ACTIVOS_DE_RESERVA_OTRAS_RECLAMACIONES_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Activos de reserva | Otros activos de reserva | Otras reclamaciones | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_OTROS_ACTIVOS_DE_RESERVA_VALORES_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Activos de reserva | Otros activos de reserva | Valores | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__ACTIVOS_DE_RESERVA_POSICION_DE_RESERVA_EB_EL_FMI_DERECHOS_ESPECIALES_DE_GIRO_INCURRENCIA_NETA_DE_PASIVOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Activos de reserva | Posición de reserva eb el FMI | Derechos especiales de giro (Incurrencia neta de pasivos) | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__ACTIVOS_FINANCIEROS,balanza_pagos,Activos Financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__ACTIVOS_INGRESO_SECUNDARIO_OTRO_INGRESO_PRIMARIO_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Activos | Ingreso secundario | Otro ingreso primario | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__AMORTIZACION_DE_CREDITOS_RELACIONADOS,balanza_pagos,Amortización de créditos relacionados,,2014-01-01,2026-01-01,13,1,2026-01-01
+BALANZA_PAGOS__APORTES_DE_CAPITAL,balanza_pagos,Aportes de capital,,2014-01-01,2026-01-01,13,1,2026-01-01
+BALANZA_PAGOS__ASIGNACIONES_DEG,balanza_pagos,Asignaciones DEG,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__BANCO_CENTRAL,balanza_pagos,Banco Central,,2017-01-01,2026-01-01,9,1,2026-01-01
+BALANZA_PAGOS__BIENES,balanza_pagos,Bienes,,2014-01-01,2026-01-01,13,1,2026-01-01
+BALANZA_PAGOS__COL_12,balanza_pagos,COL_12,En millones de dólares,2014-03-31,2014-03-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_13,balanza_pagos,COL_13,En millones de dólares,2014-06-30,2014-06-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_14,balanza_pagos,COL_14,En millones de dólares,2014-09-30,2014-09-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_15,balanza_pagos,COL_15,En millones de dólares,2014-12-31,2014-12-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_16,balanza_pagos,COL_16,En millones de dólares,2014-01-01,2014-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_17,balanza_pagos,COL_17,En millones de dólares,2015-03-31,2015-03-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_18,balanza_pagos,COL_18,En millones de dólares,2015-06-30,2015-06-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_19,balanza_pagos,COL_19,En millones de dólares,2015-09-30,2015-09-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_2,balanza_pagos,COL_2,,2026-01-01,2026-01-01,1,1,2026-01-01
+BALANZA_PAGOS__COL_20,balanza_pagos,COL_20,En millones de dólares,2015-12-31,2015-12-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_21,balanza_pagos,COL_21,En millones de dólares,2015-01-01,2015-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_22,balanza_pagos,COL_22,En millones de dólares,2016-03-31,2016-03-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_23,balanza_pagos,COL_23,En millones de dólares,2016-06-30,2016-06-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_24,balanza_pagos,COL_24,En millones de dólares,2016-09-30,2016-09-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_25,balanza_pagos,COL_25,En millones de dólares,2016-12-31,2016-12-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_26,balanza_pagos,COL_26,En millones de dólares,2016-01-01,2016-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_27,balanza_pagos,COL_27,En millones de dólares,2017-03-31,2017-03-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_28,balanza_pagos,COL_28,En millones de dólares,2017-06-30,2017-06-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_29,balanza_pagos,COL_29,En millones de dólares,2017-09-30,2017-09-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_3,balanza_pagos,COL_3,,2026-01-01,2026-01-01,1,1,2026-01-01
+BALANZA_PAGOS__COL_30,balanza_pagos,COL_30,En millones de dólares,2017-12-31,2017-12-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_31,balanza_pagos,COL_31,En millones de dólares,2017-01-01,2017-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_32,balanza_pagos,COL_32,En millones de dólares,2018-03-31,2018-03-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_33,balanza_pagos,COL_33,En millones de dólares,2018-06-30,2018-06-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_34,balanza_pagos,COL_34,En millones de dólares,2018-09-30,2018-09-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_35,balanza_pagos,COL_35,En millones de dólares,2018-12-31,2018-12-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_36,balanza_pagos,COL_36,En millones de dólares,2018-01-01,2018-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_37,balanza_pagos,COL_37,En millones de dólares,2019-03-31,2019-03-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_38,balanza_pagos,COL_38,En millones de dólares,2019-06-30,2019-06-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_39,balanza_pagos,COL_39,En millones de dólares,2019-09-30,2019-09-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_4,balanza_pagos,COL_4,,2026-01-01,2026-01-01,1,1,2026-01-01
+BALANZA_PAGOS__COL_40,balanza_pagos,COL_40,En millones de dólares,2019-12-31,2019-12-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_41,balanza_pagos,COL_41,En millones de dólares,2019-01-01,2019-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_42,balanza_pagos,COL_42,En millones de dólares,2020-03-31,2020-03-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_43,balanza_pagos,COL_43,En millones de dólares,2020-06-30,2020-06-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_44,balanza_pagos,COL_44,En millones de dólares,2020-09-30,2020-09-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_45,balanza_pagos,COL_45,En millones de dólares,2020-12-31,2020-12-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_46,balanza_pagos,COL_46,En millones de dólares,2020-01-01,2020-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_47,balanza_pagos,COL_47,En millones de dólares,2021-03-31,2021-03-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_48,balanza_pagos,COL_48,En millones de dólares,2021-06-30,2021-06-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_49,balanza_pagos,COL_49,En millones de dólares,2021-09-30,2021-09-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_50,balanza_pagos,COL_50,En millones de dólares,2021-12-31,2021-12-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_51,balanza_pagos,COL_51,En millones de dólares,2021-01-01,2021-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_52,balanza_pagos,COL_52,En millones de dólares,2022-03-31,2022-03-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_53,balanza_pagos,COL_53,En millones de dólares,2015-01-01,2022-06-30,2,2,2026-11-01
+BALANZA_PAGOS__COL_54,balanza_pagos,COL_54,En millones de dólares,2016-01-01,2022-09-30,2,2,2026-11-01
+BALANZA_PAGOS__COL_55,balanza_pagos,COL_55,En millones de dólares,2017-01-01,2022-12-31,2,2,2026-11-01
+BALANZA_PAGOS__COL_56,balanza_pagos,COL_56,En millones de dólares,2018-01-01,2022-01-01,2,2,2026-11-01
+BALANZA_PAGOS__COL_57,balanza_pagos,COL_57,En millones de dólares,2019-01-01,2023-03-31,2,2,2026-11-01
+BALANZA_PAGOS__COL_58,balanza_pagos,COL_58,En millones de dólares,2020-01-01,2023-06-30,2,2,2026-11-01
+BALANZA_PAGOS__COL_59,balanza_pagos,COL_59,En millones de dólares,2021-01-01,2023-09-30,2,2,2026-11-01
+BALANZA_PAGOS__COL_60,balanza_pagos,COL_60,En millones de dólares,2022-01-01,2023-12-31,2,2,2026-11-01
+BALANZA_PAGOS__COL_61,balanza_pagos,COL_61,En millones de dólares,2023-01-01,2023-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_62,balanza_pagos,COL_62,En millones de dólares,2024-03-31,2026-01-01,2,2,2026-11-01
+BALANZA_PAGOS__COL_63,balanza_pagos,COL_63,En millones de dólares,2024-06-30,2026-01-01,2,2,2026-11-01
+BALANZA_PAGOS__COL_64,balanza_pagos,COL_64,En millones de dólares,2024-09-30,2026-01-01,2,2,2026-11-01
+BALANZA_PAGOS__COL_65,balanza_pagos,COL_65,En millones de dólares,2024-12-31,2026-01-01,2,2,2026-11-01
+BALANZA_PAGOS__COL_66,balanza_pagos,COL_66,En millones de dólares,2024-01-01,2024-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_67,balanza_pagos,COL_67,En millones de dólares,2025-03-31,2025-03-31,1,1,2026-11-01
+BALANZA_PAGOS__COL_68,balanza_pagos,COL_68,En millones de dólares,2025-06-30,2025-06-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_69,balanza_pagos,COL_69,En millones de dólares,2025-09-30,2025-09-30,1,1,2026-11-01
+BALANZA_PAGOS__COL_70,balanza_pagos,COL_70,En millones de dólares,2025-01-01,2025-12-31,2,2,2026-11-01
+BALANZA_PAGOS__COL_71,balanza_pagos,COL_71,En millones de dólares,2025-01-01,2025-01-01,1,1,2026-11-01
+BALANZA_PAGOS__COL_72,balanza_pagos,COL_72,En millones de dólares,2026-03-31,2026-03-31,1,1,2026-06-30
+BALANZA_PAGOS__COL_73,balanza_pagos,COL_73,En millones de dólares,2026-06-30,2026-06-30,1,1,2026-06-30
+BALANZA_PAGOS__COL_76,balanza_pagos,COL_76,En millones de dólares,2026-01-01,2026-01-01,1,1,2026-06-30
+BALANZA_PAGOS__CREDITO,balanza_pagos,Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__CREDITOS_COMERCIALES,balanza_pagos,Créditos comerciales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__CREDITO_ACTIVOS_DE_RESERVA1,balanza_pagos,Credito | Activos de reserva1,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_ADQUISICIONES_DRDISPOSICIONES_CR_BRUTAS_DE_ACTIVOS_NO_FINANCIEROS_NO_PRODUCIDOS,balanza_pagos,Credito | Adquisiciones (DR.)/disposiciones (CR.) brutas de activos no financieros no producidos,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_ASIGNACIONES_DEG,balanza_pagos,Credito | Asignaciones DEG,En millones de dólares,2021-12-31,2026-12-31,9,4,2026-11-01
+BALANZA_PAGOS__CREDITO_BIENES,balanza_pagos,Credito | Bienes,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_CARGOS_POR_EL_USO_DE_LA_PROPIEDAD_INTELECTUA,balanza_pagos,Credito | Cargos por el uso de la propiedad intelectua,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_CONSTRUCCION,balanza_pagos,Credito | Construcción,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_CREDITOS_Y_ANTICIPOS_COMERCIALES,balanza_pagos,Credito | Créditos y anticipos comerciales,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_CUENTA_CAPITAL,balanza_pagos,Credito | Cuenta Capital,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_CUENTA_CORRIENTE,balanza_pagos,Credito | Cuenta corriente,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_CUENTA_FINANCIERA,balanza_pagos,Credito | Cuenta financiera,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_DERECHOS_ESPECIALES_DE_GIRO,balanza_pagos,Credito | Derechos especiales de giro,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_DERIVADOS_FINANCIEROS,balanza_pagos,Credito | Derivados Financieros,En millones de dólares,2020-03-31,2026-12-31,18,4,2026-11-01
+BALANZA_PAGOS__CREDITO_ERRORES_Y_OMISIONES,balanza_pagos,Credito | Errores y Omisiones,En millones de dólares,2019-01-01,2026-12-31,10,4,2026-11-01
+BALANZA_PAGOS__CREDITO_GOBIERNO_GENERAL,balanza_pagos,Credito | Gobierno general,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_INGRESO_PRIMARIO,balanza_pagos,Credito | Ingreso primario,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_INGRESO_SECUNDARIO,balanza_pagos,Credito | Ingreso secundario,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_INGRESO_SECUNDARIO_OTRO_INGRESO_PRIMARIO_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Crédito | Ingreso secundario | Otro ingreso primario | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__CREDITO_INSTRUMENTOS_DE_DEUDA,balanza_pagos,Credito | Instrumentos de deuda,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_INVERSION_DE_CARTERA,balanza_pagos,Credito | Inversión de cartera,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_INVERSION_DIRECTA,balanza_pagos,Credito | Inversión directa,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_MANTENIMIENTO_Y_REPARACIONES,balanza_pagos,Credito | Mantenimiento y reparaciones,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_MANUFACTURA_SOBRE_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,balanza_pagos,Credito | Manufactura sobre insumos físicos pertenecientes a otros,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_MONEDA_Y_DEPOSITOS,balanza_pagos,Credito | Moneda y depósitos,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_ORO_MONETARIO,balanza_pagos,Credito | Oro monetario,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_OTRAS_CUENTAS_POR_COBRARPOR_PAGAR,balanza_pagos,Credito | Otras cuentas por cobrar/por pagar,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_OTRAS_PARTICIPACIONES_DE_CAPITAL,balanza_pagos,Credito | Otras participaciones de capital,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_OTRA_INVERSION,balanza_pagos,Credito | Otra inversión,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_OTROS_ACTIVOS_DE_RESERVA,balanza_pagos,Credito | Otros activos de reserva,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_OTROS_SERVICIOS_EMPRESARIALES,balanza_pagos,Credito | Otros servicios empresariales,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_OTRO_INGRESO_PRIMARIO,balanza_pagos,Credito | Otro ingreso primario,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_PARTICIPACIONES_DE_CAPITAL_Y_PARTICIPACIONES_EN_FONDOS_DE_INVERSION,balanza_pagos,Credito | Participaciones de capital y participaciones en fondos de inversión,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_POSICION_DE_RESERVA_EN_EL_FMI,balanza_pagos,Credito | Posición de reserva en el FMI,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_PRESTAMOS,balanza_pagos,Credito | Préstamos,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_PRESTAMO_NETO_ENDEUDAMIENTO_NETO_,balanza_pagos,Credito | Préstamo Neto (+)/Endeudamiento neto (-),En millones de dólares,2019-01-01,2026-12-31,11,4,2026-11-01
+BALANZA_PAGOS__CREDITO_REMUNERACION_DE_EMPLEADOS,balanza_pagos,Credito | Remuneración de empleados,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_RENTA_DE_LA_INVERSION,balanza_pagos,Credito | Renta de la inversión,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_SEGUROS_PENSIONES_Y_MECANISMOS_NORMALIZADOS_DE_GARANTIA,balanza_pagos,"Credito | Seguros, pensiones y mecanismos normalizados de garantía",En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_SERVICIOS,balanza_pagos,Credito | Servicios,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_SERVICIOS_DE_GOBIERNO_NIOP,balanza_pagos,Credito | Servicios de Gobierno N.I.O.P.,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_SERVICIOS_DE_SEGUROS_Y_PENSIONES,balanza_pagos,Credito | Servicios de seguros y pensiones,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_SERVICIOS_DE_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,balanza_pagos,"Credito | Servicios de telecomunicaciones, informática e información",En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_SERVICIOS_FINANCIEROS,balanza_pagos,Credito | Servicios financieros,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,balanza_pagos,"Credito | Servicios personales, culturales y recreativos",En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_SOCIEDADES_FINANCIERAS_SOCIEDADES_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Credito | Sociedades financieras, sociedades no financieras, hogares e ISFLSH",En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_TITULOS_DE_DEUDA,balanza_pagos,Credito | Títulos de deuda,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_TRANSFERENCIAS_DE_CAPITAL,balanza_pagos,Credito | Transferencias de capital,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_TRANSPORTE,balanza_pagos,Credito | Transporte,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CREDITO_VIAJES,balanza_pagos,Credito | Viajes,En millones de dólares,2014-03-31,2026-12-31,47,3,2026-11-01
+BALANZA_PAGOS__CTAFIN_SIN_RIN,balanza_pagos,CtaFin (Sin RIN),,2015-01-01,2022-01-01,8,1,2026-01-01
+BALANZA_PAGOS__CTAFIN_SIN_RIN_2023P,balanza_pagos,CtaFin (Sin RIN) | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__CTAFIN_SIN_RIN_2024P,balanza_pagos,CtaFin (Sin RIN) | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__CTAFIN_SIN_RIN_2025P,balanza_pagos,CtaFin (Sin RIN) | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__CTAFIN_SIN_RIN_2026P,balanza_pagos,CtaFin (Sin RIN) | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__CTA_FIN_SIN_ACTIVOS_DE_RESERVA,balanza_pagos,Cta Fin sin Activos de Reserva,En millones de dólares,2014-03-31,2026-06-30,50,2,2026-11-01
+BALANZA_PAGOS__CUENTA_CAPITAL,balanza_pagos,Cuenta Capital,En millones de dólares,2014-03-31,2026-06-30,50,2,2026-11-01
+BALANZA_PAGOS__CUENTA_CAPITAL_Y_FINANCIERA,balanza_pagos,Cuenta Capital y Financiera,En millones de dólares,1996-01-01,2013-12-31,57,1,2026-11-01
+BALANZA_PAGOS__CUENTA_CORRIENTE,balanza_pagos,Cuenta Corriente,En millones de dólares,1996-01-01,2026-06-30,120,3,2026-11-01
+BALANZA_PAGOS__CUENTA_FINANCIERA,balanza_pagos,Cuenta Financiera,En millones de dólares,2014-03-31,2026-06-30,58,3,2026-11-01
+BALANZA_PAGOS__CUENTA_FINANCIERA_2023P,balanza_pagos,Cuenta Financiera | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__CUENTA_FINANCIERA_2024P,balanza_pagos,Cuenta Financiera | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__CUENTA_FINANCIERA_2025P,balanza_pagos,Cuenta Financiera | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__CUENTA_FINANCIERA_2026P,balanza_pagos,Cuenta Financiera | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__DC_EMPRESAS_NO_FINANCIERAS_Y_HOGARES,balanza_pagos,d/c Empresas no financieras y hogares,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__DC_SOCIEDADES_CAPTADADORAS_DE_DEPOSITOS,balanza_pagos,d/c Sociedades captadadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__DEBITO,balanza_pagos,Débito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_ACTIVOS_DE_RESERVA1,balanza_pagos,Debito | Activos de reserva1,En millones de dólares,2014-03-31,2026-12-31,51,3,2026-11-01
+BALANZA_PAGOS__DEBITO_ADQUISICIONES_DRDISPOSICIONES_CR_BRUTAS_DE_ACTIVOS_NO_FINANCIEROS_NO_PRODUCIDOS,balanza_pagos,Debito | Adquisiciones (DR.)/disposiciones (CR.) brutas de activos no financieros no producidos,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_ASIGNACIONES_DEG,balanza_pagos,Debito | Asignaciones DEG,En millones de dólares,2021-01-01,2026-11-01,10,4,2026-11-01
+BALANZA_PAGOS__DEBITO_BIENES,balanza_pagos,Debito | Bienes,En millones de dólares,2014-01-01,2026-12-31,65,3,2026-11-01
+BALANZA_PAGOS__DEBITO_BIENES_CREDITO,balanza_pagos,Débito | Bienes | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_CARGOS_POR_EL_USO_DE_LA_PROPIEDAD_INTELECTUA,balanza_pagos,Debito | Cargos por el uso de la propiedad intelectua,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_CONSTRUCCION,balanza_pagos,Debito | Construcción,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_CREDITOS_Y_ANTICIPOS_COMERCIALES,balanza_pagos,Debito | Créditos y anticipos comerciales,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_CUENTA_CAPITAL,balanza_pagos,Debito | Cuenta Capital,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_CUENTA_CORRIENTE,balanza_pagos,Debito | Cuenta corriente,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_CUENTA_FINANCIERA,balanza_pagos,Debito | Cuenta financiera,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_DERECHOS_ESPECIALES_DE_GIRO,balanza_pagos,Debito | Derechos especiales de giro,En millones de dólares,2017-01-01,2026-11-01,10,4,2026-11-01
+BALANZA_PAGOS__DEBITO_DERIVADOS_FINANCIEROS,balanza_pagos,Debito | Derivados Financieros,En millones de dólares,2020-03-31,2026-12-31,20,4,2026-11-01
+BALANZA_PAGOS__DEBITO_ERRORES_Y_OMISIONES,balanza_pagos,Debito | Errores y Omisiones,En millones de dólares,2019-01-01,2026-11-01,7,4,2026-11-01
+BALANZA_PAGOS__DEBITO_GOBIERNO_GENERAL,balanza_pagos,Debito | Gobierno general,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO,balanza_pagos,Debito | Ingreso primario,En millones de dólares,2014-01-01,2026-12-31,65,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_COMPENSACION_DE_EMPLEADOS,balanza_pagos,Débito | Ingreso primario | Compensación de empleados,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_COMPENSACION_DE_EMPLEADOS_CREDITO,balanza_pagos,Débito | Ingreso primario | Compensación de empleados | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_CREDITO,balanza_pagos,Débito | Ingreso primario | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_OTRO_INGRESO_PRIMARIO,balanza_pagos,Débito | Ingreso primario | Otro ingreso primario,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_OTRO_INGRESO_PRIMARIO_ACTIVOS_DE_RESERVA_CREDITO,balanza_pagos,Débito | Ingreso primario | Otro ingreso primario | Activos de reserva (Crédito),En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_OTRO_INGRESO_PRIMARIO_CREDITO,balanza_pagos,Débito | Ingreso primario | Otro ingreso primario | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_RENTA_DE_LA_INVERSION,balanza_pagos,Débito | Ingreso primario | Renta de la inversión,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_RENTA_DE_LA_INVERSION_ACTIVOS_DE_RESERVA_CREDITO,balanza_pagos,Débito | Ingreso primario | Renta de la inversión | Activos de reserva (Crédito),En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_RENTA_DE_LA_INVERSION_CREDITO,balanza_pagos,Débito | Ingreso primario | Renta de la inversión | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_RENTA_DE_LA_INVERSION_INVERSION_DE_CARTERA,balanza_pagos,Débito | Ingreso primario | Renta de la inversión | Inversión de cartera,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_RENTA_DE_LA_INVERSION_INVERSION_DIRECTA,balanza_pagos,Débito | Ingreso primario | Renta de la inversión | Inversión directa,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_RENTA_DE_LA_INVERSION_OTRA_INVERSION,balanza_pagos,Débito | Ingreso primario | Renta de la inversión | Otra inversión,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_PRIMARIO_SERVICIOS_DE_GOBIERNO_NIOP,balanza_pagos,Débito | Ingreso primario | Servicios de Gobierno N.I.O.P.,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_SECUNDARIO,balanza_pagos,Debito | Ingreso secundario,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_SECUNDARIO_OTRO_INGRESO_PRIMARIO,balanza_pagos,Débito | Ingreso secundario | Otro ingreso primario,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_SECUNDARIO_OTRO_INGRESO_PRIMARIO_CREDITO,balanza_pagos,Débito | Ingreso secundario | Otro ingreso primario | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_SECUNDARIO_OTRO_INGRESO_PRIMARIO_GOBIERNO_GENERAL,balanza_pagos,Débito | Ingreso secundario | Otro ingreso primario | Gobierno general,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INGRESO_SECUNDARIO_OTRO_INGRESO_PRIMARIO_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Débito | Ingreso secundario | Otro ingreso primario | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INSTRUMENTOS_DE_DEUDA,balanza_pagos,Debito | Instrumentos de deuda,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INVERSION_DE_CARTERA,balanza_pagos,Debito | Inversión de cartera,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_INVERSION_DIRECTA,balanza_pagos,Debito | Inversión directa,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_MANTENIMIENTO_Y_REPARACIONES,balanza_pagos,Debito | Mantenimiento y reparaciones,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_MANUFACTURA_SOBRE_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,balanza_pagos,Debito | Manufactura sobre insumos físicos pertenecientes a otros,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_MONEDA_Y_DEPOSITOS,balanza_pagos,Debito | Moneda y depósitos,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_ORO_MONETARIO,balanza_pagos,Debito | Oro monetario,En millones de dólares,2017-01-01,2026-11-01,10,4,2026-11-01
+BALANZA_PAGOS__DEBITO_OTRAS_CUENTAS_POR_COBRARPOR_PAGAR,balanza_pagos,Debito | Otras cuentas por cobrar/por pagar,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_OTRAS_PARTICIPACIONES_DE_CAPITAL,balanza_pagos,Debito | Otras participaciones de capital,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_OTRA_INVERSION,balanza_pagos,Debito | Otra inversión,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_OTROS_ACTIVOS_DE_RESERVA,balanza_pagos,Debito | Otros activos de reserva,En millones de dólares,2017-01-01,2026-11-01,10,4,2026-11-01
+BALANZA_PAGOS__DEBITO_OTROS_SERVICIOS_EMPRESARIALES,balanza_pagos,Debito | Otros servicios empresariales,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_OTRO_INGRESO_PRIMARIO,balanza_pagos,Debito | Otro ingreso primario,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_PARTICIPACIONES_DE_CAPITAL_Y_PARTICIPACIONES_EN_FONDOS_DE_INVERSION,balanza_pagos,Debito | Participaciones de capital y participaciones en fondos de inversión,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_POSICION_DE_RESERVA_EN_EL_FMI,balanza_pagos,Debito | Posición de reserva en el FMI,En millones de dólares,2017-01-01,2026-11-01,10,4,2026-11-01
+BALANZA_PAGOS__DEBITO_PRESTAMOS,balanza_pagos,Debito | Préstamos,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_PRESTAMO_NETO_ENDEUDAMIENTO_NETO_,balanza_pagos,Debito | Préstamo Neto (+)/Endeudamiento neto (-),En millones de dólares,2019-01-01,2026-11-01,8,4,2026-11-01
+BALANZA_PAGOS__DEBITO_REMUNERACION_DE_EMPLEADOS,balanza_pagos,Debito | Remuneración de empleados,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_RENTA_DE_LA_INVERSION,balanza_pagos,Debito | Renta de la inversión,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SEGUROS_PENSIONES_Y_MECANISMOS_NORMALIZADOS_DE_GARANTIA,balanza_pagos,"Debito | Seguros, pensiones y mecanismos normalizados de garantía",En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS,balanza_pagos,Debito | Servicios,En millones de dólares,2014-01-01,2026-12-31,65,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_CARGOS_POR_EL_USO_DE_PROPIEDAD_INTELECTUAL,balanza_pagos,Débito | Servicios | Cargos por el uso de propiedad intelectual,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_CARGOS_POR_EL_USO_DE_PROPIEDAD_INTELECTUAL_CREDITO,balanza_pagos,Débito | Servicios | Cargos por el uso de propiedad intelectual | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_CONSTRUCCION,balanza_pagos,Débito | Servicios | Construcción,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_CONSTRUCCION_CREDITO,balanza_pagos,Débito | Servicios | Construcción | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_CREDITO,balanza_pagos,Débito | Servicios | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_DE_GOBIERNO_NIOP,balanza_pagos,Debito | Servicios de Gobierno N.I.O.P.,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_DE_SEGUROS_Y_PENSIONES,balanza_pagos,Debito | Servicios de seguros y pensiones,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_DE_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,balanza_pagos,"Debito | Servicios de telecomunicaciones, informática e información",En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_FINANCIEROS,balanza_pagos,Debito | Servicios financieros,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_MANUFACTURA_SOBRE_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,balanza_pagos,Débito | Servicios | Manufactura sobre insumos físicos pertenecientes a otros,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_MANUFACTURA_SOBRE_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS_CREDITO,balanza_pagos,Débito | Servicios | Manufactura sobre insumos físicos pertenecientes a otros | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_OTROS_SERVICIOS_EMPRESARIALES,balanza_pagos,Débito | Servicios | Otros servicios empresariales,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_OTROS_SERVICIOS_EMPRESARIALES_CREDITO,balanza_pagos,Débito | Servicios | Otros servicios empresariales | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,balanza_pagos,"Debito | Servicios personales, culturales y recreativos",En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS,balanza_pagos,Débito | Servicios | Reparación y mantenimiento de equipos,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_REPARACION_Y_MANTENIMIENTO_DE_EQUIPOS_CREDITO,balanza_pagos,Débito | Servicios | Reparación y mantenimiento de equipos | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_SERVICIOS_DE_GOBIERNO_NIOP,balanza_pagos,Débito | Servicios | Servicios de Gobierno N.I.O.P.,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_SERVICIOS_DE_GOBIERNO_NIOP_CREDITO,balanza_pagos,Débito | Servicios | Servicios de Gobierno N.I.O.P. | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_SERVICIOS_DE_SEGUROS_Y_PENSIONES,balanza_pagos,Débito | Servicios | Servicios de Seguros y Pensiones,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_SERVICIOS_DE_SEGUROS_Y_PENSIONES_CREDITO,balanza_pagos,Débito | Servicios | Servicios de Seguros y Pensiones | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_SERVICIOS_FINANCIEROS,balanza_pagos,Débito | Servicios | Servicios financieros,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_SERVICIOS_FINANCIEROS_CREDITO,balanza_pagos,Débito | Servicios | Servicios financieros | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,balanza_pagos,"Débito | Servicios | Servicios Personales, Culturales y Recreativos",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS_CREDITO,balanza_pagos,"Débito | Servicios | Servicios Personales, Culturales y Recreativos | Crédito",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,balanza_pagos,"Débito | Servicios | Telecomunicaciones, informática e información",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION_CREDITO,balanza_pagos,"Débito | Servicios | Telecomunicaciones, informática e información | Crédito",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_TRANSPORTE,balanza_pagos,Débito | Servicios | Transporte,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_TRANSPORTE_CREDITO,balanza_pagos,Débito | Servicios | Transporte | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_VIAJES,balanza_pagos,Débito | Servicios | Viajes,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SERVICIOS_VIAJES_CREDITO,balanza_pagos,Débito | Servicios | Viajes | Crédito,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DEBITO_SOCIEDADES_FINANCIERAS_SOCIEDADES_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Debito | Sociedades financieras, sociedades no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_TITULOS_DE_DEUDA,balanza_pagos,Debito | Títulos de deuda,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_TRANSFERENCIAS_DE_CAPITAL,balanza_pagos,Debito | Transferencias de capital,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_TRANSPORTE,balanza_pagos,Debito | Transporte,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DEBITO_VIAJES,balanza_pagos,Debito | Viajes,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__DERECHOS_ESPECIALES_DE_GIRO,balanza_pagos,Derechos especiales de giro,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__DERIVADOS_FINANCIEROS,balanza_pagos,Derivados financieros,En millones de dólares,2014-03-31,2026-12-01,59,3,2026-11-01
+BALANZA_PAGOS__DERIVADOS_FINANCIEROS_2023P,balanza_pagos,Derivados financieros | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__DERIVADOS_FINANCIEROS_2024P,balanza_pagos,Derivados financieros | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__DERIVADOS_FINANCIEROS_2025P,balanza_pagos,Derivados financieros | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__DERIVADOS_FINANCIEROS_2026P,balanza_pagos,Derivados financieros | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__DERIVADOS_FINANCIEROS_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_TITULOS_DE_DEUDA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Derivados financieros | Adquisición neta de activos financieros | Títulos de deuda | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DERIVADOS_FINANCIEROS_INCURRENCIA_NETA_DE_PASIVOS_TITULOS_DE_DEUDA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Derivados financieros | Incurrencia neta de pasivos | Títulos de deuda | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__DESINVERSION,balanza_pagos,DESINVERSIÓN,,2014-01-01,2026-01-01,13,1,2026-01-01
+BALANZA_PAGOS__EEOO,balanza_pagos,EEOO,,2015-01-01,2022-01-01,8,1,2026-01-01
+BALANZA_PAGOS__EEOO_2023P,balanza_pagos,EEOO | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__EEOO_2024P,balanza_pagos,EEOO | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__EEOO_2025P,balanza_pagos,EEOO | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__EEOO_2026P,balanza_pagos,EEOO | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__ERRORES_Y_OMISIONES,balanza_pagos,Errores y Omisiones,En millones de dólares,1996-01-01,2026-06-30,107,2,2026-11-01
+BALANZA_PAGOS__FINANCIAMIENTO,balanza_pagos,Financiamiento,En millones de dólares,1996-01-01,2013-12-31,57,1,2026-11-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_ACTIVOS_DE_RESERVA,balanza_pagos,Flujo de otras Variaciones | Otras | Activos de Reserva,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_ACTIVOS_FINANCIEROS,balanza_pagos,Flujo de otras Variaciones | Otras | Activos Financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_ASIGNACIONES_DEG,balanza_pagos,Flujo de otras Variaciones | Otras | Asignaciones DEG,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_CREDITOS_COMERCIALES,balanza_pagos,Flujo de otras Variaciones | Otras | Créditos comerciales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_DC_EMPRESAS_NO_FINANCIERAS_Y_HOGARES,balanza_pagos,Flujo de otras Variaciones | Otras | d/c Empresas no financieras y hogares,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_DC_SOCIEDADES_CAPTADADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | Otras | d/c Sociedades captadadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_DERECHOS_ESPECIALES_DE_GIRO,balanza_pagos,Flujo de otras Variaciones | Otras | Derechos especiales de giro,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_DERIVADOS_FINANCIEROS,balanza_pagos,Flujo de otras Variaciones | Otras | Derivados financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_GOBIERNO_GENERAL,balanza_pagos,Flujo de otras Variaciones | Otras | Gobierno General,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_INSTRUMENTOS_DE_DEUDA,balanza_pagos,Flujo de otras Variaciones | Otras | Instrumentos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_INVERSION_DE_CARTERA,balanza_pagos,Flujo de otras Variaciones | Otras | Inversión de Cartera,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_INVERSION_DIRECTA,balanza_pagos,Flujo de otras Variaciones | Otras | Inversión Directa,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_MONEDA_Y_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | Otras | Moneda y depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_ORO_MONETARIO,balanza_pagos,Flujo de otras Variaciones | Otras | Oro monetario,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_OTRAS_CUENTAS_POR_COBRARPAGAR,balanza_pagos,Flujo de otras Variaciones | Otras | Otras cuentas por cobrar/pagar,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_OTRA_INVERSION,balanza_pagos,Flujo de otras Variaciones | Otras | Otra Inversión,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_OTROS_SECTORES,balanza_pagos,Flujo de otras Variaciones | Otras | Otros sectores,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_OTROS_SECTORES_INSTITUCIONALES,balanza_pagos,Flujo de otras Variaciones | Otras | Otros Sectores Institucionales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_OTRO_CAPITAL,balanza_pagos,Flujo de otras Variaciones | Otras | Otro capital,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_PART_DE_CAPITAL_Y_PARTIC_EN_FONDOS_DE_INVERSION,balanza_pagos,Flujo de otras Variaciones | Otras | Part. de capital y partic. en fondos de inversion.,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_PART_DE_CAPITAL_Y_REINVERSION_DE_UTILIDADES,balanza_pagos,Flujo de otras Variaciones | Otras | Part. de capital y reinversión de utilidades,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_PASIVOS,balanza_pagos,Flujo de otras Variaciones | Otras | Pasivos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_POSICION_DE_RESERVA_EN_EL_FMI,balanza_pagos,Flujo de otras Variaciones | Otras | Posición de reserva en el FMI,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_POSICION_NETA,balanza_pagos,Flujo de otras Variaciones | Otras | Posición Neta,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_PRESTAMOS,balanza_pagos,Flujo de otras Variaciones | Otras | Préstamos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_SEGUROS_PENSIONES_Y_OTROS,balanza_pagos,"Flujo de otras Variaciones | Otras | Seguros, pensiones y otros",En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_SOCIEDADES_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | Otras | Sociedades captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_SOC_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | Otras | Soc. captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_OTRAS_TITULOS_DE_DEUDA,balanza_pagos,Flujo de otras Variaciones | Otras | Títulos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_ACTIVOS_DE_RESERVA,balanza_pagos,Flujo de otras Variaciones | Precios | Activos de Reserva,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_ACTIVOS_FINANCIEROS,balanza_pagos,Flujo de otras Variaciones | Precios | Activos Financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_ASIGNACIONES_DEG,balanza_pagos,Flujo de otras Variaciones | Precios | Asignaciones DEG,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_CREDITOS_COMERCIALES,balanza_pagos,Flujo de otras Variaciones | Precios | Créditos comerciales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_DC_EMPRESAS_NO_FINANCIERAS_Y_HOGARES,balanza_pagos,Flujo de otras Variaciones | Precios | d/c Empresas no financieras y hogares,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_DC_SOCIEDADES_CAPTADADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | Precios | d/c Sociedades captadadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_DERECHOS_ESPECIALES_DE_GIRO,balanza_pagos,Flujo de otras Variaciones | Precios | Derechos especiales de giro,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_DERIVADOS_FINANCIEROS,balanza_pagos,Flujo de otras Variaciones | Precios | Derivados financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_GOBIERNO_GENERAL,balanza_pagos,Flujo de otras Variaciones | Precios | Gobierno General,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_INSTRUMENTOS_DE_DEUDA,balanza_pagos,Flujo de otras Variaciones | Precios | Instrumentos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_INVERSION_DE_CARTERA,balanza_pagos,Flujo de otras Variaciones | Precios | Inversión de Cartera,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_INVERSION_DIRECTA,balanza_pagos,Flujo de otras Variaciones | Precios | Inversión Directa,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_MONEDA_Y_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | Precios | Moneda y depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_ORO_MONETARIO,balanza_pagos,Flujo de otras Variaciones | Precios | Oro monetario,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_OTRAS_CUENTAS_POR_COBRARPAGAR,balanza_pagos,Flujo de otras Variaciones | Precios | Otras cuentas por cobrar/pagar,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_OTRA_INVERSION,balanza_pagos,Flujo de otras Variaciones | Precios | Otra Inversión,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_OTROS_SECTORES,balanza_pagos,Flujo de otras Variaciones | Precios | Otros sectores,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_OTROS_SECTORES_INSTITUCIONALES,balanza_pagos,Flujo de otras Variaciones | Precios | Otros Sectores Institucionales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_OTRO_CAPITAL,balanza_pagos,Flujo de otras Variaciones | Precios | Otro capital,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_PART_DE_CAPITAL_Y_PARTIC_EN_FONDOS_DE_INVERSION,balanza_pagos,Flujo de otras Variaciones | Precios | Part. de capital y partic. en fondos de inversion.,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_PART_DE_CAPITAL_Y_REINVERSION_DE_UTILIDADES,balanza_pagos,Flujo de otras Variaciones | Precios | Part. de capital y reinversión de utilidades,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_PASIVOS,balanza_pagos,Flujo de otras Variaciones | Precios | Pasivos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_POSICION_DE_RESERVA_EN_EL_FMI,balanza_pagos,Flujo de otras Variaciones | Precios | Posición de reserva en el FMI,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_POSICION_NETA,balanza_pagos,Flujo de otras Variaciones | Precios | Posición Neta,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_PRESTAMOS,balanza_pagos,Flujo de otras Variaciones | Precios | Préstamos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_SEGUROS_PENSIONES_Y_OTROS,balanza_pagos,"Flujo de otras Variaciones | Precios | Seguros, pensiones y otros",En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_SOCIEDADES_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | Precios | Sociedades captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_SOC_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | Precios | Soc. captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_PRECIOS_TITULOS_DE_DEUDA,balanza_pagos,Flujo de otras Variaciones | Precios | Títulos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_ACTIVOS_DE_RESERVA,balanza_pagos,Flujo de otras Variaciones | t.c. | Activos de Reserva,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_ACTIVOS_FINANCIEROS,balanza_pagos,Flujo de otras Variaciones | t.c. | Activos Financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_ASIGNACIONES_DEG,balanza_pagos,Flujo de otras Variaciones | t.c. | Asignaciones DEG,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_CREDITOS_COMERCIALES,balanza_pagos,Flujo de otras Variaciones | t.c. | Créditos comerciales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_DC_EMPRESAS_NO_FINANCIERAS_Y_HOGARES,balanza_pagos,Flujo de otras Variaciones | t.c. | d/c Empresas no financieras y hogares,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_DC_SOCIEDADES_CAPTADADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | t.c. | d/c Sociedades captadadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_DERECHOS_ESPECIALES_DE_GIRO,balanza_pagos,Flujo de otras Variaciones | t.c. | Derechos especiales de giro,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_DERIVADOS_FINANCIEROS,balanza_pagos,Flujo de otras Variaciones | t.c. | Derivados financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_GOBIERNO_GENERAL,balanza_pagos,Flujo de otras Variaciones | t.c. | Gobierno General,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_INSTRUMENTOS_DE_DEUDA,balanza_pagos,Flujo de otras Variaciones | t.c. | Instrumentos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_INVERSION_DE_CARTERA,balanza_pagos,Flujo de otras Variaciones | t.c. | Inversión de Cartera,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_INVERSION_DIRECTA,balanza_pagos,Flujo de otras Variaciones | t.c. | Inversión Directa,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_MONEDA_Y_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | t.c. | Moneda y depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_ORO_MONETARIO,balanza_pagos,Flujo de otras Variaciones | t.c. | Oro monetario,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_OTRAS_CUENTAS_POR_COBRARPAGAR,balanza_pagos,Flujo de otras Variaciones | t.c. | Otras cuentas por cobrar/pagar,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_OTRA_INVERSION,balanza_pagos,Flujo de otras Variaciones | t.c. | Otra Inversión,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_OTROS_SECTORES,balanza_pagos,Flujo de otras Variaciones | t.c. | Otros sectores,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_OTROS_SECTORES_INSTITUCIONALES,balanza_pagos,Flujo de otras Variaciones | t.c. | Otros Sectores Institucionales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_OTRO_CAPITAL,balanza_pagos,Flujo de otras Variaciones | t.c. | Otro capital,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_PART_DE_CAPITAL_Y_PARTIC_EN_FONDOS_DE_INVERSION,balanza_pagos,Flujo de otras Variaciones | t.c. | Part. de capital y partic. en fondos de inversion.,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_PART_DE_CAPITAL_Y_REINVERSION_DE_UTILIDADES,balanza_pagos,Flujo de otras Variaciones | t.c. | Part. de capital y reinversión de utilidades,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_PASIVOS,balanza_pagos,Flujo de otras Variaciones | t.c. | Pasivos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_POSICION_DE_RESERVA_EN_EL_FMI,balanza_pagos,Flujo de otras Variaciones | t.c. | Posición de reserva en el FMI,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_POSICION_NETA,balanza_pagos,Flujo de otras Variaciones | t.c. | Posición Neta,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_PRESTAMOS,balanza_pagos,Flujo de otras Variaciones | t.c. | Préstamos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_SEGUROS_PENSIONES_Y_OTROS,balanza_pagos,"Flujo de otras Variaciones | t.c. | Seguros, pensiones y otros",En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_SOCIEDADES_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | t.c. | Sociedades captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_SOC_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de otras Variaciones | t.c. | Soc. captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_OTRAS_VARIACIONES_TC_TITULOS_DE_DEUDA,balanza_pagos,Flujo de otras Variaciones | t.c. | Títulos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_ACTIVOS_DE_RESERVA,balanza_pagos,Flujo de Transacciones | Activos de Reserva,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_ACTIVOS_FINANCIEROS,balanza_pagos,Flujo de Transacciones | Activos Financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_ASIGNACIONES_DEG,balanza_pagos,Flujo de Transacciones | Asignaciones DEG,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_CREDITOS_COMERCIALES,balanza_pagos,Flujo de Transacciones | Créditos comerciales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_DC_EMPRESAS_NO_FINANCIERAS_Y_HOGARES,balanza_pagos,Flujo de Transacciones | d/c Empresas no financieras y hogares,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_DC_SOCIEDADES_CAPTADADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de Transacciones | d/c Sociedades captadadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_DERECHOS_ESPECIALES_DE_GIRO,balanza_pagos,Flujo de Transacciones | Derechos especiales de giro,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_DERIVADOS_FINANCIEROS,balanza_pagos,Flujo de Transacciones | Derivados financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_GOBIERNO_GENERAL,balanza_pagos,Flujo de Transacciones | Gobierno General,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_INSTRUMENTOS_DE_DEUDA,balanza_pagos,Flujo de Transacciones | Instrumentos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_INVERSION_DE_CARTERA,balanza_pagos,Flujo de Transacciones | Inversión de Cartera,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_INVERSION_DIRECTA,balanza_pagos,Flujo de Transacciones | Inversión Directa,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_MONEDA_Y_DEPOSITOS,balanza_pagos,Flujo de Transacciones | Moneda y depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_ORO_MONETARIO,balanza_pagos,Flujo de Transacciones | Oro monetario,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_OTRAS_CUENTAS_POR_COBRARPAGAR,balanza_pagos,Flujo de Transacciones | Otras cuentas por cobrar/pagar,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_OTRA_INVERSION,balanza_pagos,Flujo de Transacciones | Otra Inversión,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_OTROS_SECTORES,balanza_pagos,Flujo de Transacciones | Otros sectores,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_OTROS_SECTORES_INSTITUCIONALES,balanza_pagos,Flujo de Transacciones | Otros Sectores Institucionales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_OTRO_CAPITAL,balanza_pagos,Flujo de Transacciones | Otro capital,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_PART_DE_CAPITAL_Y_PARTIC_EN_FONDOS_DE_INVERSION,balanza_pagos,Flujo de Transacciones | Part. de capital y partic. en fondos de inversion.,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_PART_DE_CAPITAL_Y_REINVERSION_DE_UTILIDADES,balanza_pagos,Flujo de Transacciones | Part. de capital y reinversión de utilidades,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_PASIVOS,balanza_pagos,Flujo de Transacciones | Pasivos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_POSICION_DE_RESERVA_EN_EL_FMI,balanza_pagos,Flujo de Transacciones | Posición de reserva en el FMI,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_POSICION_NETA,balanza_pagos,Flujo de Transacciones | Posición Neta,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_PRESTAMOS,balanza_pagos,Flujo de Transacciones | Préstamos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_SEGUROS_PENSIONES_Y_OTROS,balanza_pagos,"Flujo de Transacciones | Seguros, pensiones y otros",En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_SOCIEDADES_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de Transacciones | Sociedades captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_SOC_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Flujo de Transacciones | Soc. captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_DE_TRANSACCIONES_TITULOS_DE_DEUDA,balanza_pagos,Flujo de Transacciones | Títulos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_ACTIVOS_DE_RESERVA,balanza_pagos,Flujo Total | Otras | Activos de Reserva,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_ACTIVOS_FINANCIEROS,balanza_pagos,Flujo Total | Otras | Activos Financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_ASIGNACIONES_DEG,balanza_pagos,Flujo Total | Otras | Asignaciones DEG,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_CREDITOS_COMERCIALES,balanza_pagos,Flujo Total | Otras | Créditos comerciales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_DC_EMPRESAS_NO_FINANCIERAS_Y_HOGARES,balanza_pagos,Flujo Total | Otras | d/c Empresas no financieras y hogares,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_DC_SOCIEDADES_CAPTADADORAS_DE_DEPOSITOS,balanza_pagos,Flujo Total | Otras | d/c Sociedades captadadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_DERECHOS_ESPECIALES_DE_GIRO,balanza_pagos,Flujo Total | Otras | Derechos especiales de giro,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_DERIVADOS_FINANCIEROS,balanza_pagos,Flujo Total | Otras | Derivados financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_GOBIERNO_GENERAL,balanza_pagos,Flujo Total | Otras | Gobierno General,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_INSTRUMENTOS_DE_DEUDA,balanza_pagos,Flujo Total | Otras | Instrumentos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_INVERSION_DE_CARTERA,balanza_pagos,Flujo Total | Otras | Inversión de Cartera,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_INVERSION_DIRECTA,balanza_pagos,Flujo Total | Otras | Inversión Directa,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_MONEDA_Y_DEPOSITOS,balanza_pagos,Flujo Total | Otras | Moneda y depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_ORO_MONETARIO,balanza_pagos,Flujo Total | Otras | Oro monetario,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_OTRAS_CUENTAS_POR_COBRARPAGAR,balanza_pagos,Flujo Total | Otras | Otras cuentas por cobrar/pagar,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_OTRA_INVERSION,balanza_pagos,Flujo Total | Otras | Otra Inversión,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_OTROS_SECTORES,balanza_pagos,Flujo Total | Otras | Otros sectores,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_OTROS_SECTORES_INSTITUCIONALES,balanza_pagos,Flujo Total | Otras | Otros Sectores Institucionales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_OTRO_CAPITAL,balanza_pagos,Flujo Total | Otras | Otro capital,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_PART_DE_CAPITAL_Y_PARTIC_EN_FONDOS_DE_INVERSION,balanza_pagos,Flujo Total | Otras | Part. de capital y partic. en fondos de inversion.,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_PART_DE_CAPITAL_Y_REINVERSION_DE_UTILIDADES,balanza_pagos,Flujo Total | Otras | Part. de capital y reinversión de utilidades,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_PASIVOS,balanza_pagos,Flujo Total | Otras | Pasivos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_POSICION_DE_RESERVA_EN_EL_FMI,balanza_pagos,Flujo Total | Otras | Posición de reserva en el FMI,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_POSICION_NETA,balanza_pagos,Flujo Total | Otras | Posición Neta,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_PRESTAMOS,balanza_pagos,Flujo Total | Otras | Préstamos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_SEGUROS_PENSIONES_Y_OTROS,balanza_pagos,"Flujo Total | Otras | Seguros, pensiones y otros",En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_SOCIEDADES_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Flujo Total | Otras | Sociedades captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_SOC_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Flujo Total | Otras | Soc. captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__FLUJO_TOTAL_OTRAS_TITULOS_DE_DEUDA,balanza_pagos,Flujo Total | Otras | Títulos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__GOBIERNO_GENERAL,balanza_pagos,Gobierno General,En millones de $us,2017-01-01,2026-12-01,10,1,2026-01-01
+BALANZA_PAGOS__INGRESO_PRIMARIO,balanza_pagos,Ingreso Primario,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INGRESO_PRIMARIO_2023P,balanza_pagos,Ingreso Primario | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INGRESO_PRIMARIO_2024P,balanza_pagos,Ingreso Primario | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INGRESO_PRIMARIO_2025P,balanza_pagos,Ingreso Primario | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INGRESO_PRIMARIO_2026P,balanza_pagos,Ingreso Primario | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INGRESO_SECUNDARIO,balanza_pagos,Ingreso Secundario,En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INSTRUMENTOS_DE_DEUDA,balanza_pagos,Instrumentos de deuda,En millones de $us,2014-01-01,2026-12-01,14,1,2026-01-01
+BALANZA_PAGOS__INVERSION_BRUTA,balanza_pagos,INVERSIÓN BRUTA,,2014-01-01,2026-01-01,13,1,2026-01-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA,balanza_pagos,Inversión de cartera,En millones de dólares,1996-01-01,2026-12-01,116,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA_2023P,balanza_pagos,Inversión de cartera | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA_2024P,balanza_pagos,Inversión de cartera | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA_2025P,balanza_pagos,Inversión de cartera | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA_2026P,balanza_pagos,Inversión de cartera | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_INSTRUMENTOS_DE_DEUDA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión de cartera | Adquisición neta de activos financieros | Instrumentos de deuda | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_PART_DE_CAPITAL_Y_EN_FONDOS_DE_INVERSION_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión de cartera | Adquisición neta de activos financieros | Part. de capital y en fondos de inversión | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_TITULOS_DE_DEUDA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión de cartera | Adquisición neta de activos financieros | Títulos de deuda | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA_INCURRENCIA_NETA_DE_PASIVOS_INSTRUMENTOS_DE_DEUDA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión de cartera | Incurrencia neta de pasivos | Instrumentos de deuda | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA_INCURRENCIA_NETA_DE_PASIVOS_PART_DE_CAPITAL_Y_EN_FONDOS_DE_INVERSION_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión de cartera | Incurrencia neta de pasivos | Part. de capital y en fondos de inversión | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DE_CARTERA_INCURRENCIA_NETA_DE_PASIVOS_TITULOS_DE_DEUDA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión de cartera | Incurrencia neta de pasivos | Títulos de deuda | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DIRECTA,balanza_pagos,Inversión Directa,En millones de dólares,1996-01-01,2026-12-01,116,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DIRECTA_2023P,balanza_pagos,Inversión Directa | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INVERSION_DIRECTA_2024P,balanza_pagos,Inversión Directa | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INVERSION_DIRECTA_2025P,balanza_pagos,Inversión Directa | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INVERSION_DIRECTA_2026P,balanza_pagos,Inversión Directa | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__INVERSION_DIRECTA_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_INSTRUMENTOS_DE_DEUDA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión directa | Adquisición neta de activos financieros | Instrumentos de deuda | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DIRECTA_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_OTRO_INGRESO_PRIMARIO_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión directa | Adquisición neta de activos financieros | Otro ingreso primario | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DIRECTA_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_PART_DE_CAPITAL_Y_EN_FONDOS_DE_INVERSION_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión directa | Adquisición neta de activos financieros | Part. de capital y en fondos de inversión | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DIRECTA_CREDITO_ENTRE_EMPRESAS,balanza_pagos,Inversión Directa: Crédito entre Empresas,,2017-01-01,2026-01-01,9,1,2026-01-01
+BALANZA_PAGOS__INVERSION_DIRECTA_INCURRENCIA_NETA_DE_PASIVOS_INSTRUMENTOS_DE_DEUDA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión directa | Incurrencia neta de pasivos | Instrumentos de deuda | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DIRECTA_INCURRENCIA_NETA_DE_PASIVOS_PART_DE_CAPITAL_Y_EN_FONDOS_DE_INVERSION_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión directa | Incurrencia neta de pasivos | Part. de capital y en fondos de inversión | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DIRECTA_INGRESO_SECUNDARIO_OTRO_INGRESO_PRIMARIO_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Inversión directa | Ingreso secundario | Otro ingreso primario | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__INVERSION_DIRECTA_NETA_EN_EL_EXTERIOR,balanza_pagos,Inversión Directa neta en el exterior,,2014-01-01,2026-01-01,13,1,2026-01-01
+BALANZA_PAGOS__MONEDA_Y_DEPOSITOS,balanza_pagos,Moneda y depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__NETO_ACTIVOS_DE_RESERVA1,balanza_pagos,Neto | Activos de reserva1,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_ADQUISICIONES_DRDISPOSICIONES_CR_BRUTAS_DE_ACTIVOS_NO_FINANCIEROS_NO_PRODUCIDOS,balanza_pagos,Neto | Adquisiciones (DR.)/disposiciones (CR.) brutas de activos no financieros no producidos,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_ASIGNACIONES_DEG,balanza_pagos,Neto | Asignaciones DEG,En millones de dólares,2021-01-01,2026-11-01,10,4,2026-11-01
+BALANZA_PAGOS__NETO_BIENES,balanza_pagos,Neto | Bienes,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_CARGOS_POR_EL_USO_DE_LA_PROPIEDAD_INTELECTUA,balanza_pagos,Neto | Cargos por el uso de la propiedad intelectua,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_CONSTRUCCION,balanza_pagos,Neto | Construcción,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_CREDITOS_Y_ANTICIPOS_COMERCIALES,balanza_pagos,Neto | Créditos y anticipos comerciales,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_CUENTA_CAPITAL,balanza_pagos,Neto | Cuenta Capital,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_CUENTA_CORRIENTE,balanza_pagos,Neto | Cuenta corriente,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_CUENTA_FINANCIERA,balanza_pagos,Neto | Cuenta financiera,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_DERECHOS_ESPECIALES_DE_GIRO,balanza_pagos,Neto | Derechos especiales de giro,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_DERIVADOS_FINANCIEROS,balanza_pagos,Neto | Derivados Financieros,En millones de dólares,2020-03-31,2026-12-31,20,4,2026-11-01
+BALANZA_PAGOS__NETO_ERRORES_Y_OMISIONES,balanza_pagos,Neto | Errores y Omisiones,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_GOBIERNO_GENERAL,balanza_pagos,Neto | Gobierno general,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_INGRESO_PRIMARIO,balanza_pagos,Neto | Ingreso primario,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_INGRESO_SECUNDARIO,balanza_pagos,Neto | Ingreso secundario,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_INSTRUMENTOS_DE_DEUDA,balanza_pagos,Neto | Instrumentos de deuda,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_INVERSION_DE_CARTERA,balanza_pagos,Neto | Inversión de cartera,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_INVERSION_DIRECTA,balanza_pagos,Neto | Inversión directa,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_MANTENIMIENTO_Y_REPARACIONES,balanza_pagos,Neto | Mantenimiento y reparaciones,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_MANUFACTURA_SOBRE_INSUMOS_FISICOS_PERTENECIENTES_A_OTROS,balanza_pagos,Neto | Manufactura sobre insumos físicos pertenecientes a otros,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_MONEDA_Y_DEPOSITOS,balanza_pagos,Neto | Moneda y depósitos,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_ORO_MONETARIO,balanza_pagos,Neto | Oro monetario,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_OTRAS_CUENTAS_POR_COBRARPOR_PAGAR,balanza_pagos,Neto | Otras cuentas por cobrar/por pagar,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_OTRAS_PARTICIPACIONES_DE_CAPITAL,balanza_pagos,Neto | Otras participaciones de capital,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_OTRA_INVERSION,balanza_pagos,Neto | Otra inversión,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_OTROS_ACTIVOS_DE_RESERVA,balanza_pagos,Neto | Otros activos de reserva,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_OTROS_SERVICIOS_EMPRESARIALES,balanza_pagos,Neto | Otros servicios empresariales,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_OTRO_INGRESO_PRIMARIO,balanza_pagos,Neto | Otro ingreso primario,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_PARTICIPACIONES_DE_CAPITAL_Y_PARTICIPACIONES_EN_FONDOS_DE_INVERSION,balanza_pagos,Neto | Participaciones de capital y participaciones en fondos de inversión,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_POSICION_DE_RESERVA_EN_EL_FMI,balanza_pagos,Neto | Posición de reserva en el FMI,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_PRESTAMOS,balanza_pagos,Neto | Préstamos,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_PRESTAMO_NETO_ENDEUDAMIENTO_NETO_,balanza_pagos,Neto | Préstamo Neto (+)/Endeudamiento neto (-),En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_REMUNERACION_DE_EMPLEADOS,balanza_pagos,Neto | Remuneración de empleados,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_RENTA_DE_LA_INVERSION,balanza_pagos,Neto | Renta de la inversión,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_SEGUROS_PENSIONES_Y_MECANISMOS_NORMALIZADOS_DE_GARANTIA,balanza_pagos,"Neto | Seguros, pensiones y mecanismos normalizados de garantía",En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_SERVICIOS,balanza_pagos,Neto | Servicios,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_SERVICIOS_DE_GOBIERNO_NIOP,balanza_pagos,Neto | Servicios de Gobierno N.I.O.P.,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_SERVICIOS_DE_SEGUROS_Y_PENSIONES,balanza_pagos,Neto | Servicios de seguros y pensiones,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_SERVICIOS_DE_TELECOMUNICACIONES_INFORMATICA_E_INFORMACION,balanza_pagos,"Neto | Servicios de telecomunicaciones, informática e información",En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_SERVICIOS_FINANCIEROS,balanza_pagos,Neto | Servicios financieros,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_SERVICIOS_PERSONALES_CULTURALES_Y_RECREATIVOS,balanza_pagos,"Neto | Servicios personales, culturales y recreativos",En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_SOCIEDADES_FINANCIERAS_SOCIEDADES_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Neto | Sociedades financieras, sociedades no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_TITULOS_DE_DEUDA,balanza_pagos,Neto | Títulos de deuda,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_TRANSFERENCIAS_DE_CAPITAL,balanza_pagos,Neto | Transferencias de capital,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_TRANSPORTE,balanza_pagos,Neto | Transporte,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__NETO_VIAJES,balanza_pagos,Neto | Viajes,En millones de dólares,2014-01-01,2026-12-31,54,3,2026-11-01
+BALANZA_PAGOS__ORO_MONETARIO,balanza_pagos,Oro monetario,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_ACTIVOS_DE_RESERVA,balanza_pagos,Otras | Activos de Reserva,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_ACTIVOS_FINANCIEROS,balanza_pagos,Otras | Activos Financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_ASIGNACIONES_DEG,balanza_pagos,Otras | Asignaciones DEG,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_CREDITOS_COMERCIALES,balanza_pagos,Otras | Créditos comerciales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_CUENTAS_POR_COBRARPAGAR,balanza_pagos,Otras cuentas por cobrar/pagar,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_DC_EMPRESAS_NO_FINANCIERAS_Y_HOGARES,balanza_pagos,Otras | d/c Empresas no financieras y hogares,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_DC_SOCIEDADES_CAPTADADORAS_DE_DEPOSITOS,balanza_pagos,Otras | d/c Sociedades captadadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_DERECHOS_ESPECIALES_DE_GIRO,balanza_pagos,Otras | Derechos especiales de giro,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_DERIVADOS_FINANCIEROS,balanza_pagos,Otras | Derivados financieros,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_GOBIERNO_GENERAL,balanza_pagos,Otras | Gobierno General,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_INSTRUMENTOS_DE_DEUDA,balanza_pagos,Otras | Instrumentos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_INVERSION_DE_CARTERA,balanza_pagos,Otras | Inversión de Cartera,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_INVERSION_DIRECTA,balanza_pagos,Otras | Inversión Directa,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_MONEDA_Y_DEPOSITOS,balanza_pagos,Otras | Moneda y depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_ORO_MONETARIO,balanza_pagos,Otras | Oro monetario,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_OTRAS_CUENTAS_POR_COBRARPAGAR,balanza_pagos,Otras | Otras cuentas por cobrar/pagar,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_OTRA_INVERSION,balanza_pagos,Otras | Otra Inversión,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_OTROS_SECTORES,balanza_pagos,Otras | Otros sectores,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_OTROS_SECTORES_INSTITUCIONALES,balanza_pagos,Otras | Otros Sectores Institucionales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_OTRO_CAPITAL,balanza_pagos,Otras | Otro capital,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_PART_DE_CAPITAL_Y_PARTIC_EN_FONDOS_DE_INVERSION,balanza_pagos,Otras | Part. de capital y partic. en fondos de inversion.,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_PART_DE_CAPITAL_Y_REINVERSION_DE_UTILIDADES,balanza_pagos,Otras | Part. de capital y reinversión de utilidades,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_PASIVOS,balanza_pagos,Otras | Pasivos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_PII_NETA_COMO_PIB,balanza_pagos,Otras | PII Neta como %PIB,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_POSICION_DE_RESERVA_EN_EL_FMI,balanza_pagos,Otras | Posición de reserva en el FMI,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_POSICION_NETA,balanza_pagos,Otras | Posición Neta,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_PRESTAMOS,balanza_pagos,Otras | Préstamos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_SEGUROS_PENSIONES_Y_OTROS,balanza_pagos,"Otras | Seguros, pensiones y otros",En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_SOCIEDADES_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Otras | Sociedades captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_SOCIEDADES_FINANCIERAS,balanza_pagos,Otras Sociedades Financieras,,2017-01-01,2026-01-01,9,1,2026-01-01
+BALANZA_PAGOS__OTRAS_SOCIEDADES_NO_FINANCIERAS,balanza_pagos,Otras Sociedades no Financieras,,2017-01-01,2026-01-01,9,1,2026-01-01
+BALANZA_PAGOS__OTRAS_SOC_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Otras | Soc. captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRAS_TITULOS_DE_DEUDA,balanza_pagos,Otras | Títulos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRA_INVERSION,balanza_pagos,Otra Inversión,En millones de dólares,2014-03-31,2026-12-01,59,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_2023P,balanza_pagos,Otra inversión | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRA_INVERSION_2024P,balanza_pagos,Otra inversión | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRA_INVERSION_2025P,balanza_pagos,Otra inversión | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRA_INVERSION_2026P,balanza_pagos,Otra inversión | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__OTRA_INVERSION_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_CREDITOS_Y_ANTICIPOS_COMERCIALES_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Adquisición neta de activos financieros | Créditos y anticipos comerciales | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_MONEDA_Y_DEPOSITOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Adquisición neta de activos financieros | Moneda y depósitos | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_OTRAS_CUENTAS_POR_COBRARPOR_PAGAR_OTROS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Adquisición neta de activos financieros | Otras cuentas por cobrar/por pagar-otros | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_OTRAS_PARTICIPACIONES_DE_CAPITAL_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Adquisición neta de activos financieros | Otras participaciones de capital | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_PRESTAMOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Adquisición neta de activos financieros | Préstamos | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_SEGUROS_PENSIONES_Y_MECANISMOS_NORMALIZADOS_DE_GARANTIA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Adquisición neta de activos financieros | Seguros, pensiones y mecanismos normalizados de garantía | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_ADQUISICION_NETA_DE_ACTIVOS_FINANCIEROS_TITULOS_DE_DEUDA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Adquisición neta de activos financieros | Títulos de deuda | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_INCURRENCIA_NETA_DE_PASIVOS_CREDITOS_Y_ANTICIPOS_COMERCIALES_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Incurrencia neta de pasivos | Créditos y anticipos comerciales | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_INCURRENCIA_NETA_DE_PASIVOS_DERECHOS_ESPECIALES_DE_GIRO_INCURRENCIA_NETA_DE_PASIVOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Incurrencia neta de pasivos | Derechos especiales de giro (Incurrencia neta de pasivos) | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_INCURRENCIA_NETA_DE_PASIVOS_MONEDA_Y_DEPOSITOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Incurrencia neta de pasivos | Moneda y depósitos | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_INCURRENCIA_NETA_DE_PASIVOS_OTRAS_CUENTAS_POR_COBRARPOR_PAGAR_OTROS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Incurrencia neta de pasivos | Otras cuentas por cobrar/por pagar-otros | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_INCURRENCIA_NETA_DE_PASIVOS_OTRAS_PARTICIPACIONES_DE_CAPITAL_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Incurrencia neta de pasivos | Otras participaciones de capital | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_INCURRENCIA_NETA_DE_PASIVOS_PRESTAMOS_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Incurrencia neta de pasivos | Préstamos | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_INCURRENCIA_NETA_DE_PASIVOS_SEGUROS_PENSIONES_Y_MECANISMOS_NORMALIZADOS_DE_GARANTIA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Incurrencia neta de pasivos | Seguros, pensiones y mecanismos normalizados de garantía | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTRA_INVERSION_INCURRENCIA_NETA_DE_PASIVOS_TITULOS_DE_DEUDA_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Otra inversión | Incurrencia neta de pasivos | Títulos de deuda | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__OTROS_SECTORES,balanza_pagos,Otros sectores,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTROS_SECTORES_INSTITUCIONALES,balanza_pagos,Otros Sectores Institucionales,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__OTROS_SERVICIOS_EMPRESARIALES,balanza_pagos,Otros servicios empresariales,,2014-01-01,2026-01-01,10,1,2026-01-01
+BALANZA_PAGOS__OTRO_CAPITAL,balanza_pagos,Otro capital,En millones de dólares,1996-01-01,2026-12-01,58,2,2026-11-01
+BALANZA_PAGOS__OTRO_FINANCIAMIENTO,balanza_pagos,Otro financiamiento,En millones de dólares,1996-01-01,2013-12-31,57,1,2026-11-01
+BALANZA_PAGOS__PART_DE_CAPITAL_Y_PARTIC_EN_FONDOS_DE_INVERSION,balanza_pagos,Part. de capital y partic. en fondos de inversion.,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__PART_DE_CAPITAL_Y_REINVERSION_DE_UTILIDADES,balanza_pagos,Part. de capital y reinversión de utilidades,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__PASIVOS,balanza_pagos,Pasivos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__PASIVOS_INGRESO_SECUNDARIO_OTRO_INGRESO_PRIMARIO_SOC_FINANCIERAS_NO_FINANCIERAS_HOGARES_E_ISFLSH,balanza_pagos,"Pasivos | Ingreso secundario | Otro ingreso primario | Soc. financieras, no financieras, hogares e ISFLSH",En millones de dólares,2014-01-01,2026-06-30,63,3,2026-11-01
+BALANZA_PAGOS__PIB_EJE_DER,balanza_pagos,% PIB (Eje Der),,2015-01-01,2022-01-01,8,1,2026-01-01
+BALANZA_PAGOS__PIB_EJE_DER_2023P,balanza_pagos,% PIB (Eje Der) | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__PIB_EJE_DER_2024P,balanza_pagos,% PIB (Eje Der) | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__PIB_EJE_DER_2025P,balanza_pagos,% PIB (Eje Der) | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__PIB_EJE_DER_2026P,balanza_pagos,% PIB (Eje Der) | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__PII_NETA_COMO_PIB,balanza_pagos,PII Neta como %PIB,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__POSICION_DE_RESERVA_EN_EL_FMI,balanza_pagos,Posición de reserva en el FMI,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__POSICION_NETA,balanza_pagos,Posición Neta,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__PRESTAMOS,balanza_pagos,Préstamos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__REINVERSION_DE_UTILIDADES,balanza_pagos,Reinversión de utilidades,,2014-01-01,2026-01-01,13,1,2026-01-01
+BALANZA_PAGOS__RENTA,balanza_pagos,Renta,En millones de dólares,1996-01-01,2013-12-31,57,1,2026-11-01
+BALANZA_PAGOS__RENTA_DE_TRABAJADORES,balanza_pagos,Renta de Trabajadores,,2015-01-01,2022-01-01,8,1,2026-01-01
+BALANZA_PAGOS__RENTA_DE_TRABAJADORES_2023P,balanza_pagos,Renta de Trabajadores | 2023p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__RENTA_DE_TRABAJADORES_2024P,balanza_pagos,Renta de Trabajadores | 2024p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__RENTA_DE_TRABAJADORES_2025P,balanza_pagos,Renta de Trabajadores | 2025p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__RENTA_DE_TRABAJADORES_2026P,balanza_pagos,Renta de Trabajadores | 2026p,,2022-01-01,2022-01-01,1,1,2026-01-01
+BALANZA_PAGOS__RESTO_DE_SERVICIOS,balanza_pagos,Resto de servicios,,2014-01-01,2026-01-01,10,1,2026-01-01
+BALANZA_PAGOS__RETIROS_DE_CAPITAL,balanza_pagos,Retiros de capital,,2014-01-01,2026-01-01,13,1,2026-01-01
+BALANZA_PAGOS__SALDO_BIENES,balanza_pagos,Saldo Bienes,En millones de dólares,2014-03-31,2026-06-30,50,2,2026-11-01
+BALANZA_PAGOS__SALDO_BRUTO_DE_LA_DEUDA_EXTERNA,balanza_pagos,Saldo Bruto de la Deuda Externa,,2017-01-01,2026-01-01,9,1,2026-01-01
+BALANZA_PAGOS__SALDO_MERCANCIAS,balanza_pagos,Saldo Mercancías,En millones de dólares,1996-01-01,2013-12-31,57,1,2026-11-01
+BALANZA_PAGOS__SALDO_SERVICIOS,balanza_pagos,Saldo Servicios,En millones de dólares,1996-01-01,2026-06-30,107,2,2026-11-01
+BALANZA_PAGOS__SEGUROS_PENSIONES_Y_OTROS,balanza_pagos,"Seguros, pensiones y otros",En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__SERVICIOS,balanza_pagos,Servicios,,2014-01-01,2026-01-01,13,1,2026-01-01
+BALANZA_PAGOS__SERV_MANUFACTURA_SOBRE_IFPO,balanza_pagos,Serv. Manufactura sobre IFPO,,2014-01-01,2026-01-01,10,1,2026-01-01
+BALANZA_PAGOS__SOCIEDADES_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Sociedades captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__SOCIEDADES_CAPTADORAS_DE_DEPOSITOS_EXCEPTO_EL_BCB,balanza_pagos,Sociedades Captadoras de Depósitos excepto el BCB,,2017-01-01,2026-01-01,9,1,2026-01-01
+BALANZA_PAGOS__SOC_CAPTADORAS_DE_DEPOSITOS,balanza_pagos,Soc. captadoras de depósitos,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__TITULOS_DE_DEUDA,balanza_pagos,Títulos de deuda,En millones de $us,2026-12-01,2026-12-01,1,1,2026-01-01
+BALANZA_PAGOS__TOTAL,balanza_pagos,Total,,2014-01-01,2026-01-01,10,1,2026-01-01
+BALANZA_PAGOS__TOTAL_BALANZA_DE_PAGOS,balanza_pagos,Total Balanza de Pagos,En millones de dólares,1996-01-01,2013-12-31,57,1,2026-11-01
+BALANZA_PAGOS__TRANSFERENCIAS_UNILATERALES_CORRIENTES,balanza_pagos,Transferencias unilaterales corrientes,En millones de dólares,1996-01-01,2013-12-31,57,1,2026-11-01
+BALANZA_PAGOS__TRANSFE_RENCIAS_DE_CAPITAL,balanza_pagos,"Transfe
+rencias de capital",En millones de dólares,1996-01-01,2013-12-31,57,1,2026-11-01
+BALANZA_PAGOS__TRANSPORTE,balanza_pagos,Transporte,,2014-01-01,2026-01-01,10,1,2026-01-01
+BALANZA_PAGOS__VARIACION_DE_RIN,balanza_pagos,Variación de RIN,En millones de dólares,1996-01-01,2013-12-31,57,1,2026-11-01
+BALANZA_PAGOS__VENTA_DE_ACCIONES,balanza_pagos,Venta de acciones,,2014-01-01,2026-01-01,13,1,2026-01-01
+BALANZA_PAGOS__VIAJES,balanza_pagos,Viajes,,2014-01-01,2026-01-01,10,1,2026-01-01
