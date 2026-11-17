@@ -36,7 +36,7 @@ attester:
 El scraper del portal del BCB descarga publicaciones heterogéneas: boletines,
 reportes de tasas, estadísticas semanales, balances monetarios, documentos de
 sistema de pagos, formularios y plantillas. Este script lee
-`documentos-bcb/manifiesto.csv`, clasifica cada archivo en una **familia
+`knowledge/data/documentos/manifiesto.csv`, clasifica cada archivo en una **familia
 tabular** y escribe un catálogo que sirve de entrada al normalizador
 [bcb_tidy_families.py](bcb_tidy_families.md).
 
@@ -48,12 +48,12 @@ tabular** y escribe un catálogo que sirve de entrada al normalizador
 ## Operational Interaction & Example Queries
 
 ```bash
-# Catálogo estándar sobre ./documentos-bcb
+# Catálogo estándar sobre knowledge/data/documentos
 python3 knowledge/pipeline/scripts/03_familias/bcb_families.py
 
 # Rutas explícitas
 python3 knowledge/pipeline/scripts/03_familias/bcb_families.py \
-  --docs documentos-bcb \
+  --docs knowledge/data/documentos \
   --out knowledge/data/familias/catalogo.csv \
   --resumen knowledge/data/familias/resumen_familias.json
 ```
@@ -110,7 +110,7 @@ formularios** y **71 ODS duplicados** como no procesables.
 | `es_formulario` | Marca de formulario o plantilla. |
 | `motivo` | Razón de exclusión, si aplica. |
 | `archivo` | Nombre del archivo. |
-| `relpath` | Ruta relativa dentro de `documentos-bcb/`. |
+| `relpath` | Ruta relativa dentro de `data/documentos/`. |
 | `extension` | Extensión en minúsculas. |
 | `size_bytes` | Tamaño descargado. |
 | `publicacion` | Fecha de publicación inferida (`AAAA-MM-DD`). |

@@ -65,7 +65,7 @@ python3 knowledge/pipeline/scripts/04_tidy/bcb_tidy_families.py --out knowledge/
 
 | Opción | Efecto |
 | :--- | :--- |
-| `--docs` | Corpus descargado (por defecto `documentos-bcb`). |
+| `--docs` | Corpus descargado (por defecto `knowledge/data/documentos`). |
 | `--catalogo` | Catálogo CSV de entrada. |
 | `--out` | Directorio raíz de salida. |
 | `--familias` | Lista separada por comas; vacío significa todas. |

@@ -55,7 +55,7 @@ Script autocontenido (más `requests` y `beautifulsoup4`) que:
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 
-# Descarga completa en ./datos-bcb
+# Descarga completa en knowledge/data/api
 python3 knowledge/pipeline/scripts/01_api/bcb_scraper.py
 
 # Ver el plan sin descargar
@@ -67,7 +67,7 @@ python3 knowledge/pipeline/scripts/01_api/bcb_scraper.py --sector "Sector Extern
 
 | Opción | Efecto |
 | :--- | :--- |
-| `--outdir` | Directorio de salida (por defecto `datos-bcb`). |
+| `--outdir` | Directorio de salida (por defecto `knowledge/data/api`). |
 | `--dry-run` | Imprime el plan y termina. |
 | `--resume` | Reutiliza respuestas crudas existentes. |
 | `--sector` | Limita a uno o más sectores (repetible). |

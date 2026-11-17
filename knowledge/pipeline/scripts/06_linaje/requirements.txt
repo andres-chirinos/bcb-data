@@ -1,0 +1,3 @@
+pandas>=2.0
+# datamesh-sdk: pip install -e /home/andreschirinos/Proyectos/datamesh-sdk/bindings/python
+# (o exporta DATAMESH_SDK con la ruta a bindings/python)
