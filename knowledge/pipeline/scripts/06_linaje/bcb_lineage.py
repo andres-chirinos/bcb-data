@@ -112,9 +112,14 @@ def main() -> int:
     pkg["resources"] = [r for r in pkg["resources"] if not r["name"].startswith(PREFIX)] + resources
     args.package.write_text(json.dumps(pkg, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
-    archived = sum(1 for r in resources for s in r["lineage"]["sources"] if "web.archive.org" in s.get("url", ""))
+    archived = sum(
+        1
+        for r in resources
+        for s in r["lineage"]["sources"]
+        if "web.archive.org" in s.get("url", "") or "archive.org/download/" in s.get("url", "")
+    )
     total = sum(len(r["lineage"]["sources"]) for r in resources)
-    print(f"{len(resources)} recursos | {total} fuentes crudas | {archived} con captura en Wayback")
+    print(f"{len(resources)} recursos | {total} fuentes crudas | {archived} con respaldo")
 
     from datamesh.usecases.dataset_lineage import DatasetLineageUseCase
 

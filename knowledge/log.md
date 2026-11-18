@@ -1,5 +1,10 @@
 # Historial de Actualizaciones
 
+## 2026-11-18
+* **Respaldo completo**: los 1.345 crudos quedaron con enlace permanente; 1.232 capturas en Wayback y 113 archivos en el ítem público `bcb-documentos-respaldo-20261118` de archive.org, verificados por SHA-256.
+* **Respaldo en IA**: los 113 respaldos están en el [ítem público de archive.org](https://archive.org/details/bcb-documentos-respaldo-20261118) y se registraron en [archivo.csv](data/documentos/archivo.csv).
+* **Linaje final**: [bcb_lineage.py](pipeline/bcb_lineage.md) regeneró 32 recursos y 1.144 fuentes, todas con respaldo permanente.
+
 ## 2026-11-16
 * **Creación**: Se generó el bundle OKF v0.2 `bcb_estadisticas_semanales` con 10 sectores, 86 variables y 144 series.
 * **Descarga**: Se extrajeron 469 períodos (31/12/1987 → 6/11/2026) mediante `action=series` y 430 filas de KPI mediante `action=kpis`.

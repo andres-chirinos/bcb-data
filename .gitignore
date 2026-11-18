@@ -1,7 +1,7 @@
 *.har
 __pycache__
 .ruff_cache/
-# Crudos: viven en la Wayback Machine (ver archivo.csv); solo se versionan sus manifiestos
+# Crudos: viven en archive.org (ver archivo.csv); solo se versionan sus manifiestos
 knowledge/data/documentos/*
 !knowledge/data/documentos/manifiesto.csv
 !knowledge/data/documentos/archivo.csv

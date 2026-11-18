@@ -38,8 +38,8 @@ Etapa 06. Por cada `data/familias/<familia>/datos.csv` añade al
 tamaño, filas y series, más un bloque `lineage`:
 
 * `sources`: un documento crudo por cada valor distinto de la columna `archivo`,
-  con su SHA-256 y como `url` la captura de [bcb_archive.py](bcb_archive.md) (o la
-  URL original si aún no existe captura).
+  con su SHA-256 y como `url` la captura de [bcb_archive.py](bcb_archive.md), el
+  respaldo en archive.org o la URL original si aún no existe respaldo.
 * `transformations`: [bcb_families.py](bcb_families.md) y
   [bcb_tidy_families.py](bcb_tidy_families.md) con el hash de cada script.
 
@@ -48,7 +48,7 @@ algún recurso limpio no tiene origen aguas arriba. Consulta posterior:
 `datamesh lineage bcb_estadisticas_semanales:familia_tasas_referencia`.
 
 * Script: [scripts/06_linaje/bcb_lineage.py](scripts/06_linaje/bcb_lineage.py)
-* SHA-256: `sha256:3c7b0372dc6a57605ba311b89f797e90a25963c9593ce36ad592e1b3ffa76939`
+* SHA-256: `sha256:4068b8ddfdfd4176ea8a23cce2b7d429ee25bc23f7c9a10df7264b17bcc411f1`
 * Dependencias: [scripts/06_linaje/requirements.txt](scripts/06_linaje/requirements.txt)
 
 ## Operational Interaction & Example Queries
@@ -70,13 +70,13 @@ La ruta del SDK se toma de `DATAMESH_SDK` (por defecto
 
 ## Data Dictionary & Semantic Anchors
 
-Cada fuente usa `name` = ruta relativa del crudo, `url` = enlace Wayback u
-original, `hash` = `sha256:…`, `format` = extensión y `description` = URL original.
+Cada fuente usa `name` = ruta relativa del crudo, `url` = enlace Wayback, de IA
+o original, `hash` = `sha256:…`, `format` = extensión y `description` = URL original.
 
 ## Methodology, Scope & Biases
 
 * Idempotente: reemplaza los recursos `familia_*` y conserva el resto.
 * Las fuentes salen de lo realmente usado (`archivo` en `datos.csv`), no del catálogo.
-* Estado actual: 32 recursos, 1.144 fuentes crudas, 80 fuentes con captura
-  Wayback, grafo de 1.211 nodos y 2.290 aristas.
+* Estado actual: 32 recursos, 1.144 fuentes crudas con respaldo permanente,
+  grafo de 1.211 nodos y 2.290 aristas.
 

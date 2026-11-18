@@ -1,7 +1,7 @@
 ---
 type: Software Pipeline
-title: bcb_archive.py — archivo de crudos en la Wayback Machine
-description: Pide a Save Page Now una captura de cada documento crudo del manifiesto y registra el enlace permanente como procedencia.
+title: bcb_archive.py — archivo y respaldo de crudos
+description: Captura cada documento crudo en Wayback o lo respalda en archive.org y registra el enlace permanente como procedencia.
 tags:
 - python
 - wayback
@@ -21,6 +21,11 @@ sources:
   title: Internet Archive — Wayback Machine
   author: Banco Central de Bolivia
   last_modified: '2026-11-16T00:00:00Z'
+- id: ia-respaldo
+  resource: https://archive.org/details/bcb-documentos-respaldo-20261118
+  title: Internet Archive — respaldo de crudos BCB
+  author: bcb-data
+  last_modified: '2026-11-18T00:00:00Z'
 - id: portal-bcb
   resource: https://www.bcb.gob.bo/
   title: Portal del Banco Central de Bolivia
@@ -33,16 +38,16 @@ attester:
   resource: scripts/05_archivo/bcb_archive.py
 ---
 
-# bcb_archive.py — archivo de crudos en la Wayback Machine
+# bcb_archive.py — archivo y respaldo de crudos
 
 ## Description & Domain Context
 
 Etapa 05. Lee `manifiesto.csv` y por cada archivo `descargado` obtiene una captura
 de su URL original en la Wayback Machine (reutiliza una existente vía la API
-`available` o solicita una nueva con Save Page Now). Escribe `archivo.csv` con el
-enlace `https://web.archive.org/web/<timestamp>/<url>`. Así el repositorio solo
-conserva datos limpios y cada uno remite a su crudo mediante
-`bcb_lineage.py`.
+`available` o solicita una nueva con Save Page Now). Los crudos que Wayback no
+logra capturar se respaldan en el ítem público `bcb-documentos-respaldo-20261118`
+de archive.org. Así el repositorio solo conserva datos limpios y cada uno remite
+a su crudo mediante `bcb_lineage.py`.
 
 * Script: [scripts/05_archivo/bcb_archive.py](scripts/05_archivo/bcb_archive.py)
 * SHA-256: `sha256:ec128e97f9d4092189be112864d5cdea2acad9e1316f168095a32fb508bec6d0`
@@ -79,8 +84,8 @@ python3 knowledge/pipeline/scripts/05_archivo/bcb_archive.py
 | `url` | URL original en bcb.gob.bo. |
 | `relpath` | Ruta relativa dentro de `data/documentos/`. |
 | `sha256` | Hash del archivo descargado. |
-| `archive_url` | Enlace permanente a la captura. |
-| `snapshot` | Timestamp Wayback `AAAAMMDDhhmmss`. |
+| `archive_url` | Enlace permanente a la captura Wayback o al archivo respaldado en IA. |
+| `snapshot` | Timestamp Wayback `AAAAMMDDhhmmss`; vacío para respaldos de IA. |
 | `status` | `archivado`, `hash_distinto`, `fallo` o `error: …`. |
 | `archived_at` | Momento de la captura (UTC). |
 
@@ -90,7 +95,9 @@ python3 knowledge/pipeline/scripts/05_archivo/bcb_archive.py
 * Wayback puede capturar una versión distinta si el BCB reemplazó el archivo;
   `--verify` lo detecta con `hash_distinto`.
 * Sin red o sin cuota el estado queda `fallo`/`error` y el linaje cae a la URL original.
-* Estado actual: 92 filas en `archivo.csv`, de las cuales 81 están `archivado` y 11
-  `fallo`; 80 de las capturas son usadas por las familias limpias. El script es
+* Estado actual: 2.579 filas en `archivo.csv` para 1.345 URLs únicas, todas
+  `archivado`: 1.232 capturas Wayback y 113 respaldos en el ítem público
+  `bcb-documentos-respaldo-20261118`, verificados por SHA-256. Las 1.144 fuentes
+  usadas por las familias limpias tienen enlace permanente. El script es
   reanudable, por lo que una nueva corrida procesa sólo los pendientes.
 
