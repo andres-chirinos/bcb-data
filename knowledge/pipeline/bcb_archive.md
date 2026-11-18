@@ -95,9 +95,10 @@ python3 knowledge/pipeline/scripts/05_archivo/bcb_archive.py
 * Wayback puede capturar una versión distinta si el BCB reemplazó el archivo;
   `--verify` lo detecta con `hash_distinto`.
 * Sin red o sin cuota el estado queda `fallo`/`error` y el linaje cae a la URL original.
-* Estado actual: 2.579 filas en `archivo.csv` para 1.345 URLs únicas, todas
-  `archivado`: 1.232 capturas Wayback y 113 respaldos en el ítem público
-  `bcb-documentos-respaldo-20261118`, verificados por SHA-256. Las 1.144 fuentes
-  usadas por las familias limpias tienen enlace permanente. El script es
-  reanudable, por lo que una nueva corrida procesa sólo los pendientes.
+* Estado actual: 1.345 filas en `archivo.csv` para las 1.345 URLs únicas del
+  manifiesto, todas `archivado`: 1.232 capturas Wayback y 113 respaldos en el
+  ítem público `bcb-documentos-respaldo-20261118`, verificados por SHA-256. Las
+  1.144 fuentes usadas por las familias limpias tienen enlace permanente. El
+  script es reanudable, por lo que una nueva corrida procesa sólo los
+  pendientes.
 

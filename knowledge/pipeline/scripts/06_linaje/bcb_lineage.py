@@ -64,9 +64,12 @@ def build_resource(fam_dir: Path, manifest: dict[str, dict], archive: dict[str, 
     for relpath in sorted(frame["archivo"].dropna().unique()):
         row = manifest.get(relpath, {})
         original = row.get("url", "")
+        archive_url = archive.get(original, "")
+        if not archive_url:
+            raise ValueError(f"Sin puntero en archivo.csv para: {relpath} ({original})")
         sources.append({
             "name": relpath,
-            "url": archive.get(original) or original,
+            "url": archive_url,
             "format": Path(relpath).suffix.lstrip(".").lower(),
             "hash": f"sha256:{row['sha256']}" if row.get("sha256") else None,
             "description": f"Original: {original}" if original else None,

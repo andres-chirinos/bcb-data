@@ -48,7 +48,7 @@ algún recurso limpio no tiene origen aguas arriba. Consulta posterior:
 `datamesh lineage bcb_estadisticas_semanales:familia_tasas_referencia`.
 
 * Script: [scripts/06_linaje/bcb_lineage.py](scripts/06_linaje/bcb_lineage.py)
-* SHA-256: `sha256:4068b8ddfdfd4176ea8a23cce2b7d429ee25bc23f7c9a10df7264b17bcc411f1`
+* SHA-256: `sha256:38b402f05db1204cf87d86234e657be49cb670cc7018c69f71445e6da0a45dfb`
 * Dependencias: [scripts/06_linaje/requirements.txt](scripts/06_linaje/requirements.txt)
 
 ## Operational Interaction & Example Queries
