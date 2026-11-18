@@ -400,7 +400,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "balanza_pagos"
@@ -1638,7 +1638,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "boletin_estadistico"
@@ -1686,7 +1686,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "deuda_externa_bruta"
@@ -1697,11 +1697,11 @@
     },
     {
       "name": "familia_estadisticas_semanales",
-      "path": "data/familias/estadisticas_semanales/datos.csv",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "bytes": 62643568,
-      "hash": "sha256:026d0dfe1a52c5bdd92fbd121e6ac4bca37f04cf390a99197f778cc03d35a9be",
+      "path": "data/familias/estadisticas_semanales/datos.parquet",
+      "format": "parquet",
+      "mediatype": "application/vnd.apache.parquet",
+      "bytes": 1152448,
+      "hash": "sha256:2c5f92d3e728fa681d7f5f1ed72c3824cc6b4cc090bc05339027853465e447aa",
       "rows": 178176,
       "series": 1294,
       "lineage": {
@@ -2385,7 +2385,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "estadisticas_semanales"
@@ -2440,7 +2440,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "memoria_anual"
@@ -2537,7 +2537,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "posicion_inversion_internacional"
@@ -2585,7 +2585,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "programa_monetario"
@@ -2633,7 +2633,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "resumen_cifras"
@@ -2821,7 +2821,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_externo_comercio_bienes"
@@ -2897,7 +2897,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_externo_comercio_servicios"
@@ -3106,7 +3106,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_externo_deuda_externa"
@@ -3154,7 +3154,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_externo_inversion_directa"
@@ -3286,7 +3286,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_externo_otras_variables"
@@ -3334,7 +3334,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_externo_remesas"
@@ -3389,7 +3389,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_externo_reservas"
@@ -3542,7 +3542,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_monetario_balances_consolidados"
@@ -3604,7 +3604,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_monetario_creditos_depositos_bcb"
@@ -3743,7 +3743,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_monetario_creditos_depositos_osd"
@@ -3805,7 +3805,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_monetario_cuentas_monetarias"
@@ -3895,7 +3895,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_monetario_indicadores"
@@ -3936,7 +3936,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_monetario_tasas_monetarias"
@@ -3977,7 +3977,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_precios_inflacion_nucleo"
@@ -4018,7 +4018,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sector_precios_inflacion_subyacente"
@@ -4640,7 +4640,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "sistema_pagos"
@@ -4863,7 +4863,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "tasas_destino_credito_mensual"
@@ -4874,11 +4874,11 @@
     },
     {
       "name": "familia_tasas_destino_credito_semanal",
-      "path": "data/familias/tasas_destino_credito_semanal/datos.csv",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "bytes": 71543251,
-      "hash": "sha256:9f5f45297472499594a348f190583efb92e0fb4b3ba7a8612284eda4eac9dfa9",
+      "path": "data/familias/tasas_destino_credito_semanal/datos.parquet",
+      "format": "parquet",
+      "mediatype": "application/vnd.apache.parquet",
+      "bytes": 1005452,
+      "hash": "sha256:13af6776eab77b20c73eda9670ef236d1a88cb6c27579758219e4ef5516210d2",
       "rows": 212901,
       "series": 637,
       "lineage": {
@@ -5079,7 +5079,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "tasas_destino_credito_semanal"
@@ -5090,11 +5090,11 @@
     },
     {
       "name": "familia_tasas_diarias",
-      "path": "data/familias/tasas_diarias/datos.csv",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "bytes": 129908591,
-      "hash": "sha256:eef0429dd45f18ed976f7f0251760c776f9bf96e2d12baf9ffc4858adfa4a52e",
+      "path": "data/familias/tasas_diarias/datos.parquet",
+      "format": "parquet",
+      "mediatype": "application/vnd.apache.parquet",
+      "bytes": 1002756,
+      "hash": "sha256:bc7faf6b72689d08e54636a1da1340042b31f5d2555c32bf26ee6c218f140367",
       "rows": 504855,
       "series": 1701,
       "lineage": {
@@ -8046,7 +8046,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "tasas_diarias"
@@ -8087,7 +8087,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "tasas_historicas_anuales"
@@ -8303,7 +8303,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "tasas_historicas_mensuales"
@@ -8526,7 +8526,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "tasas_historicas_semanales"
@@ -9211,7 +9211,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "tasas_publicacion"
@@ -9392,7 +9392,7 @@
           {
             "tool": "bcb_tidy_families.py",
             "type": "python",
-            "hash": "sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906",
+            "hash": "sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b",
             "description": "Aplana cada hoja a un panel tidy (long/wide/category) con unpivotr.",
             "params": {
               "familia": "tasas_referencia"

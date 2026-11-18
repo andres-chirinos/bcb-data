@@ -58,8 +58,14 @@ def read_csv(path: Path) -> list[dict[str, str]]:
 
 
 def build_resource(fam_dir: Path, manifest: dict[str, dict], archive: dict[str, str], pkg_root: Path) -> dict:
-    datos = fam_dir / "datos.csv"
-    frame = pd.read_csv(datos, dtype=str, usecols=["archivo", "serie_id"])
+    parquet = fam_dir / "datos.parquet"
+    datos = parquet if parquet.exists() else fam_dir / "datos.csv"
+    is_parquet = datos.suffix == ".parquet"
+    frame = (
+        pd.read_parquet(datos, columns=["archivo", "serie_id"])
+        if is_parquet
+        else pd.read_csv(datos, dtype=str, usecols=["archivo", "serie_id"])
+    )
     sources = []
     for relpath in sorted(frame["archivo"].dropna().unique()):
         row = manifest.get(relpath, {})
@@ -88,8 +94,8 @@ def build_resource(fam_dir: Path, manifest: dict[str, dict], archive: dict[str, 
     return {
         "name": PREFIX + fam_dir.name,
         "path": datos.relative_to(pkg_root).as_posix(),
-        "format": "csv",
-        "mediatype": "text/csv",
+        "format": "parquet" if is_parquet else "csv",
+        "mediatype": "application/vnd.apache.parquet" if is_parquet else "text/csv",
         "bytes": datos.stat().st_size,
         "hash": f"sha256:{sha256_file(datos)}",
         "rows": len(frame),
@@ -111,7 +117,8 @@ def main() -> int:
     pkg = json.loads(args.package.read_text(encoding="utf-8"))
     root = args.package.parent
 
-    resources = [build_resource(d.parent, manifest, archive, root) for d in sorted(args.familias.glob("*/datos.csv"))]
+    fam_dirs = sorted({p.parent for p in (*args.familias.glob("*/datos.parquet"), *args.familias.glob("*/datos.csv"))})
+    resources = [build_resource(d, manifest, archive, root) for d in fam_dirs]
     pkg["resources"] = [r for r in pkg["resources"] if not r["name"].startswith(PREFIX)] + resources
     args.package.write_text(json.dumps(pkg, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 

@@ -964,13 +964,16 @@ class FamilyOutput:
         self.keep_parts = keep_parts
         self.archivos_path = out_dir / "archivos.csv"
         self.datos_path = out_dir / "datos.csv"
+        self.parquet_path = out_dir / "datos.parquet"
         self.archivos: dict[tuple[str, str], dict[str, str]] = {}
         if resume and self.archivos_path.exists():
             for row in _read_catalog(self.archivos_path):
                 self.archivos[(row.get("archivo", ""), row.get("hoja", ""))] = row
         self.frame: pd.DataFrame | None = None
         self.buffer: list[pd.DataFrame] = []
-        if resume and self.datos_path.exists():
+        if resume and self.parquet_path.exists():
+            self.frame = pd.read_parquet(self.parquet_path)
+        elif resume and self.datos_path.exists():
             self.frame = pd.read_csv(self.datos_path, dtype={"serie_id": str, "fecha": str})
         self.rows = 0
 
@@ -1038,6 +1041,11 @@ class FamilyOutput:
         if not frame.empty:
             frame = frame.sort_values(["serie_id", "fecha", "publicacion"]).reset_index(drop=True)
         frame.to_csv(self.datos_path, index=False)
+        if self.datos_path.stat().st_size > 45 * 1024 * 1024:
+            frame.to_parquet(self.parquet_path, index=False, compression="zstd")
+            self.datos_path.unlink()
+        elif self.parquet_path.exists():
+            self.parquet_path.unlink()
         if not frame.empty:
             series = (
                 frame.groupby("serie_id", dropna=False)

@@ -43,7 +43,7 @@ panel tidy. Los XLS, XLSB y ODS se convierten primero a XLSX con LibreOffice
   (`pandas`, `openpyxl`, `xlrd`, `odfpy`) y el clon local de `unpivotr`
   apuntado por `UNPIVOTR_SRC` (por defecto
   `/home/andreschirinos/Proyectos/unpivotr-clone/src`).
-* SHA-256: `sha256:e8c9c11836643f4b255d59a63f7b4cf51163710727564e948b7c3cef4a8ef906`
+* SHA-256: `sha256:7c55cb290c7e9a00c7022f676853302958d85f27ee95cef94af7ad256046623b`
 
 ## Operational Interaction & Example Queries
 
